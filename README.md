@@ -37,6 +37,8 @@
 <code><a href="https://jquery.com/"><img alt="jQuery" title="jQuery" src="https://github.com/slange-dev/slange-dev/blob/master/jquery.png?raw=true" height="42"></a></code>
 <code><a href="https://mysql.com/"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
 <code><a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" src="https://github.com/slange-dev/slange-dev/blob/master/codeigniter.png?raw=true" height="42"></a></code>
+<code><a href="https://gnupg.org/"><img alt="CodeIgniter" title="CodeIgniter" src="https://github.com/slange-dev/slange-dev/blob/master/gnupg.png?raw=true" height="42"></a></code>
+<code><a href="https://gpg4win.de/"><img alt="GPG4Win" title="GPG4Win" src="https://github.com/slange-dev/slange-dev/blob/master/gpg4win.png?raw=true" height="42"></a></code>
 
 ## :zap: Recent GitHub activitys
 
