@@ -17,8 +17,6 @@
 <code><a href="https://github.com/features/actions/"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
 <code><a href="https://www.ibm.com/"><img alt="IBM" title="IBM" src="https://github.com/slange-dev/slange-dev/blob/master/ibm.png?raw=true" height="42"></a></code>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/slange-dev/slange-dev/blob/master/python.png?raw=true" height="42"></a></code>
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/slange-dev/slange-dev/blob/master/swarm.png?raw=true" height="42"></a></code>
-
 
 ## Environments i work with:
 
