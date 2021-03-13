@@ -1,7 +1,6 @@
 name: misspell
 
 on:
-  push:
   create:
     branches:
       - master
