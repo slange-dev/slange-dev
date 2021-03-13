@@ -3,8 +3,11 @@
 ## My Skills
 
 ## Languages/Frameworks I'm good at:
+
+<code><a href="https://php.com"><img alt="PHP" title="PHP" src="https://github.com/slange-dev/slange-dev/blob/master/php.png?raw=true" height="42"></a></code>
+<code><a href="https://php.com"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
+
 <!--
-<code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
 <code><a href="https://discord.js.org"><img alt="discord.js" title="discord.js" src="https://avatars0.githubusercontent.com/u/26492485" height="42"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/ECMAScript"><img alt="ECMAScript 11" title="ECMAScript 11" src="https://github.com/cheesits456/cheesits456/raw/master/icons/ecmascript.png" height="42"></a></code>
