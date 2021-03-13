@@ -31,6 +31,7 @@
 </code>
 <code><a href="https://php.com"><img alt="PHP" title="PHP" src="https://github.com/slange-dev/slange-dev/blob/master/php.png?raw=true" height="42"></a></code>
 <code><a href="https://mysql.com"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
+<code><a href="https://codeigniter.com"><img alt="CodeIgniter" title="CodeIgniter" src="https://github.com/slange-dev/slange-dev/blob/master/codeigniter.png?raw=true" height="42"></a></code>
 
 ## :zap: Recent GitHub activitys
 
