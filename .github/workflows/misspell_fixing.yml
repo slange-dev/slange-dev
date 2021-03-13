@@ -20,8 +20,10 @@ jobs:
         repository: slange-dev/slange-dev
         
     - uses: sobolevn/misspell-fixer-action@0.1.0
+      with:
+        options: "-rsvn . "
     - uses: peter-evans/create-pull-request@v3.8.2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: 'Fixes by misspell-fixer'
-        title: 'Typos fix by misspell-fixer'
+        commit-message: "Fixes by misspell-fixer"
+        title: "Typos fix by misspell-fixer"
