@@ -28,9 +28,11 @@
 <code><a href="https://github.com/features/actions/"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
 <code><a href="https://www.ibm.com/"><img alt="IBM" title="IBM" src="https://github.com/slange-dev/slange-dev/blob/master/ibm.png?raw=true" height="42"></a></code>
 <code><a href="https://www.centos.org/"><img alt="CentOS" title="CentOS" src="https://github.com/slange-dev/slange-dev/blob/master/centos.png?raw=true" height="42"></a></code>
-<code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://github.com/slange-dev/slange-dev/blob/master/raspberry_pi.png?raw=true" height="42"></a></code>
+<code><a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://github.com/slange-dev/slange-dev/blob/master/raspberry_pi.png?raw=true" height="42"></a></code>
 <code><a href="https://vscodium.com/"><img alt="VSCodium" title="VSCodium" src="https://github.com/slange-dev/slange-dev/blob/master/vscodium.png?raw=true" height="42"></a></code>
-<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a>
+<code><a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a>
+</code>
+<code><a href="https://slack.com/"><img alt="Slack" title="Slack" src="https://github.com/slange-dev/slange-dev/blob/master/slack.png?raw=true" height="42"></a>
 </code>
 
 ## :zap: Recent GitHub activitys
