@@ -42,6 +42,9 @@
 3. 🗣 Commented on [#8](https://github.com/wrljet/hercules-helper/issues/8) in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)
 4. ❗️ Opened issue [#8](https://github.com/wrljet/hercules-helper/issues/8) in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)
 5. 🎉 Merged PR [#34](https://github.com/hoppscotch/hopp-doc-gen/pull/34) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
+<details>
+  <summary>Show More</summary>
+</details>  
 <!--END_SECTION:activity-->
 
 ## :handshake: Contributing
