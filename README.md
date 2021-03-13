@@ -29,9 +29,12 @@
 </code>
 <code><a href="https://slack.com/"><img alt="Slack" title="Slack" src="https://github.com/slange-dev/slange-dev/blob/master/slack.png?raw=true" height="42"></a>
 </code>
-<code><a href="https://php.com"><img alt="PHP" title="PHP" src="https://github.com/slange-dev/slange-dev/blob/master/php.png?raw=true" height="42"></a></code>
-<code><a href="https://mysql.com"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
-<code><a href="https://codeigniter.com"><img alt="CodeIgniter" title="CodeIgniter" src="https://github.com/slange-dev/slange-dev/blob/master/codeigniter.png?raw=true" height="42"></a></code>
+<code><a href="https://php.com/"><img alt="PHP" title="PHP" src="https://github.com/slange-dev/slange-dev/blob/master/php.png?raw=true" height="42"></a></code>
+<code><a href="https://www.w3.org/html/"><img alt="HTML" title="HTML" src="https://github.com/slange-dev/slange-dev/blob/master/html.png?raw=true" height="42"></a></code>
+<code><a href="https://www.w3.org/Style/CSS/"><img alt="CSS" title="CSS" src="https://github.com/slange-dev/slange-dev/blob/master/css.png?raw=true" height="42"></a></code>
+<code><a href="https://jquery.com/"><img alt="jQuery" title="jQuery" src="https://github.com/slange-dev/slange-dev/blob/master/jquery.png?raw=true" height="42"></a></code>
+<code><a href="https://mysql.com/"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
+<code><a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" src="https://github.com/slange-dev/slange-dev/blob/master/codeigniter.png?raw=true" height="42"></a></code>
 
 ## :zap: Recent GitHub activitys
 
