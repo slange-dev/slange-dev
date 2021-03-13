@@ -25,7 +25,7 @@
 <code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://github.com/slange-dev/slange-dev/blob/master/raspberry_pi.png?raw=true" height="42"></a></code>
 <code><a href="https://vscodium.com/"><img alt="VSCodium" title="VSCodium" src="https://github.com/slange-dev/slange-dev/blob/master/vscodium.png?raw=true" height="42"></a></code>
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a>
-
+</code>
 
 ## :zap: Recent GitHub Activity
 
