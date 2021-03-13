@@ -30,6 +30,7 @@
 ## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/13 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 17:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)  
 `[03/13 17:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 16:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)  
@@ -39,10 +40,10 @@
 `[03/13 15:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/11 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
 `[03/10 19:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action)  
-`[03/10 19:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ankitvgupta/ref-to-tag-action](https://github.com/ankitvgupta/ref-to-tag-action)  
 
 <details><summary>Show More</summary>
 
+`[03/10 19:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ankitvgupta/ref-to-tag-action](https://github.com/ankitvgupta/ref-to-tag-action)  
 `[03/10 19:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abinoda/slack-action](https://github.com/abinoda/slack-action)  
 `[03/10 19:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [machine-learning-apps/gpr-docker-publish](https://github.com/machine-learning-apps/gpr-docker-publish)  
 `[03/10 19:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
