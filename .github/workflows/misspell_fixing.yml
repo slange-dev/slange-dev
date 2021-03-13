@@ -23,6 +23,7 @@ jobs:
 
   fix:
     runs-on: ubuntu-latest
+    steps:    
       - name: Misspell Fixing
         id: msf
       - uses: sobolevn/misspell-fixer-action@master
@@ -30,6 +31,7 @@ jobs:
 
   createPullRequest:
     runs-on: ubuntu-latest
+    steps:    
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v3
