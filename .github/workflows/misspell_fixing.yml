@@ -13,17 +13,23 @@ on:
     - cron: "10 2 * * 0"
 
 jobs:
-  createPullRequest:
+  checkout:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         id: chk
       - uses: actions/checkout@v2
 
+
+  fix:
+    runs-on: ubuntu-latest
       - name: Misspell Fixing
         id: msf
       - uses: sobolevn/misspell-fixer-action@master
 
+
+  createPullRequest:
+    runs-on: ubuntu-latest
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v3
