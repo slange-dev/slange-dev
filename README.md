@@ -33,7 +33,7 @@
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a>
 </code>
 
-## :zap: Recent GitHub Activity
+## :zap: Recent GitHub Activitys
 
 <!--START_SECTION:activity-->
 `[03/13 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -135,7 +135,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ![image](https://github.com/slange-dev/slange-dev/blob/master/github_flow.png?raw=true)
 
-## :yellow_heart: Support the project
+## :yellow_heart: Support the projects
 
 If this project was useful to you in some form, I would be glad to have your support.  It will help to keep the project alive and to have more time to work on Open Source.
 
