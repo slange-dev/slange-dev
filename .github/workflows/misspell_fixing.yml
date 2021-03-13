@@ -2,6 +2,7 @@ name: misspell
 
 on:
   create:
+  push:
     branches:
       - master
   schedule:
