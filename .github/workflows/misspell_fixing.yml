@@ -1,0 +1,28 @@
+---
+name: Misspell Fixing
+
+on:
+  # Trigger the workflow on push or pull request,
+  # but only for the main branch
+  push:
+    branches:
+      - master
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+            # Runs at every sunday 14:10
+    - cron: "10 2 * * 0"
+
+jobs:
+    
+  misspell_fix:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sobolevn/misspell-fixer-action@master
+        with:
+          options: '-rsvn src/'      
+      # - uses: peter-evans/create-pull-request@v2.4.4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
