@@ -12,6 +12,7 @@
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
 <code><a href="https://www.docker.org/"><img alt="Docker" title="Docker" src="https://github.com/slange-dev/slange-dev/blob/master/docker.png?raw=true" height="42"></a></code>
 <code><a href="https://www.ansible.com/"><img alt="Ansible" title="Ansible" src="https://github.com/slange-dev/slange-dev/blob/master/ansible.png?raw=true" height="42"></a></code>
+<code><a href="https://www.jenkins.io/"><img alt="Python" title="Python" src="https://github.com/slange-dev/slange-dev/blob/master/jenkins.png?raw=true" height="42"></a></code>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://github.com/slange-dev/slange-dev/blob/master/github2.png?raw=true" height="42"></a></code>
 <code><a href="https://github.com/features/actions/"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
 <code><a href="https://www.ibm.com/"><img alt="IBM" title="IBM" src="https://github.com/slange-dev/slange-dev/blob/master/ibm.png?raw=true" height="42"></a></code>
@@ -22,6 +23,7 @@
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
 <code><a href="https://www.docker.org/"><img alt="Docker" title="Docker" src="https://github.com/slange-dev/slange-dev/blob/master/docker.png?raw=true" height="42"></a></code>
 <code><a href="https://www.ansible.com/"><img alt="Ansible" title="Ansible" src="https://github.com/slange-dev/slange-dev/blob/master/ansible.png?raw=true" height="42"></a></code>
+<code><a href="https://www.jenkins.io/"><img alt="Python" title="Python" src="https://github.com/slange-dev/slange-dev/blob/master/jenkins.png?raw=true" height="42"></a></code>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://github.com/slange-dev/slange-dev/blob/master/github2.png?raw=true" height="42"></a></code>
 <code><a href="https://github.com/features/actions/"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
 <code><a href="https://www.ibm.com/"><img alt="IBM" title="IBM" src="https://github.com/slange-dev/slange-dev/blob/master/ibm.png?raw=true" height="42"></a></code>
