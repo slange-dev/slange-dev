@@ -26,22 +26,18 @@
 -->
 
 ## Environments I work with:
-<!--
-<code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a></code>
-<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
-<code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a></code>
-<code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a></code>
-<code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a></code>
-<code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
-<code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
--->
+
+<code><a href="https://www.centos.org/"><img alt="CentOS" title="CentOS" src="https://github.com/slange-dev/slange-dev/blob/master/centos.png?raw=true" height="42"></a></code>
+<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://github.com/slange-dev/slange-dev/blob/master/github2.png?raw=true" height="42"></a></code>
+<code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://github.com/slange-dev/slange-dev/blob/master/raspberry_pi.png?raw=true" height="42"></a></code>
+<code><a href="https://vscodium.com/"><img alt="VSCodium" title="VSCodium" src="https://github.com/slange-dev/slange-dev/blob/master/vscodium.png?raw=true" height="42"></a></code>
 
 ## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 `[03/13 16:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[03/13 16:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[03/13 15:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/slange-dev/tree/master) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/13 15:08]` <img alt="📂" src="https://github.com/slange-dev/slange-dev/blob/master/github.png?raw=true" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/slange-dev/tree/master) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 15:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/11 20:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
 `[03/10 19:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action)  
