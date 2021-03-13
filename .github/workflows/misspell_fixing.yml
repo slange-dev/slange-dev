@@ -30,8 +30,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           # commit-message: 'Fixes by misspell-fixer'
-          # title: 'Typos fix by misspell-fixer'        
-          title: ${{ steps.vars.outputs.pr_title }}
+          title: 'Typos fix by misspell-fixer'        
+          # title: ${{ steps.vars.outputs.pr_title }}
           body: ${{ steps.vars.outputs.pr_body }}
 
 
