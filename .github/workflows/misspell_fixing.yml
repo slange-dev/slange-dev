@@ -19,12 +19,12 @@ jobs:
       - name: Checkout
       - uses: actions/checkout@v2
 
-      - name: Misspells Fixing
-      - uses: sobolevn/misspell-fixer-action@master
-      
       - name: Make changes to pull request
         run: date +%s > report.txt
 
+      - name: Misspells Fixing
+      - uses: sobolevn/misspell-fixer-action@master
+      
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v3
