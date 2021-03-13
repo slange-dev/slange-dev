@@ -33,6 +33,7 @@
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
 <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
 -->
+
 ## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -43,7 +44,7 @@
 5. 🎉 Merged PR [#34](https://github.com/hoppscotch/hopp-doc-gen/pull/34) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
 <!--END_SECTION:activity-->
 
-## 🤝 Contributing
+## :handshake: Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -53,32 +54,29 @@ Contributions are what make the open source community such an amazing place to b
 4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 5. Push to the Branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request
-<!--
-![image](https://user-images.githubusercontent.com/16810959/29695161-2d8ef9e6-890f-11e7-8b1d-cf3e0c281755.png)
--->
 
 ![image](https://github.com/slange-dev/slange-dev/blob/master/github_flow.png?raw=true)
 
-## 💛 Support the project
+## :yellow_heart: Support the project
 
 If this project was useful to you in some form, I would be glad to have your support.  It will help to keep the project alive and to have more time to work on Open Source.
 
-The sinplest form of support is to give a ⭐️ to this repo.
+The sinplest form of support is to give a :star: to this repo.
 
 You can also contribute with 
 
-<a href="https://www.buymeacoffee.com/slange.dev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/slange.dev" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >
+</a>
 
-## Author
-
-👤 **slange-dev**
+## :bust_in_silhouette: Author
 
 * Website: [https://github.com/slange-dev](https://github.com/slange-dev)
 * Dev.to: [https://dev.to/slangedev](https://dev.to/slangedev)
 * Stackoverflow: [https://stackoverflow.com](https://stackoverflow.com/)
 * Github: [@slange-dev](https://github.com/slange-dev)
 
-## Created
+## :rocket: Created
 
 Created in 2021 by [slange-dev](https://github.com/slange-dev)
 
