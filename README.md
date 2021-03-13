@@ -2,11 +2,6 @@
 
 ## My skills
 
-## Languages / Frameworks i'm good at:
-
-<code><a href="https://php.com"><img alt="PHP" title="PHP" src="https://github.com/slange-dev/slange-dev/blob/master/php.png?raw=true" height="42"></a></code>
-<code><a href="https://php.com"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
-
 ## :books:  Languages / Frameworks i'm learning:
 
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
@@ -18,7 +13,7 @@
 <code><a href="https://www.ibm.com/"><img alt="IBM" title="IBM" src="https://github.com/slange-dev/slange-dev/blob/master/ibm.png?raw=true" height="42"></a></code>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/slange-dev/slange-dev/blob/master/python.png?raw=true" height="42"></a></code>
 
-## Environments i work with:
+## Languages / Frameworks / Environments / Software / Tools i work with:
 
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
 <code><a href="https://www.docker.org/"><img alt="Docker" title="Docker" src="https://github.com/slange-dev/slange-dev/blob/master/docker.png?raw=true" height="42"></a></code>
@@ -34,6 +29,8 @@
 </code>
 <code><a href="https://slack.com/"><img alt="Slack" title="Slack" src="https://github.com/slange-dev/slange-dev/blob/master/slack.png?raw=true" height="42"></a>
 </code>
+<code><a href="https://php.com"><img alt="PHP" title="PHP" src="https://github.com/slange-dev/slange-dev/blob/master/php.png?raw=true" height="42"></a></code>
+<code><a href="https://mysql.com"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
 
 ## :zap: Recent GitHub activitys
 
