@@ -1,7 +1,7 @@
 ## About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square">
 
 ## My skills
-# test: lower than
+# test: lower then
 ## :books:  Launguages / Frameworks i'm learning:
 
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
