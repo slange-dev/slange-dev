@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: sobolevn/misspell-fixer-action@master
-        with:
-          options: '-rsvn src/'      
+        # with:
+          # options: '-rsvn src/'      
       # - uses: peter-evans/create-pull-request@v2.4.4
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
