@@ -19,10 +19,23 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
+      - name: Checkout
       - uses: actions/checkout@v2
+      
+      - name: Fix Misspells
       - uses: sobolevn/misspell-fixer-action@master
+      
+      - name: Create Pull Request
       - uses: peter-evans/create-pull-request@v3.8.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'Fixes by misspell-fixer'
           title: 'Typos fix by misspell-fixer'
+          
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"  
+          
+          
+          
