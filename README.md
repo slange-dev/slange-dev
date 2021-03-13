@@ -1,13 +1,13 @@
 ## About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square">
 
-## My Skills
+## My skills
 
-## Languages/Frameworks I'm good at:
+## Languages / Frameworks i'm good at:
 
 <code><a href="https://php.com"><img alt="PHP" title="PHP" src="https://github.com/slange-dev/slange-dev/blob/master/php.png?raw=true" height="42"></a></code>
 <code><a href="https://php.com"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
 
-## :books:  Languages/Frameworks I'm learning:
+## :books:  Languages / Frameworks i'm learning:
 
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
 <code><a href="https://www.docker.org/"><img alt="Docker" title="Docker" src="https://github.com/slange-dev/slange-dev/blob/master/docker.png?raw=true" height="42"></a></code>
@@ -18,7 +18,7 @@
 <code><a href="https://www.ibm.com/"><img alt="IBM" title="IBM" src="https://github.com/slange-dev/slange-dev/blob/master/ibm.png?raw=true" height="42"></a></code>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/slange-dev/slange-dev/blob/master/python.png?raw=true" height="42"></a></code>
 
-## Environments I work with:
+## Environments i work with:
 
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
 <code><a href="https://www.docker.org/"><img alt="Docker" title="Docker" src="https://github.com/slange-dev/slange-dev/blob/master/docker.png?raw=true" height="42"></a></code>
@@ -33,7 +33,7 @@
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a>
 </code>
 
-## :zap: Recent GitHub Activitys
+## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
 `[03/13 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
