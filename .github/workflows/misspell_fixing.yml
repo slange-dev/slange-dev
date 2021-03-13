@@ -1,5 +1,5 @@
 ---
-name: Misspell Fixing
+name: Building
 
 on:
   # Trigger the workflow on push or pull request,
@@ -17,16 +17,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
+        id: chk
       - uses: actions/checkout@v2
 
       - name: Misspell Fixing
+        id: msf
       - uses: sobolevn/misspell-fixer-action@master
 
       - name: Create Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: 'Fixes by misspell-fixer'
-          title: 'Typos fix by misspell-fixer'        
-          # title: ${{ steps.vars.outputs.pr_title }}
+          commit-message: "Fixes by misspell-fixer"
+          title: "Typos fix by misspell-fixer"
           body: ${{ steps.vars.outputs.pr_body }}
