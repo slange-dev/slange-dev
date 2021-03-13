@@ -43,19 +43,25 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[03/13 23:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [actions/stale](https://github.com/actions/stale)  
+`[03/13 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog)  
+`[03/13 22:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/13 22:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//slange-dev/slange-dev/pull/1 'Typos fix by misspell-fixer') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/13 22:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MilesChou/composer-action](https://github.com/MilesChou/composer-action)  
+`[03/13 22:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shivammathur/setup-php](https://github.com/shivammathur/setup-php)  
 `[03/13 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [softprops/action-gh-release](https://github.com/softprops/action-gh-release)  
 `[03/13 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leanlabsio/kanban](https://github.com/leanlabsio/kanban)  
 `[03/13 22:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [acaudwell/Gource](https://github.com/acaudwell/Gource)  
 `[03/13 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nektos/act](https://github.com/nektos/act)  
+
+<details><summary>Show More</summary>
+
 `[03/13 22:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containrrr/watchtower](https://github.com/containrrr/watchtower)  
 `[03/13 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dunklesToast/DockerKit](https://github.com/dunklesToast/DockerKit)  
 `[03/13 22:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [slatedocs/slate](https://github.com/slatedocs/slate)  
 `[03/13 22:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible-community/molecule](https://github.com/ansible-community/molecule)  
 `[03/13 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-
-<details><summary>Show More</summary>
-
 `[03/13 22:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sobolevn/restrict-cursing-action](https://github.com/sobolevn/restrict-cursing-action)  
 `[03/13 22:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)  
 `[03/13 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -135,7 +141,7 @@
 `[01/14 16:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
 `[01/14 16:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
 `[01/14 16:18]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//wrljet/hercules-helper/issues/8 'Check OS function not working correct: syntax error in expression') in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
-`[01/12 20:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `67` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
+`[01/12 20:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `61` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
 
 </details>
 <!--END_SECTION:activity-->
