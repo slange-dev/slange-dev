@@ -43,19 +43,22 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[03/13 20:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/13 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/13 22:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sobolevn/restrict-cursing-action](https://github.com/sobolevn/restrict-cursing-action)  
+`[03/13 22:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)  
+`[03/13 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 20:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request)  
 `[03/13 20:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 19:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sobolevn/misspell-fixer-action](https://github.com/sobolevn/misspell-fixer-action)  
 `[03/13 19:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fabasoad/setup-cobol-action](https://github.com/fabasoad/setup-cobol-action)  
 `[03/13 19:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FranzDiebold/github-env-vars-action](https://github.com/FranzDiebold/github-env-vars-action)  
 `[03/13 19:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cuchi/jinja2-action](https://github.com/cuchi/jinja2-action)  
-`[03/13 19:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [skx/github-action-publish-binaries](https://github.com/skx/github-action-publish-binaries)  
-`[03/13 19:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zyborg/gh-action-buildnum](https://github.com/zyborg/gh-action-buildnum)  
-`[03/13 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `39` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 <details><summary>Show More</summary>
 
+`[03/13 19:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [skx/github-action-publish-binaries](https://github.com/skx/github-action-publish-binaries)  
+`[03/13 19:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zyborg/gh-action-buildnum](https://github.com/zyborg/gh-action-buildnum)  
+`[03/13 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `39` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 17:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)  
 `[03/13 17:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 16:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)  
@@ -126,10 +129,6 @@
 `[01/12 20:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `72` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
 `[01/11 01:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/Ansible/tree/master) in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
 `[01/11 01:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
-`[01/10 23:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
-`[01/10 21:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/Ansible/tree/master) in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
-`[01/10 21:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
-`[01/10 21:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
 
 </details>
 <!--END_SECTION:activity-->
