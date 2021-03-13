@@ -19,20 +19,20 @@ jobs:
       # - name: Checkout
       # - uses: actions/checkout@v2
 
-      - name: Set output variables
-        id: vars
-        run: |
-          echo ::set-output name=pr_title::"[Test] Add report file $(date +%d-%m-%Y)"
-          echo ::set-output name=pr_body::"This PR was auto-generated on $(date +%d-%m-%Y) \
-            by [create-pull-request](https://github.com/peter-evans/create-pull-request)."
+      #- name: Set output variables
+        #id: vars
+        #run: |
+          #echo ::set-output name=pr_title::"[Test] Add report file $(date +%d-%m-%Y)"
+          #echo ::set-output name=pr_body::"This PR was auto-generated on $(date +%d-%m-%Y) \
+            #by [create-pull-request](https://github.com/peter-evans/create-pull-request)."
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # commit-message: 'Fixes by misspell-fixer'
-          # title: 'Typos fix by misspell-fixer'        
+          commit-message: 'Fixes by misspell-fixer'
+          title: 'Typos fix by misspell-fixer'        
           # title: ${{ steps.vars.outputs.pr_title }}
-          # body: ${{ steps.vars.outputs.pr_body }}
+          body: ${{ steps.vars.outputs.pr_body }}
 
 
 
