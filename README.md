@@ -43,9 +43,19 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[03/14 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 04:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 03:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 03:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lukka/run-cmake](https://github.com/lukka/run-cmake)  
+`[03/14 03:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 03:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `slange-dev-patch-1` from [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 03:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//slange-dev/docker-centos8-ansible/pull/1 'Update Dockerfile') in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 03:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [metcalfc/changelog-generator](https://github.com/metcalfc/changelog-generator)  
 `[03/14 03:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+
+<details><summary>Show More</summary>
+
 `[03/14 02:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [actions/runner](https://github.com/actions/runner)  
 `[03/14 02:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fabasoad/translation-action](https://github.com/fabasoad/translation-action)  
 `[03/14 02:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages)  
@@ -53,9 +63,6 @@
 `[03/14 01:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 01:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tibdex/autosquash](https://github.com/tibdex/autosquash)  
 `[03/14 01:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-
-<details><summary>Show More</summary>
-
 `[03/14 01:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action)  
 `[03/14 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arillso/action.playbook](https://github.com/arillso/action.playbook)  
 `[03/14 01:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
@@ -166,16 +173,6 @@
 `[01/14 16:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/mvs38dasm](https://github.com/moshix/mvs38dasm)  
 `[01/14 16:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/RELAYServices](https://github.com/moshix/RELAYServices)  
 `[01/14 16:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/proxy3270](https://github.com/moshix/proxy3270)  
-`[01/14 16:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [moshix/nje38mvs](https://github.com/moshix/nje38mvs) to [slange-dev/nje38mvs](https://github.com/slange-dev/nje38mvs)  
-`[01/14 16:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/nje38mvs](https://github.com/moshix/nje38mvs)  
-`[01/14 16:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [moshix/mvs](https://github.com/moshix/mvs) to [slange-dev/mvs](https://github.com/slange-dev/mvs)  
-`[01/14 16:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/mvs](https://github.com/moshix/mvs)  
-`[01/14 16:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [hercules-390/SoftFloat-3a](https://github.com/hercules-390/SoftFloat-3a) to [slange-dev/SoftFloat-3a](https://github.com/slange-dev/SoftFloat-3a)  
-`[01/14 16:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hercules-390/SoftFloat-3a](https://github.com/hercules-390/SoftFloat-3a)  
-`[01/14 16:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [hercules-390/hyperion](https://github.com/hercules-390/hyperion) to [slange-dev/hyperion](https://github.com/slange-dev/hyperion)  
-`[01/14 16:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hercules-390/hyperion](https://github.com/hercules-390/hyperion)  
-`[01/14 16:23]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper) to [slange-dev/hercules-helper](https://github.com/slange-dev/hercules-helper)  
-`[01/14 16:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
 
 </details>
 <!--END_SECTION:activity-->
