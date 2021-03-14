@@ -43,6 +43,20 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[03/14 00:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 00:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)  
+`[03/14 00:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 00:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//slange-dev/docker-centos8-ansible/pull/1 'Update Dockerfile') in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 00:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-patch-1`](https://github.com/slange-dev/docker-centos8-ansible/tree/slange-dev-patch-1) in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/13 23:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitoiu/release-notify-action](https://github.com/bitoiu/release-notify-action)  
+`[03/13 23:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cirrus-actions/rebase](https://github.com/cirrus-actions/rebase)  
+`[03/13 23:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jenkinsci/jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions)  
+`[03/13 23:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BryanSchuetz/jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)  
+
+<details><summary>Show More</summary>
+
+`[03/13 23:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Andrew-Chen-Wang/github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action)  
 `[03/13 23:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ad-m/github-push-action](https://github.com/ad-m/github-push-action)  
 `[03/13 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abinoda/assignee-to-reviewer-action](https://github.com/abinoda/assignee-to-reviewer-action)  
 `[03/13 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)  
@@ -53,9 +67,6 @@
 `[03/13 23:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [actions/delete-package-versions](https://github.com/actions/delete-package-versions)  
 `[03/13 23:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [actions/stale](https://github.com/actions/stale)  
 `[03/13 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog)  
-
-<details><summary>Show More</summary>
-
 `[03/13 22:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 22:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//slange-dev/slange-dev/pull/1 'Typos fix by misspell-fixer') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 22:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MilesChou/composer-action](https://github.com/MilesChou/composer-action)  
@@ -149,7 +160,7 @@
 `[01/14 16:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
 `[01/14 16:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
 `[01/14 16:18]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//wrljet/hercules-helper/issues/8 'Check OS function not working correct: syntax error in expression') in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
-`[01/12 20:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `53` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
+`[01/12 20:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
 
 </details>
 <!--END_SECTION:activity-->
