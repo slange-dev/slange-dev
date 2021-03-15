@@ -2,7 +2,7 @@
 
 ## My skills
 # test: lower than
-## :books:  Launguages / Frameworks i'm learning:
+## :books:  Languages / Frameworks / Environments / Software / Tools i'm learning:
 
 <code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
 <code><a href="https://www.docker.org/"><img alt="Docker" title="Docker" src="https://github.com/slange-dev/slange-dev/blob/master/docker.png?raw=true" height="42"></a></code>
