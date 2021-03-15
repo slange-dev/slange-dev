@@ -188,8 +188,10 @@ Contributions are what make the open source community such an amazing place to b
 
 ![image](https://github.com/slange-dev/slange-dev/blob/master/github_flow.png?raw=true)
 
-* GitHub Flow: [GitHub Flow](https://guides.github.com/introduction/flow/)
+#### Useful links:
 
+* GitHub Flow: [GitHub Flow](https://guides.github.com/introduction/flow/)
+* Learn Git Branching: [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## :yellow_heart: Support the projects
 
