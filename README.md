@@ -43,7 +43,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[03/15 01:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/15 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/14 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lannonbr/issue-label-manager-action](https://github.com/lannonbr/issue-label-manager-action)  
 `[03/14 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alex-page/github-project-automation-plus](https://github.com/alex-page/github-project-automation-plus)  
 `[03/14 05:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
@@ -171,7 +171,6 @@
 `[01/15 18:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aws-samples/mainframe-ibm-zdt-zos-aws](https://github.com/aws-samples/mainframe-ibm-zdt-zos-aws)  
 `[01/14 19:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//wrljet/hercules-helper/issues/8 'Check OS function not working correct: syntax error in expression') in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
 `[01/14 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/rexxpanels](https://github.com/moshix/rexxpanels)  
-`[01/14 16:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/rexxwebserver](https://github.com/moshix/rexxwebserver)  
 
 </details>
 <!--END_SECTION:activity-->
