@@ -193,7 +193,7 @@ Contributions are what make the open source community such an amazing place to b
 * GitHub Flow: [GitHub Flow](https://guides.github.com/introduction/flow/)
 * Learn Git Branching: [Learn Git Branching](https://learngitbranching.js.org/)
 * Visualizing Git: [Visualizing Git](https://git-school.github.io/visualizing-git/)
-
+* Git-It: [Git-It](https://github.com/jlord/git-it-electron)
 
 ## :yellow_heart: Support the projects
 
