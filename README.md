@@ -43,6 +43,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[03/26 23:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anudeepND/whitelist](https://github.com/anudeepND/whitelist)  
 `[03/19 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS)  
 `[03/18 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/15 07:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)  
@@ -52,10 +53,10 @@
 `[03/14 05:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 04:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 03:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[03/14 03:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lukka/run-cmake](https://github.com/lukka/run-cmake)  
 
 <details><summary>Show More</summary>
 
+`[03/14 03:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lukka/run-cmake](https://github.com/lukka/run-cmake)  
 `[03/14 03:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 03:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `slange-dev-patch-1` from [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
@@ -170,7 +171,6 @@
 `[01/21 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
 `[01/19 13:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//wrljet/hercules-helper/issues/8 'Check OS function not working correct: syntax error in expression') in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
 `[01/19 13:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//wrljet/hercules-helper/issues/8 'Check OS function not working correct: syntax error in expression') in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
-`[01/16 14:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [archf/ansible-openssh-server](https://github.com/archf/ansible-openssh-server) to [slange-dev/ansible-openssh-server](https://github.com/slange-dev/ansible-openssh-server)  
 
 </details>
 <!--END_SECTION:activity-->
