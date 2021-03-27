@@ -43,6 +43,8 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[03/26 23:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google)  
+`[03/26 23:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool)  
 `[03/26 23:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anudeepND/whitelist](https://github.com/anudeepND/whitelist)  
 `[03/19 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS)  
 `[03/18 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -51,11 +53,11 @@
 `[03/14 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lannonbr/issue-label-manager-action](https://github.com/lannonbr/issue-label-manager-action)  
 `[03/14 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alex-page/github-project-automation-plus](https://github.com/alex-page/github-project-automation-plus)  
 `[03/14 05:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[03/14 04:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[03/14 03:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 
 <details><summary>Show More</summary>
 
+`[03/14 04:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 03:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 03:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lukka/run-cmake](https://github.com/lukka/run-cmake)  
 `[03/14 03:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 03:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `slange-dev-patch-1` from [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
@@ -169,8 +171,6 @@
 `[01/21 20:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
 `[01/21 20:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action)  
 `[01/21 20:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/Ansible](https://github.com/slange-dev/Ansible)  
-`[01/19 13:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//wrljet/hercules-helper/issues/8 'Check OS function not working correct: syntax error in expression') in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
-`[01/19 13:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//wrljet/hercules-helper/issues/8 'Check OS function not working correct: syntax error in expression') in [wrljet/hercules-helper](https://github.com/wrljet/hercules-helper)  
 
 </details>
 <!--END_SECTION:activity-->
