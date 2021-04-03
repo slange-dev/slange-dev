@@ -188,8 +188,8 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project (`git`)
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+1. Fork the Project (`git clone https://github.com/slange-dev/....git` OR `git clone git://github.com/slange-dev/...git`)
+2. Create your Feature or Bugfix Branch (`git checkout -b feature/AmazingFeatureName` OR `bugfix/AmazingBugFixName`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
