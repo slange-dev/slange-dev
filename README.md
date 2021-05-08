@@ -188,7 +188,6 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 `[02/16 18:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VSCodium/vscodium](https://github.com/VSCodium/vscodium)  
 `[02/16 18:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/vscode](https://github.com/microsoft/vscode)  
 `[02/15 00:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shiftkey/desktop](https://github.com/shiftkey/desktop)  
-`[02/08 00:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/ansible](https://github.com/ansible/ansible)  
 
 </details>
 <!--END_SECTION:activity-->
