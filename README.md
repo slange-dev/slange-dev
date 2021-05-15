@@ -199,9 +199,9 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-📊 **This week I spent my time on**
+📊 ## This week I spent my time on
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=slange-dev&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=slangedev&hide_title=true&hide_border=true&langs_count=5)
 
 ## :handshake: Contributing
 
