@@ -199,6 +199,10 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=slange-dev&hide_title=true&hide_border=true&langs_count=5)
+
 ## :handshake: Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
