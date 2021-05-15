@@ -51,7 +51,7 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[05/15 07:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[05/15 08:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/15 07:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)  
 `[05/04 22:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [johnlindquist/kit](https://github.com/johnlindquist/kit)  
 `[05/03 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lmenezes/cerebro](https://github.com/lmenezes/cerebro)  
@@ -183,10 +183,6 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 `[03/01 18:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [probot/stale](https://github.com/probot/stale)  
 `[03/01 03:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/docker-centos8-ansible](https://github.com/geerlingguy/docker-centos8-ansible)  
 `[03/01 02:57]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [geerlingguy/ansible-role-repo-epel](https://github.com/geerlingguy/ansible-role-repo-epel) to [slange-dev/ansible-role-repo-epel](https://github.com/slange-dev/ansible-role-repo-epel)  
-`[02/28 05:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [docker/login-action](https://github.com/docker/login-action)  
-`[02/28 01:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-swap](https://github.com/geerlingguy/ansible-role-swap)  
-`[02/28 01:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-git](https://github.com/geerlingguy/ansible-role-git)  
-`[02/27 22:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chubchubsancho/ansible-pi-hole](https://github.com/chubchubsancho/ansible-pi-hole)  
 
 </details>
 <!--END_SECTION:activity-->
