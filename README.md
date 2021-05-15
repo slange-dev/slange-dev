@@ -192,23 +192,24 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 <!--END_SECTION:activity-->
 
 
-### Blog Posts
+## Blog Posts
 
-## Dev.to Community
+### Dev.to Community
 
 <!-- DEVTO:START -->
 - [Test Post](https://dev.to/slangedev/test-post-1naa)
 <!-- DEVTO:END -->
 
-## StackOverflow Community
+### StackOverflow Community
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-## Medium Community
+### Medium Community
 
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
+
 
 ## This week I spent my time on
 
