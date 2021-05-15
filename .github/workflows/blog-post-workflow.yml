@@ -1,9 +1,11 @@
-name: Latest blog post workflow
+name: Update blog posts
 on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
-  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -11,7 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: khaosdoctor/blog-post-workflow@master
+        with:
+          comment_tag_name: DEVTO
+          commit_message: "Updated readme with the latest Dev.to data"          
+          feed_list: "https://dev.to/feed/slangedev"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/slangedev,https://medium.com/feed/@slange-dev,https://stackoverflow.com/feeds/user/15338883"
+          comment_tag_name: MEDIUM
+          commit_message: "Updated readme with the latest Medium data"          
+          feed_list: "https://medium.com/feed/@slangedev"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: STACKOVERFLOW
+          commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/15338883"
