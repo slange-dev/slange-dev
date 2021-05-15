@@ -191,6 +191,10 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 </details>
 <!--END_SECTION:activity-->
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## :handshake: Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
