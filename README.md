@@ -51,6 +51,8 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[05/15 07:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[05/15 07:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)  
 `[05/04 22:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [johnlindquist/kit](https://github.com/johnlindquist/kit)  
 `[05/03 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lmenezes/cerebro](https://github.com/lmenezes/cerebro)  
 `[05/02 22:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheMorpheus407/Python-Lets-Code](https://github.com/TheMorpheus407/Python-Lets-Code)  
@@ -59,11 +61,11 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 `[04/24 15:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FOGProject/fogproject](https://github.com/FOGProject/fogproject)  
 `[04/18 12:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
 `[04/05 20:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OoRudYoO/PROXMOX-api-bash](https://github.com/OoRudYoO/PROXMOX-api-bash)  
-`[04/05 18:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-netbox](https://github.com/mrlesmithjr/ansible-netbox)  
-`[04/05 18:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-mariadb-galera-cluster](https://github.com/mrlesmithjr/ansible-mariadb-galera-cluster)  
 
 <details><summary>Show More</summary>
 
+`[04/05 18:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-netbox](https://github.com/mrlesmithjr/ansible-netbox)  
+`[04/05 18:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-mariadb-galera-cluster](https://github.com/mrlesmithjr/ansible-mariadb-galera-cluster)  
 `[04/03 10:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/01 17:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fwbuilder/fwbuilder](https://github.com/fwbuilder/fwbuilder)  
 `[04/01 16:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rectorphp/rector](https://github.com/rectorphp/rector)  
@@ -185,8 +187,6 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 `[02/28 01:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-swap](https://github.com/geerlingguy/ansible-role-swap)  
 `[02/28 01:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-git](https://github.com/geerlingguy/ansible-role-git)  
 `[02/27 22:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chubchubsancho/ansible-pi-hole](https://github.com/chubchubsancho/ansible-pi-hole)  
-`[02/16 18:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VSCodium/vscodium](https://github.com/VSCodium/vscodium)  
-`[02/16 18:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/vscode](https://github.com/microsoft/vscode)  
 
 </details>
 <!--END_SECTION:activity-->
