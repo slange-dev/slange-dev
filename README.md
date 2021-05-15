@@ -191,23 +191,26 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 </details>
 <!--END_SECTION:activity-->
 
-### Dev Community
+
+### Blog Posts
+
+## Dev.to Community
 
 <!-- DEVTO:START -->
 - [Test Post](https://dev.to/slangedev/test-post-1naa)
 <!-- DEVTO:END -->
 
-### StackOverflow Activity
+## StackOverflow Community
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-### Medium
+## Medium Community
 
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
 
-📊 This week I spent my time on
+## This week I spent my time on
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=slange_dev&hide_title=true&hide_border=true&langs_count=5)
 
