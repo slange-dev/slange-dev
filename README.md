@@ -1,4 +1,4 @@
-## About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square">
+## :mag: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square">
 
 i am 40 years old and work as a second level windows administrator and support also ibm mainframe products,
 besides work I like to learn new technologies and programming languages.
@@ -7,7 +7,7 @@ Over 20 years ago I started to be interested in Windows administration, and make
 the next step i started learned linux administration, followed from learning programming with php/mysql,
 Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 
-## My skills
+## :desktop_computer: My skills
 # test: lower than
 
 ## :books:  Languages / Frameworks / Environments / Software / Tools i'm learning:
