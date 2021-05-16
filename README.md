@@ -51,6 +51,7 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[05/16 22:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gantsign/ansible-role-visual-studio-code-extensions](https://github.com/gantsign/ansible-role-visual-studio-code-extensions)  
 `[05/16 21:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard)  
 `[05/16 21:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pfelk/ansible](https://github.com/pfelk/ansible)  
 `[05/16 14:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -60,10 +61,10 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 `[05/15 10:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coreprocess/linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation)  
 `[05/15 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/15 07:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)  
-`[05/04 22:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [johnlindquist/kit](https://github.com/johnlindquist/kit)  
 
 <details><summary>Show More</summary>
 
+`[05/04 22:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [johnlindquist/kit](https://github.com/johnlindquist/kit)  
 `[05/03 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lmenezes/cerebro](https://github.com/lmenezes/cerebro)  
 `[05/02 22:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheMorpheus407/Python-Lets-Code](https://github.com/TheMorpheus407/Python-Lets-Code)  
 `[04/28 20:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
