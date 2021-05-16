@@ -225,7 +225,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ![image](https://github.com/slange-dev/slange-dev/blob/master/github_flow.png?raw=true)
 
-## HowTo learn Git/GitHub:
+## HowTo learn Git & GitHub
 
 #### Git Documentation
 * Git - Documentation: [Git - Documentation](https://git-scm.com/doc)
