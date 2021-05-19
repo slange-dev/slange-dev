@@ -18,11 +18,11 @@ jobs:
           comment_tag_name: DEVTO
           #commit_message: "Updated readme with the latest Dev.to data"          
           feed_list: "https://dev.to/feed/slangedev"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: MEDIUM
+      #- uses: gautamkrishnar/blog-post-workflow@master
+        #with:
+          #comment_tag_name: MEDIUM
           #commit_message: "Updated readme with the latest Medium data"          
-          feed_list: "https://medium.com/feed/@slangedev"
+          #feed_list: "https://medium.com/feed/@slangedev"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: STACKOVERFLOW
