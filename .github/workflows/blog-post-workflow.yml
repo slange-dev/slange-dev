@@ -20,9 +20,9 @@ jobs:
           feed_list: "https://dev.to/feed/slangedev"
       #- uses: gautamkrishnar/blog-post-workflow@master
         #with:
-          #comment_tag_name: MEDIUM
+          comment_tag_name: MEDIUM
           #commit_message: "Updated readme with the latest Medium data"          
-          #feed_list: "https://medium.com/feed/@slangedev"
+          feed_list: "https://medium.com/feed/@slange-dev"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: STACKOVERFLOW
