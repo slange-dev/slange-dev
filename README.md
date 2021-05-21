@@ -51,7 +51,7 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[05/19 21:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[05/21 18:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/17 15:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 `[05/17 11:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cobbler/cobbler](https://github.com/cobbler/cobbler)  
 `[05/16 23:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync)  
@@ -191,7 +191,6 @@ Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 `[03/06 05:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[03/06 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/05 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible-collections/ansible.netcommon](https://github.com/ansible-collections/ansible.netcommon)  
-`[03/04 18:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [octodemo/awesome-actions](https://github.com/octodemo/awesome-actions)  
 
 </details>
 <!--END_SECTION:activity-->
