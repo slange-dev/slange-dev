@@ -8,7 +8,7 @@ the next step i started learned linux administration, followed from learning pro
 Webhacking, IBM Mainframe, DevOps, and so on and on, all self taught.
 
 ## :desktop_computer: My skills
-# test: Lower Than
+Test: Lower Than
 
 ## :books:  Languages / Frameworks / Environments / Software / Tools i'm learning:
 
