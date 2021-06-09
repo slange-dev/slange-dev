@@ -15,16 +15,13 @@ jobs:
       - uses: actions/checkout@v2
       - uses: khaosdoctor/blog-post-workflow@master
         with:
-          comment_tag_name: DEVTO
-          #commit_message: "Updated readme with the latest Dev.to data"          
+          comment_tag_name: "DEVTO"
           feed_list: "https://dev.to/feed/slangedev"
       #- uses: gautamkrishnar/blog-post-workflow@master
         #with:
-          comment_tag_name: MEDIUM
-          #commit_message: "Updated readme with the latest Medium data"          
-          feed_list: "https://medium.com/feed/@slange-dev"
+          #comment_tag_name: "MEDIUM"
+          #feed_list: "https://medium.com/feed/@slange-dev"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: STACKOVERFLOW
-          #commit_message: "Updated readme with the latest stackOverflow data"
+          comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/15338883"
