@@ -51,7 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[06/10 18:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/docker-debian8-ansible](https://github.com/slange-dev/docker-debian8-ansible)  
+`[06/10 19:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/docker-debian8-ansible](https://github.com/slange-dev/docker-debian8-ansible)  
 `[06/10 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[06/10 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/docker-debian8-ansible](https://github.com/slange-dev/docker-debian8-ansible)  
 `[06/10 17:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/docker-debian8-ansible/tree/master) in [slange-dev/docker-debian8-ansible](https://github.com/slange-dev/docker-debian8-ansible)  
@@ -217,9 +217,7 @@ Test: Lower Than
 `[03/13 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 22:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sobolevn/restrict-cursing-action](https://github.com/sobolevn/restrict-cursing-action)  
 `[03/13 22:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)  
-`[03/13 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[03/13 20:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request)  
-`[03/13 20:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/13 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
