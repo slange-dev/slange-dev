@@ -51,8 +51,19 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[06/10 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-ubuntu1604-ansible](https://github.com/slange-dev/docker-ubuntu1604-ansible)  
+`[06/10 15:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu2004-ansible](https://github.com/slange-dev/docker-ubuntu2004-ansible)  
+`[06/10 15:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-ubuntu1604-ansible](https://github.com/slange-dev/docker-ubuntu1604-ansible)  
+`[06/10 15:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/docker-ubuntu1604-ansible/tree/master) in [slange-dev/docker-ubuntu1604-ansible](https://github.com/slange-dev/docker-ubuntu1604-ansible)  
+`[06/10 15:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/docker-ubuntu1604-ansible](https://github.com/slange-dev/docker-ubuntu1604-ansible)  
+`[06/10 15:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[06/10 15:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
+`[06/10 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[06/10 15:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-ubuntu2004-ansible](https://github.com/slange-dev/docker-ubuntu2004-ansible)  
 `[06/10 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-ubuntu1804-ansible](https://github.com/slange-dev/docker-ubuntu1804-ansible)  
+
+<details><summary>Show More</summary>
+
 `[06/10 14:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[06/10 14:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/docker-debian9-ansible](https://github.com/slange-dev/docker-debian9-ansible)  
 `[06/10 05:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -61,9 +72,6 @@ Test: Lower Than
 `[06/10 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thomaspreischl/install-wsl-and-ansible](https://github.com/thomaspreischl/install-wsl-and-ansible)  
 `[06/10 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thomaspreischl/delploy-vmware-environment](https://github.com/thomaspreischl/delploy-vmware-environment)  
 `[06/10 01:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thomaspreischl/deploy-active-directory](https://github.com/thomaspreischl/deploy-active-directory)  
-
-<details><summary>Show More</summary>
-
 `[06/10 00:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jborean93/ansible-windows](https://github.com/jborean93/ansible-windows)  
 `[06/10 00:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jborean93/PowerShell-AnsibleVault](https://github.com/jborean93/PowerShell-AnsibleVault)  
 `[06/09 22:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jborean93/ansible-lookup-laps_password](https://github.com/jborean93/ansible-lookup-laps_password)  
@@ -195,11 +203,6 @@ Test: Lower Than
 `[03/13 19:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [skx/github-action-publish-binaries](https://github.com/skx/github-action-publish-binaries)  
 `[03/13 19:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zyborg/gh-action-buildnum](https://github.com/zyborg/gh-action-buildnum)  
 `[03/13 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `39` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[03/13 17:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)  
-`[03/13 17:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[03/13 16:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)  
-`[03/13 16:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[03/13 16:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
