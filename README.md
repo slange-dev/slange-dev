@@ -51,19 +51,22 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[06/10 23:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-ubuntu1804-ansible](https://github.com/slange-dev/docker-ubuntu1804-ansible)  
+`[06/11 00:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/docker-centos8-ansible/tree/master) in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[06/11 00:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[06/11 00:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[06/10 23:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-ubuntu1804-ansible](https://github.com/slange-dev/docker-ubuntu1804-ansible)  
 `[06/10 19:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [slange-dev/docker-debian8-ansible](https://github.com/slange-dev/docker-debian8-ansible)  
 `[06/10 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[06/10 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/docker-debian8-ansible](https://github.com/slange-dev/docker-debian8-ansible)  
 `[06/10 17:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/docker-debian8-ansible/tree/master) in [slange-dev/docker-debian8-ansible](https://github.com/slange-dev/docker-debian8-ansible)  
 `[06/10 17:59]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/docker-debian8-ansible](https://github.com/slange-dev/docker-debian8-ansible)  
 `[06/10 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/docker-fedora32-ansible](https://github.com/slange-dev/docker-fedora32-ansible)  
-`[06/10 17:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/docker-fedora32-ansible/tree/master) in [slange-dev/docker-fedora32-ansible](https://github.com/slange-dev/docker-fedora32-ansible)  
-`[06/10 17:39]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/docker-fedora32-ansible](https://github.com/slange-dev/docker-fedora32-ansible)  
-`[06/10 17:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
 
 <details><summary>Show More</summary>
 
+`[06/10 17:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/docker-fedora32-ansible/tree/master) in [slange-dev/docker-fedora32-ansible](https://github.com/slange-dev/docker-fedora32-ansible)  
+`[06/10 17:39]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/docker-fedora32-ansible](https://github.com/slange-dev/docker-fedora32-ansible)  
+`[06/10 17:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
 `[06/10 17:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/docker-centos6-ansible/tree/master) in [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
 `[06/10 17:27]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
 `[06/10 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-fedora33-ansible](https://github.com/slange-dev/docker-fedora33-ansible)  
@@ -218,7 +221,7 @@ Test: Lower Than
 `[03/13 22:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[03/13 22:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sobolevn/restrict-cursing-action](https://github.com/sobolevn/restrict-cursing-action)  
 `[03/13 22:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)  
-`[03/13 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/13 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
