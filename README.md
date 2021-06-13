@@ -51,7 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[06/13 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
+`[06/13 22:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
 `[06/13 20:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
 `[06/13 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
 `[06/13 17:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu1604-ansible](https://github.com/slange-dev/docker-ubuntu1604-ansible)  
@@ -220,12 +220,6 @@ Test: Lower Than
 `[03/14 01:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action)  
 `[03/14 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arillso/action.playbook](https://github.com/arillso/action.playbook)  
 `[03/14 01:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[03/14 01:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [robertdebock/galaxy-action](https://github.com/robertdebock/galaxy-action)  
-`[03/14 01:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [artis3n/ansible_galaxy_collection](https://github.com/artis3n/ansible_galaxy_collection)  
-`[03/14 01:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tylerauerbeck/publish-to-dev.to-action](https://github.com/tylerauerbeck/publish-to-dev.to-action)  
-`[03/14 01:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appleboy/jenkins-action](https://github.com/appleboy/jenkins-action)  
-`[03/14 01:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appleboy/gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action)  
-`[03/14 01:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 
 </details>
 <!--END_SECTION:activity-->
