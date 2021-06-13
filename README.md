@@ -51,6 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[06/13 19:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
 `[06/13 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
 `[06/13 17:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu1604-ansible](https://github.com/slange-dev/docker-ubuntu1604-ansible)  
 `[06/13 16:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
@@ -60,10 +61,10 @@ Test: Lower Than
 `[06/11 02:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/docker-debian10-ansible/tree/master) in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[06/11 02:56]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[06/11 02:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [reviewdog/action-hadolint](https://github.com/reviewdog/action-hadolint)  
-`[06/11 02:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-fedora32-ansible](https://github.com/slange-dev/docker-fedora32-ansible)  
 
 <details><summary>Show More</summary>
 
+`[06/11 02:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-fedora32-ansible](https://github.com/slange-dev/docker-fedora32-ansible)  
 `[06/11 02:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-fedora33-ansible](https://github.com/slange-dev/docker-fedora33-ansible)  
 `[06/11 02:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-fedora34-ansible](https://github.com/slange-dev/docker-fedora34-ansible)  
 `[06/11 02:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
@@ -225,7 +226,7 @@ Test: Lower Than
 `[03/14 01:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appleboy/gitlab-ci-action](https://github.com/appleboy/gitlab-ci-action)  
 `[03/14 01:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 00:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)  
-`[03/14 00:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 00:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 
 </details>
 <!--END_SECTION:activity-->
