@@ -51,7 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[06/13 23:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
+`[06/14 00:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `41` commits in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
 `[06/13 20:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
 `[06/13 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
 `[06/13 17:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu1604-ansible](https://github.com/slange-dev/docker-ubuntu1604-ansible)  
@@ -207,9 +207,7 @@ Test: Lower Than
 `[03/14 03:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `slange-dev-patch-1` from [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[03/14 03:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//slange-dev/docker-centos8-ansible/pull/1 'Update Dockerfile') in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[03/14 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[03/14 03:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [metcalfc/changelog-generator](https://github.com/metcalfc/changelog-generator)  
-`[03/14 03:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[03/14 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 
 </details>
 <!--END_SECTION:activity-->
