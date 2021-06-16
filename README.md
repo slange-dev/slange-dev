@@ -195,9 +195,7 @@ Test: Lower Than
 `[03/26 23:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool)  
 `[03/26 23:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anudeepND/whitelist](https://github.com/anudeepND/whitelist)  
 `[03/19 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS)  
-`[03/18 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[03/15 07:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)  
-`[03/15 06:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[03/18 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
