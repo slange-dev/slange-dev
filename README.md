@@ -197,7 +197,6 @@ Test: Lower Than
 `[03/26 23:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google)  
 `[03/26 23:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool)  
 `[03/26 23:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anudeepND/whitelist](https://github.com/anudeepND/whitelist)  
-`[03/19 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS)  
 
 </details>
 <!--END_SECTION:activity-->
