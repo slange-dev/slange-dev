@@ -194,7 +194,6 @@ Test: Lower Than
 `[04/01 16:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios)  
 `[04/01 16:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible-collections/ibm_zos_core](https://github.com/ansible-collections/ibm_zos_core)  
 `[03/29 13:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[03/27 12:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)  
 
 </details>
 <!--END_SECTION:activity-->
