@@ -51,6 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/03 17:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)  
 `[07/02 09:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-primary-ad-dc](https://github.com/bitfinity-nl/role-samba4-primary-ad-dc)  
 `[07/02 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[07/01 15:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chronot1995/freeradius-poc](https://github.com/chronot1995/freeradius-poc)  
@@ -60,10 +61,10 @@ Test: Lower Than
 `[06/29 23:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-ad-member](https://github.com/bitfinity-nl/role-samba4-ad-member)  
 `[06/29 23:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-microsoft-defender](https://github.com/bitfinity-nl/role-microsoft-defender)  
 `[06/26 02:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[06/18 21:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [timescale/examples](https://github.com/timescale/examples)  
 
 <details><summary>Show More</summary>
 
+`[06/18 21:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [timescale/examples](https://github.com/timescale/examples)  
 `[06/18 15:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  
 `[06/18 08:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zosbootstrap/core](https://github.com/zosbootstrap/core)  
 `[06/15 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-chrony](https://github.com/mrlesmithjr/ansible-chrony)  
