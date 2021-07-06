@@ -197,9 +197,6 @@ Test: Lower Than
 `[04/24 15:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ltb-project/ldap-scripts](https://github.com/ltb-project/ldap-scripts)  
 `[04/24 15:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FOGProject/fogproject](https://github.com/FOGProject/fogproject)  
 `[04/18 12:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
-`[04/05 20:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OoRudYoO/PROXMOX-api-bash](https://github.com/OoRudYoO/PROXMOX-api-bash)  
-`[04/05 18:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-netbox](https://github.com/mrlesmithjr/ansible-netbox)  
-`[04/05 18:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-mariadb-galera-cluster](https://github.com/mrlesmithjr/ansible-mariadb-galera-cluster)  
 
 </details>
 <!--END_SECTION:activity-->
