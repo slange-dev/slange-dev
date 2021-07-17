@@ -51,6 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/17 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
 `[07/17 13:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anishnath/mkdocs](https://github.com/anishnath/mkdocs)  
 `[07/15 16:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam)  
 `[07/03 17:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-repo-epel](https://github.com/geerlingguy/ansible-role-repo-epel)  
@@ -60,10 +61,10 @@ Test: Lower Than
 `[07/02 09:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-primary-ad-dc](https://github.com/bitfinity-nl/role-samba4-primary-ad-dc)  
 `[07/02 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[07/01 15:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chronot1995/freeradius-poc](https://github.com/chronot1995/freeradius-poc)  
-`[06/30 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/pb-add-ansible-node.yml](https://github.com/bitfinity-nl/pb-add-ansible-node.yml)  
 
 <details><summary>Show More</summary>
 
+`[06/30 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/pb-add-ansible-node.yml](https://github.com/bitfinity-nl/pb-add-ansible-node.yml)  
 `[06/30 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/ansible-role-login-screen](https://github.com/bitfinity-nl/ansible-role-login-screen)  
 `[06/30 01:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/app-deploy-windows-template](https://github.com/bitfinity-nl/app-deploy-windows-template)  
 `[06/29 23:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-ad-member](https://github.com/bitfinity-nl/role-samba4-ad-member)  
