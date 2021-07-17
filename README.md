@@ -51,6 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/17 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)  
 `[07/17 21:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mor10am/callcenter](https://github.com/mor10am/callcenter)  
 `[07/17 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
 `[07/17 13:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anishnath/mkdocs](https://github.com/anishnath/mkdocs)  
@@ -60,10 +61,10 @@ Test: Lower Than
 `[07/03 17:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-ssh-chroot-jail](https://github.com/geerlingguy/ansible-role-ssh-chroot-jail)  
 `[07/03 17:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)  
 `[07/02 09:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-primary-ad-dc](https://github.com/bitfinity-nl/role-samba4-primary-ad-dc)  
-`[07/02 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 
 <details><summary>Show More</summary>
 
+`[07/02 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[07/01 15:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chronot1995/freeradius-poc](https://github.com/chronot1995/freeradius-poc)  
 `[06/30 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/pb-add-ansible-node.yml](https://github.com/bitfinity-nl/pb-add-ansible-node.yml)  
 `[06/30 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/ansible-role-login-screen](https://github.com/bitfinity-nl/ansible-role-login-screen)  
