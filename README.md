@@ -51,6 +51,8 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/18 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [XBCreepinJesus/MMM-ServerStatus](https://github.com/XBCreepinJesus/MMM-ServerStatus)  
+`[07/18 21:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fewieden/MMM-ShipmentTracking](https://github.com/fewieden/MMM-ShipmentTracking)  
 `[07/18 20:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jupter1/MMM-Slack2](https://github.com/Jupter1/MMM-Slack2)  
 `[07/18 20:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [muilpp/MM-concert-calendar](https://github.com/muilpp/MM-concert-calendar)  
 `[07/18 20:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jclarke0000/MMM-MyCalendar](https://github.com/jclarke0000/MMM-MyCalendar)  
@@ -59,11 +61,11 @@ Test: Lower Than
 `[07/18 20:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fpfuetsch/MMM-GitHub-Monitor](https://github.com/fpfuetsch/MMM-GitHub-Monitor)  
 `[07/18 20:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [htilburgs/MMM-MyGarbage](https://github.com/htilburgs/MMM-MyGarbage)  
 `[07/18 15:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sdetweil/MagicMirror_scripts](https://github.com/sdetweil/MagicMirror_scripts)  
-`[07/17 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)  
-`[07/17 21:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mor10am/callcenter](https://github.com/mor10am/callcenter)  
 
 <details><summary>Show More</summary>
 
+`[07/17 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)  
+`[07/17 21:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mor10am/callcenter](https://github.com/mor10am/callcenter)  
 `[07/17 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/ansible-ntp](https://github.com/slange-dev/ansible-ntp)  
 `[07/17 13:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anishnath/mkdocs](https://github.com/anishnath/mkdocs)  
 `[07/15 16:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam)  
@@ -206,8 +208,6 @@ Test: Lower Than
 `[05/04 22:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [johnlindquist/kit](https://github.com/johnlindquist/kit)  
 `[05/03 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lmenezes/cerebro](https://github.com/lmenezes/cerebro)  
 `[05/02 22:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheMorpheus407/Python-Lets-Code](https://github.com/TheMorpheus407/Python-Lets-Code)  
-`[04/28 20:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[04/24 15:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ltb-project/ldap-scripts](https://github.com/ltb-project/ldap-scripts)  
 
 </details>
 <!--END_SECTION:activity-->
