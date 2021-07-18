@@ -51,19 +51,23 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/18 23:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Linaro/documentation](https://github.com/Linaro/documentation)  
+`[07/18 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kylebebak/ansible-tmux](https://github.com/kylebebak/ansible-tmux)  
+`[07/18 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs)  
+`[07/18 22:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [holms/ansible-fqdn](https://github.com/holms/ansible-fqdn)  
 `[07/18 21:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [edward-shen/MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator)  
 `[07/18 21:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages)  
 `[07/18 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [XBCreepinJesus/MMM-ServerStatus](https://github.com/XBCreepinJesus/MMM-ServerStatus)  
 `[07/18 21:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fewieden/MMM-ShipmentTracking](https://github.com/fewieden/MMM-ShipmentTracking)  
 `[07/18 20:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jupter1/MMM-Slack2](https://github.com/Jupter1/MMM-Slack2)  
 `[07/18 20:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [muilpp/MM-concert-calendar](https://github.com/muilpp/MM-concert-calendar)  
+
+<details><summary>Show More</summary>
+
 `[07/18 20:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jclarke0000/MMM-MyCalendar](https://github.com/jclarke0000/MMM-MyCalendar)  
 `[07/18 20:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SoulOfNoob/MMM-NextCloud-Tasks](https://github.com/SoulOfNoob/MMM-NextCloud-Tasks)  
 `[07/18 20:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)  
 `[07/18 20:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fpfuetsch/MMM-GitHub-Monitor](https://github.com/fpfuetsch/MMM-GitHub-Monitor)  
-
-<details><summary>Show More</summary>
-
 `[07/18 20:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [htilburgs/MMM-MyGarbage](https://github.com/htilburgs/MMM-MyGarbage)  
 `[07/18 15:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sdetweil/MagicMirror_scripts](https://github.com/sdetweil/MagicMirror_scripts)  
 `[07/17 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)  
@@ -205,9 +209,7 @@ Test: Lower Than
 `[05/16 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/15 16:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/awx](https://github.com/ansible/awx)  
 `[05/15 10:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coreprocess/linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation)  
-`[05/15 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[05/15 07:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)  
-`[05/04 22:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [johnlindquist/kit](https://github.com/johnlindquist/kit)  
+`[05/15 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
