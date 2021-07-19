@@ -51,6 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/19 02:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [raywo/MMM-PublicTransportHafas](https://github.com/raywo/MMM-PublicTransportHafas)  
 `[07/18 23:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Linaro/documentation](https://github.com/Linaro/documentation)  
 `[07/18 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kylebebak/ansible-tmux](https://github.com/kylebebak/ansible-tmux)  
 `[07/18 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs)  
@@ -60,10 +61,10 @@ Test: Lower Than
 `[07/18 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [XBCreepinJesus/MMM-ServerStatus](https://github.com/XBCreepinJesus/MMM-ServerStatus)  
 `[07/18 21:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fewieden/MMM-ShipmentTracking](https://github.com/fewieden/MMM-ShipmentTracking)  
 `[07/18 20:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jupter1/MMM-Slack2](https://github.com/Jupter1/MMM-Slack2)  
-`[07/18 20:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [muilpp/MM-concert-calendar](https://github.com/muilpp/MM-concert-calendar)  
 
 <details><summary>Show More</summary>
 
+`[07/18 20:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [muilpp/MM-concert-calendar](https://github.com/muilpp/MM-concert-calendar)  
 `[07/18 20:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jclarke0000/MMM-MyCalendar](https://github.com/jclarke0000/MMM-MyCalendar)  
 `[07/18 20:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SoulOfNoob/MMM-NextCloud-Tasks](https://github.com/SoulOfNoob/MMM-NextCloud-Tasks)  
 `[07/18 20:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)  
@@ -209,7 +210,7 @@ Test: Lower Than
 `[05/16 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/15 16:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/awx](https://github.com/ansible/awx)  
 `[05/15 10:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coreprocess/linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation)  
-`[05/15 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[05/15 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
