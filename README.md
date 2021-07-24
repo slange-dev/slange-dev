@@ -51,6 +51,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/24 17:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nachoparker/smart-tmux-sessions](https://github.com/nachoparker/smart-tmux-sessions)  
 `[07/19 03:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shbatm/octomirror-module](https://github.com/shbatm/octomirror-module)  
 `[07/19 03:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aaron64/MMM-DockerVisualizer](https://github.com/aaron64/MMM-DockerVisualizer)  
 `[07/19 02:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [raywo/MMM-PublicTransportHafas](https://github.com/raywo/MMM-PublicTransportHafas)  
@@ -60,10 +61,10 @@ Test: Lower Than
 `[07/18 22:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [holms/ansible-fqdn](https://github.com/holms/ansible-fqdn)  
 `[07/18 21:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [edward-shen/MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator)  
 `[07/18 21:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages)  
-`[07/18 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [XBCreepinJesus/MMM-ServerStatus](https://github.com/XBCreepinJesus/MMM-ServerStatus)  
 
 <details><summary>Show More</summary>
 
+`[07/18 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [XBCreepinJesus/MMM-ServerStatus](https://github.com/XBCreepinJesus/MMM-ServerStatus)  
 `[07/18 21:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fewieden/MMM-ShipmentTracking](https://github.com/fewieden/MMM-ShipmentTracking)  
 `[07/18 20:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jupter1/MMM-Slack2](https://github.com/Jupter1/MMM-Slack2)  
 `[07/18 20:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [muilpp/MM-concert-calendar](https://github.com/muilpp/MM-concert-calendar)  
@@ -212,7 +213,7 @@ Test: Lower Than
 `[05/16 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/15 16:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/awx](https://github.com/ansible/awx)  
 `[05/15 10:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coreprocess/linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation)  
-`[05/15 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[05/15 08:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
