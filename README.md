@@ -1,12 +1,21 @@
 ## :mag: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square">
 
-i am 40 years, work as a second level windows administrator and support also ibm mainframe products,
-besides work I like to learn new technologies, programming languages and automate my home servers and clients.
+i am 40 years, work as a second level windows administrator,
+besides work I like to learn new technologies, programming languages and automate my home server and clients.
 
 Over 20 years ago I started to be interested in Windows administration, and make my hobby to my job,
 the next step i started learned linux administration, followed from learning programming with php/mysql,
-Webhacking, IBM Mainframe, Docker and Docker-Compose, Ansible and etc. so on and on, all self taught.
+Webhacking, Docker/Dockerfile and Docker-Compose, Ansible, etc. so on and on, all self taught.
 
+ At my home stands a 20U Rack with:
+ - OpnSense Firewall Server
+ - Cisco SG200-26 Switch
+ - CloudShell2 2x10 TB Raid 1(Private Data Cloud)
+ - 2x PiHole DNS Adblocker Server 2x NTP Server
+ - PXE/TFTP Server (Automatic OS Install)
+ - Samaba 4 PDC/AD Server
+ - Freifunk W-Lan Router
+ 
 ## :desktop_computer: My skills
 Test: Lower Than
 
@@ -19,19 +28,15 @@ Test: Lower Than
 <code><a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://github.com/slange-dev/slange-dev/blob/master/git.png?raw=true" height="42"></a></code>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://github.com/slange-dev/slange-dev/blob/master/github2.png?raw=true" height="42"></a></code>
 <code><a href="https://github.com/features/actions/"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
-<code><a href="https://www.ibm.com/"><img alt="IBM" title="IBM" src="https://github.com/slange-dev/slange-dev/blob/master/ibm.png?raw=true" height="42"></a></code>
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/slange-dev/slange-dev/blob/master/python.png?raw=true" height="42"></a></code>
+<code><a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" src="https://github.com/slange-dev/slange-dev/blob/master/codeigniter.png?raw=true" height="42"></a></code>
 
 ## Languages / Frameworks / Environments / Software / Tools i work with:
 
-<code><a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://github.com/slange-dev/slange-dev/blob/master/kubernetes.png?raw=true" height="42"></a></code>
 <code><a href="https://www.docker.org/"><img alt="Docker" title="Docker" src="https://github.com/slange-dev/slange-dev/blob/master/docker.png?raw=true" height="42"></a></code>
 <code><a href="https://www.ansible.com/"><img alt="Ansible" title="Ansible" src="https://github.com/slange-dev/slange-dev/blob/master/ansible.png?raw=true" height="42"></a></code>
-<code><a href="https://www.jenkins.io/"><img alt="Python" title="Python" src="https://github.com/slange-dev/slange-dev/blob/master/jenkins.png?raw=true" height="42"></a></code>
 <code><a href="https://git-scm.com/"><img alt="Git" title="Git" src="https://github.com/slange-dev/slange-dev/blob/master/git.png?raw=true" height="42"></a></code>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://github.com/slange-dev/slange-dev/blob/master/github2.png?raw=true" height="42"></a></code>
 <code><a href="https://github.com/features/actions/"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
-<code><a href="https://www.ibm.com/"><img alt="IBM" title="IBM" src="https://github.com/slange-dev/slange-dev/blob/master/ibm.png?raw=true" height="42"></a></code>
 <code><a href="https://www.centos.org/"><img alt="CentOS" title="CentOS" src="https://github.com/slange-dev/slange-dev/blob/master/centos.png?raw=true" height="42"></a></code>
 <code><a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://github.com/slange-dev/slange-dev/blob/master/raspberry_pi.png?raw=true" height="42"></a></code>
 <code><a href="https://vscodium.com/"><img alt="VSCodium" title="VSCodium" src="https://github.com/slange-dev/slange-dev/blob/master/vscodium.png?raw=true" height="42"></a></code>
@@ -42,7 +47,6 @@ Test: Lower Than
 <code><a href="https://php.com/"><img alt="PHP" title="PHP" src="https://github.com/slange-dev/slange-dev/blob/master/php.png?raw=true" height="42"></a></code>
 <code><a href="https://www.w3.org/html/"><img alt="HTML" title="HTML" src="https://github.com/slange-dev/slange-dev/blob/master/html.png?raw=true" height="42"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/"><img alt="CSS" title="CSS" src="https://github.com/slange-dev/slange-dev/blob/master/css.png?raw=true" height="42"></a></code>
-<code><a href="https://jquery.com/"><img alt="jQuery" title="jQuery" src="https://github.com/slange-dev/slange-dev/blob/master/jquery.png?raw=true" height="42"></a></code>
 <code><a href="https://mysql.com/"><img alt="MySQL" title="MySQL" src="https://github.com/slange-dev/slange-dev/blob/master/mysql1.png?raw=true" height="42"></a></code>
 <code><a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" src="https://github.com/slange-dev/slange-dev/blob/master/codeigniter.png?raw=true" height="42"></a></code>
 <code><a href="https://gnupg.org/"><img alt="CodeIgniter" title="CodeIgniter" src="https://github.com/slange-dev/slange-dev/blob/master/gnupg.png?raw=true" height="42"></a></code>
