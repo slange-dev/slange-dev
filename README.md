@@ -55,6 +55,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[08/04 07:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [riemers/ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner)  
 `[08/03 13:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[07/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm)  
 `[07/27 21:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [techno-tim/ansible-homelab](https://github.com/techno-tim/ansible-homelab)  
@@ -64,10 +65,10 @@ Test: Lower Than
 `[07/25 21:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiny-pilot/ansible-role-tinypilot](https://github.com/tiny-pilot/ansible-role-tinypilot)  
 `[07/25 21:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot)  
 `[07/25 05:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mcavallo-git/Coding](https://github.com/mcavallo-git/Coding)  
-`[07/24 17:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nachoparker/smart-tmux-sessions](https://github.com/nachoparker/smart-tmux-sessions)  
 
 <details><summary>Show More</summary>
 
+`[07/24 17:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nachoparker/smart-tmux-sessions](https://github.com/nachoparker/smart-tmux-sessions)  
 `[07/19 03:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shbatm/octomirror-module](https://github.com/shbatm/octomirror-module)  
 `[07/19 03:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aaron64/MMM-DockerVisualizer](https://github.com/aaron64/MMM-DockerVisualizer)  
 `[07/19 02:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [raywo/MMM-PublicTransportHafas](https://github.com/raywo/MMM-PublicTransportHafas)  
@@ -225,7 +226,6 @@ Test: Lower Than
 `[05/16 14:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)  
 `[05/16 14:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/15 16:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/awx](https://github.com/ansible/awx)  
-`[05/15 10:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coreprocess/linux-unattended-installation](https://github.com/coreprocess/linux-unattended-installation)  
 
 </details>
 <!--END_SECTION:activity-->
