@@ -55,7 +55,9 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[08/08 10:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
+`[08/08 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
+`[08/08 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu1804-ansible](https://github.com/slange-dev/docker-ubuntu1804-ansible)  
+`[08/08 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-samba](https://github.com/mrlesmithjr/ansible-samba)  
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata)  
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/dotfiles](https://github.com/mrlesmithjr/dotfiles)  
@@ -63,11 +65,11 @@ Test: Lower Than
 `[08/03 13:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[07/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm)  
 `[07/27 21:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [techno-tim/ansible-homelab](https://github.com/techno-tim/ansible-homelab)  
-`[07/27 15:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts)  
-`[07/26 10:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pat-s/alfred-gitea](https://github.com/pat-s/alfred-gitea)  
 
 <details><summary>Show More</summary>
 
+`[07/27 15:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts)  
+`[07/26 10:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pat-s/alfred-gitea](https://github.com/pat-s/alfred-gitea)  
 `[07/26 10:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thomas-maurice/ansible-role-gitea](https://github.com/thomas-maurice/ansible-role-gitea)  
 `[07/25 21:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiny-pilot/ansible-role-tinypilot](https://github.com/tiny-pilot/ansible-role-tinypilot)  
 `[07/25 21:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot)  
@@ -220,9 +222,6 @@ Test: Lower Than
 `[05/17 11:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cobbler/cobbler](https://github.com/cobbler/cobbler)  
 `[05/16 23:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync)  
 `[05/16 23:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[05/16 22:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gantsign/ansible-role-visual-studio-code-extensions](https://github.com/gantsign/ansible-role-visual-studio-code-extensions)  
-`[05/16 21:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [b4b857f6ee/opnsense_grafana_dashboard](https://github.com/b4b857f6ee/opnsense_grafana_dashboard)  
-`[05/16 21:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pfelk/ansible](https://github.com/pfelk/ansible)  
 
 </details>
 <!--END_SECTION:activity-->
