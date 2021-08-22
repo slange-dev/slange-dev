@@ -216,10 +216,6 @@ Test: Lower Than
 `[06/05 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall)  
 `[05/22 20:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)  
 `[05/22 20:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)  
-`[05/21 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[05/21 19:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark)  
-`[05/21 19:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vednoc/dark-gitlab](https://github.com/vednoc/dark-gitlab)  
-`[05/21 18:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
