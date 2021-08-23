@@ -214,8 +214,6 @@ Test: Lower Than
 `[06/07 02:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nephelaiio/ansible-role-centos-installer](https://github.com/nephelaiio/ansible-role-centos-installer)  
 `[06/06 23:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [orhun/gpg-tui](https://github.com/orhun/gpg-tui)  
 `[06/05 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall)  
-`[05/22 20:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)  
-`[05/22 20:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)  
 
 </details>
 <!--END_SECTION:activity-->
