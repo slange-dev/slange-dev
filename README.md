@@ -55,6 +55,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[08/29 02:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [armbian/build](https://github.com/armbian/build)  
 `[08/27 15:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#161`](https://github.com//linux-sunxi/sunxi-tools/issues/161 'Error: nand-part.c:93:4: warning: ‘strncpy’ output truncated before terminating nul copying 8 bytes from a string of the same length') in [linux-sunxi/sunxi-tools](https://github.com/linux-sunxi/sunxi-tools)  
 `[08/27 14:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1324`](https://github.com//nextcloud/nextcloudpi/issues/1324 'Building with "build-SD-armbian.sh odroidxu4" fails') in [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi)  
 `[08/24 18:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [phpipam/phpipam](https://github.com/phpipam/phpipam)  
@@ -64,10 +65,10 @@ Test: Lower Than
 `[08/08 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
 `[08/08 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu1804-ansible](https://github.com/slange-dev/docker-ubuntu1804-ansible)  
 `[08/08 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
-`[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-samba](https://github.com/mrlesmithjr/ansible-samba)  
 
 <details><summary>Show More</summary>
 
+`[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-samba](https://github.com/mrlesmithjr/ansible-samba)  
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata)  
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/dotfiles](https://github.com/mrlesmithjr/dotfiles)  
 `[08/04 07:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [riemers/ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner)  
