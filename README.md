@@ -55,6 +55,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[09/01 20:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [terminalforlife/BashConfig](https://github.com/terminalforlife/BashConfig)  
 `[08/31 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/Mainframed](https://github.com/mainframed/Mainframed)  
 `[08/31 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/DOGECICS](https://github.com/mainframed/DOGECICS)  
 `[08/31 23:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containers/buildah](https://github.com/containers/buildah)  
@@ -64,10 +65,10 @@ Test: Lower Than
 `[08/24 18:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [phpipam/phpipam](https://github.com/phpipam/phpipam)  
 `[08/24 14:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbox-community/netbox](https://github.com/netbox-community/netbox)  
 `[08/21 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ypid/ansible-dm](https://github.com/ypid/ansible-dm)  
-`[08/11 06:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu1804-ansible](https://github.com/slange-dev/docker-ubuntu1804-ansible)  
 
 <details><summary>Show More</summary>
 
+`[08/11 06:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu1804-ansible](https://github.com/slange-dev/docker-ubuntu1804-ansible)  
 `[08/08 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
 `[08/08 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu1804-ansible](https://github.com/slange-dev/docker-ubuntu1804-ansible)  
 `[08/08 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
