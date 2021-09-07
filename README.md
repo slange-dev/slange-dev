@@ -221,7 +221,6 @@ Test: Lower Than
 `[06/08 00:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RattyDAVE/docker-ubuntu-hercules-vm370](https://github.com/RattyDAVE/docker-ubuntu-hercules-vm370)  
 `[06/07 02:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nephelaiio/ansible-role-ubuntu-installer](https://github.com/nephelaiio/ansible-role-ubuntu-installer)  
 `[06/07 02:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nephelaiio/ansible-role-centos-installer](https://github.com/nephelaiio/ansible-role-centos-installer)  
-`[06/06 23:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [orhun/gpg-tui](https://github.com/orhun/gpg-tui)  
 
 </details>
 <!--END_SECTION:activity-->
