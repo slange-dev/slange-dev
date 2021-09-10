@@ -209,14 +209,6 @@ Test: Lower Than
 `[06/10 05:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[06/10 05:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [freedomofpress/ansible-role-signal-desktop](https://github.com/freedomofpress/ansible-role-signal-desktop)  
 `[06/10 02:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [teejee2008/timeshift](https://github.com/teejee2008/timeshift)  
-`[06/10 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thomaspreischl/install-wsl-and-ansible](https://github.com/thomaspreischl/install-wsl-and-ansible)  
-`[06/10 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thomaspreischl/delploy-vmware-environment](https://github.com/thomaspreischl/delploy-vmware-environment)  
-`[06/10 01:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thomaspreischl/deploy-active-directory](https://github.com/thomaspreischl/deploy-active-directory)  
-`[06/10 00:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jborean93/ansible-windows](https://github.com/jborean93/ansible-windows)  
-`[06/10 00:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jborean93/PowerShell-AnsibleVault](https://github.com/jborean93/PowerShell-AnsibleVault)  
-`[06/09 22:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jborean93/ansible-lookup-laps_password](https://github.com/jborean93/ansible-lookup-laps_password)  
-`[06/09 22:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jborean93/ansible-role-win_laps](https://github.com/jborean93/ansible-role-win_laps)  
-`[06/09 11:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
