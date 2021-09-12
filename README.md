@@ -55,6 +55,8 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[09/12 14:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cpwr-devops/DevOps-Examples](https://github.com/cpwr-devops/DevOps-Examples)  
+`[09/12 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [billrain/MainframeJCL](https://github.com/billrain/MainframeJCL)  
 `[09/10 23:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [i3/i3](https://github.com/i3/i3)  
 `[09/07 09:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)  
 `[09/01 20:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [terminalforlife/BashConfig](https://github.com/terminalforlife/BashConfig)  
@@ -63,11 +65,11 @@ Test: Lower Than
 `[08/31 23:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containers/buildah](https://github.com/containers/buildah)  
 `[08/29 02:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [armbian/build](https://github.com/armbian/build)  
 `[08/27 15:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#161`](https://github.com//linux-sunxi/sunxi-tools/issues/161 'Error: nand-part.c:93:4: warning: ‘strncpy’ output truncated before terminating nul copying 8 bytes from a string of the same length') in [linux-sunxi/sunxi-tools](https://github.com/linux-sunxi/sunxi-tools)  
-`[08/27 14:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1324`](https://github.com//nextcloud/nextcloudpi/issues/1324 'Building with "build-SD-armbian.sh odroidxu4" fails') in [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi)  
-`[08/24 18:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [phpipam/phpipam](https://github.com/phpipam/phpipam)  
 
 <details><summary>Show More</summary>
 
+`[08/27 14:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1324`](https://github.com//nextcloud/nextcloudpi/issues/1324 'Building with "build-SD-armbian.sh odroidxu4" fails') in [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi)  
+`[08/24 18:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [phpipam/phpipam](https://github.com/phpipam/phpipam)  
 `[08/24 14:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbox-community/netbox](https://github.com/netbox-community/netbox)  
 `[08/21 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ypid/ansible-dm](https://github.com/ypid/ansible-dm)  
 `[08/08 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
