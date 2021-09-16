@@ -129,7 +129,6 @@ Test: Lower Than
 `[06/18 21:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [timescale/examples](https://github.com/timescale/examples)  
 `[06/18 15:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  
 `[06/18 08:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zosbootstrap/core](https://github.com/zosbootstrap/core)  
-`[06/15 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-chrony](https://github.com/mrlesmithjr/ansible-chrony)  
 
 </details>
 <!--END_SECTION:activity-->
