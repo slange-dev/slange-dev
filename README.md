@@ -126,9 +126,6 @@ Test: Lower Than
 `[06/29 23:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-ad-member](https://github.com/bitfinity-nl/role-samba4-ad-member)  
 `[06/29 23:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-microsoft-defender](https://github.com/bitfinity-nl/role-microsoft-defender)  
 `[06/26 02:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[06/18 21:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [timescale/examples](https://github.com/timescale/examples)  
-`[06/18 15:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [argoproj/argo-cd](https://github.com/argoproj/argo-cd)  
-`[06/18 08:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zosbootstrap/core](https://github.com/zosbootstrap/core)  
 
 </details>
 <!--END_SECTION:activity-->
