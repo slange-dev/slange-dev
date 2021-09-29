@@ -55,6 +55,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[09/29 23:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [docker/compose](https://github.com/docker/compose)  
 `[09/29 03:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [davatorium/rofi](https://github.com/davatorium/rofi)  
 `[09/14 00:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [canonical/cloud-init](https://github.com/canonical/cloud-init)  
 `[09/13 03:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hectorm/hmirror](https://github.com/hectorm/hmirror)  
@@ -64,10 +65,10 @@ Test: Lower Than
 `[09/07 09:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)  
 `[09/01 20:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [terminalforlife/BashConfig](https://github.com/terminalforlife/BashConfig)  
 `[08/31 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/Mainframed](https://github.com/mainframed/Mainframed)  
-`[08/31 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/DOGECICS](https://github.com/mainframed/DOGECICS)  
 
 <details><summary>Show More</summary>
 
+`[08/31 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/DOGECICS](https://github.com/mainframed/DOGECICS)  
 `[08/31 23:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containers/buildah](https://github.com/containers/buildah)  
 `[08/29 02:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [armbian/build](https://github.com/armbian/build)  
 `[08/27 15:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#161`](https://github.com//linux-sunxi/sunxi-tools/issues/161 'Error: nand-part.c:93:4: warning: ‘strncpy’ output truncated before terminating nul copying 8 bytes from a string of the same length') in [linux-sunxi/sunxi-tools](https://github.com/linux-sunxi/sunxi-tools)  
