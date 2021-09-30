@@ -125,8 +125,6 @@ Test: Lower Than
 `[06/30 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/pb-add-ansible-node.yml](https://github.com/bitfinity-nl/pb-add-ansible-node.yml)  
 `[06/30 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/ansible-role-login-screen](https://github.com/bitfinity-nl/ansible-role-login-screen)  
 `[06/30 01:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/app-deploy-windows-template](https://github.com/bitfinity-nl/app-deploy-windows-template)  
-`[06/29 23:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-ad-member](https://github.com/bitfinity-nl/role-samba4-ad-member)  
-`[06/29 23:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-microsoft-defender](https://github.com/bitfinity-nl/role-microsoft-defender)  
 
 </details>
 <!--END_SECTION:activity-->
