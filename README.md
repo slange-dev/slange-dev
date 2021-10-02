@@ -122,7 +122,6 @@ Test: Lower Than
 `[07/03 17:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)  
 `[07/02 09:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-primary-ad-dc](https://github.com/bitfinity-nl/role-samba4-primary-ad-dc)  
 `[07/02 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[07/01 15:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chronot1995/freeradius-poc](https://github.com/chronot1995/freeradius-poc)  
 
 </details>
 <!--END_SECTION:activity-->
