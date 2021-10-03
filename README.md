@@ -55,6 +55,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[10/03 01:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/galaxy](https://github.com/ansible/galaxy)  
 `[10/02 23:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)  
 `[10/02 19:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [grooveadelic/ansible-i2p](https://github.com/grooveadelic/ansible-i2p)  
 `[10/01 09:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
@@ -64,10 +65,10 @@ Test: Lower Than
 `[09/13 03:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hectorm/hmirror](https://github.com/hectorm/hmirror)  
 `[09/12 14:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cpwr-devops/DevOps-Examples](https://github.com/cpwr-devops/DevOps-Examples)  
 `[09/12 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [billrain/MainframeJCL](https://github.com/billrain/MainframeJCL)  
-`[09/10 23:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [i3/i3](https://github.com/i3/i3)  
 
 <details><summary>Show More</summary>
 
+`[09/10 23:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [i3/i3](https://github.com/i3/i3)  
 `[09/07 09:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)  
 `[09/01 20:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [terminalforlife/BashConfig](https://github.com/terminalforlife/BashConfig)  
 `[08/31 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/Mainframed](https://github.com/mainframed/Mainframed)  
@@ -122,8 +123,6 @@ Test: Lower Than
 `[07/03 17:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-samba](https://github.com/geerlingguy/ansible-role-samba)  
 `[07/03 17:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-ssh-chroot-jail](https://github.com/geerlingguy/ansible-role-ssh-chroot-jail)  
 `[07/03 17:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)  
-`[07/02 09:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitfinity-nl/role-samba4-primary-ad-dc](https://github.com/bitfinity-nl/role-samba4-primary-ad-dc)  
-`[07/02 09:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 
 </details>
 <!--END_SECTION:activity-->
