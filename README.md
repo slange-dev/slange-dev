@@ -123,10 +123,6 @@ Test: Lower Than
 `[07/17 21:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mor10am/callcenter](https://github.com/mor10am/callcenter)  
 `[07/17 13:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anishnath/mkdocs](https://github.com/anishnath/mkdocs)  
 `[07/15 16:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [showmewebcam/showmewebcam](https://github.com/showmewebcam/showmewebcam)  
-`[07/03 17:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-repo-epel](https://github.com/geerlingguy/ansible-role-repo-epel)  
-`[07/03 17:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-samba](https://github.com/geerlingguy/ansible-role-samba)  
-`[07/03 17:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [geerlingguy/ansible-role-ssh-chroot-jail](https://github.com/geerlingguy/ansible-role-ssh-chroot-jail)  
-`[07/03 17:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)  
 
 </details>
 <!--END_SECTION:activity-->
