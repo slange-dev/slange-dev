@@ -124,9 +124,6 @@ Test: Lower Than
 `[07/18 20:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fpfuetsch/MMM-GitHub-Monitor](https://github.com/fpfuetsch/MMM-GitHub-Monitor)  
 `[07/18 20:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [htilburgs/MMM-MyGarbage](https://github.com/htilburgs/MMM-MyGarbage)  
 `[07/18 15:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sdetweil/MagicMirror_scripts](https://github.com/sdetweil/MagicMirror_scripts)  
-`[07/17 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)  
-`[07/17 21:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mor10am/callcenter](https://github.com/mor10am/callcenter)  
-`[07/17 13:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anishnath/mkdocs](https://github.com/anishnath/mkdocs)  
 
 </details>
 <!--END_SECTION:activity-->
