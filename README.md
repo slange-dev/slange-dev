@@ -108,22 +108,6 @@ Test: Lower Than
 `[07/19 03:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shbatm/octomirror-module](https://github.com/shbatm/octomirror-module)  
 `[07/19 03:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aaron64/MMM-DockerVisualizer](https://github.com/aaron64/MMM-DockerVisualizer)  
 `[07/19 02:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [raywo/MMM-PublicTransportHafas](https://github.com/raywo/MMM-PublicTransportHafas)  
-`[07/18 23:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Linaro/documentation](https://github.com/Linaro/documentation)  
-`[07/18 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kylebebak/ansible-tmux](https://github.com/kylebebak/ansible-tmux)  
-`[07/18 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LearnLinuxTV/personal_ansible_desktop_configs](https://github.com/LearnLinuxTV/personal_ansible_desktop_configs)  
-`[07/18 22:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [holms/ansible-fqdn](https://github.com/holms/ansible-fqdn)  
-`[07/18 21:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [edward-shen/MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator)  
-`[07/18 21:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages)  
-`[07/18 21:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [XBCreepinJesus/MMM-ServerStatus](https://github.com/XBCreepinJesus/MMM-ServerStatus)  
-`[07/18 21:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fewieden/MMM-ShipmentTracking](https://github.com/fewieden/MMM-ShipmentTracking)  
-`[07/18 20:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jupter1/MMM-Slack2](https://github.com/Jupter1/MMM-Slack2)  
-`[07/18 20:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [muilpp/MM-concert-calendar](https://github.com/muilpp/MM-concert-calendar)  
-`[07/18 20:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jclarke0000/MMM-MyCalendar](https://github.com/jclarke0000/MMM-MyCalendar)  
-`[07/18 20:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SoulOfNoob/MMM-NextCloud-Tasks](https://github.com/SoulOfNoob/MMM-NextCloud-Tasks)  
-`[07/18 20:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [skuethe/MMM-HH-LocalTransport](https://github.com/skuethe/MMM-HH-LocalTransport)  
-`[07/18 20:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fpfuetsch/MMM-GitHub-Monitor](https://github.com/fpfuetsch/MMM-GitHub-Monitor)  
-`[07/18 20:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [htilburgs/MMM-MyGarbage](https://github.com/htilburgs/MMM-MyGarbage)  
-`[07/18 15:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sdetweil/MagicMirror_scripts](https://github.com/sdetweil/MagicMirror_scripts)  
 
 </details>
 <!--END_SECTION:activity-->
