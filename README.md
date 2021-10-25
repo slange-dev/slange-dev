@@ -105,7 +105,6 @@ Test: Lower Than
 `[07/25 21:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiny-pilot/ansible-role-tinypilot](https://github.com/tiny-pilot/ansible-role-tinypilot)  
 `[07/25 21:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot)  
 `[07/25 05:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mcavallo-git/Coding](https://github.com/mcavallo-git/Coding)  
-`[07/24 17:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nachoparker/smart-tmux-sessions](https://github.com/nachoparker/smart-tmux-sessions)  
 
 </details>
 <!--END_SECTION:activity-->
