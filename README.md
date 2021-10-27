@@ -100,8 +100,6 @@ Test: Lower Than
 `[07/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm)  
 `[07/27 21:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [techno-tim/ansible-homelab](https://github.com/techno-tim/ansible-homelab)  
 `[07/27 15:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts)  
-`[07/26 10:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pat-s/alfred-gitea](https://github.com/pat-s/alfred-gitea)  
-`[07/26 10:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thomas-maurice/ansible-role-gitea](https://github.com/thomas-maurice/ansible-role-gitea)  
 
 </details>
 <!--END_SECTION:activity-->
