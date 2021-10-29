@@ -97,7 +97,6 @@ Test: Lower Than
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/dotfiles](https://github.com/mrlesmithjr/dotfiles)  
 `[08/04 07:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [riemers/ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner)  
 `[08/03 13:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[07/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-manage-lvm](https://github.com/mrlesmithjr/ansible-manage-lvm)  
 
 </details>
 <!--END_SECTION:activity-->
