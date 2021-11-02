@@ -55,6 +55,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[11/02 18:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets)  
 `[10/24 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic)  
 `[10/16 13:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad)  
 `[10/13 23:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nephelaiio/ansible-role-i3](https://github.com/nephelaiio/ansible-role-i3)  
@@ -64,10 +65,10 @@ Test: Lower Than
 `[10/03 04:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FTXInfotech/laravel-adminpanel](https://github.com/FTXInfotech/laravel-adminpanel)  
 `[10/03 04:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jenkins-x/jx](https://github.com/jenkins-x/jx)  
 `[10/03 03:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)  
-`[10/03 02:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring)  
 
 <details><summary>Show More</summary>
 
+`[10/03 02:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring)  
 `[10/03 01:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/galaxy](https://github.com/ansible/galaxy)  
 `[10/02 23:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)  
 `[10/02 19:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [grooveadelic/ansible-i2p](https://github.com/grooveadelic/ansible-i2p)  
