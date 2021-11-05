@@ -55,6 +55,9 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[11/05 18:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
+`[11/05 18:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
+`[11/05 18:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[11/04 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juaromu/wazuh-domain-stats-alienvault](https://github.com/juaromu/wazuh-domain-stats-alienvault)  
 `[11/02 18:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets)  
 `[10/24 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic)  
@@ -62,12 +65,12 @@ Test: Lower Than
 `[10/13 23:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nephelaiio/ansible-role-i3](https://github.com/nephelaiio/ansible-role-i3)  
 `[10/13 23:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hypebeast/ansible-i3](https://github.com/hypebeast/ansible-i3)  
 `[10/13 22:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rachejazz/my-vimrc](https://github.com/rachejazz/my-vimrc)  
-`[10/13 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hamdouni/myDwm](https://github.com/hamdouni/myDwm)  
-`[10/03 04:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FTXInfotech/laravel-adminpanel](https://github.com/FTXInfotech/laravel-adminpanel)  
-`[10/03 04:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jenkins-x/jx](https://github.com/jenkins-x/jx)  
 
 <details><summary>Show More</summary>
 
+`[10/13 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hamdouni/myDwm](https://github.com/hamdouni/myDwm)  
+`[10/03 04:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FTXInfotech/laravel-adminpanel](https://github.com/FTXInfotech/laravel-adminpanel)  
+`[10/03 04:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jenkins-x/jx](https://github.com/jenkins-x/jx)  
 `[10/03 03:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)  
 `[10/03 02:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring)  
 `[10/03 01:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/galaxy](https://github.com/ansible/galaxy)  
