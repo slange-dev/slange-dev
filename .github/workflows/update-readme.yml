@@ -14,7 +14,7 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2.4.0
       # - uses: jamesgeorge007/github-activity-readme@v0.3.6
       - uses: cheesits456/github-activity-readme@master
         env:
