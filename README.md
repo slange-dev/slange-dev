@@ -97,7 +97,6 @@ Test: Lower Than
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-samba](https://github.com/mrlesmithjr/ansible-samba)  
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata)  
 `[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/dotfiles](https://github.com/mrlesmithjr/dotfiles)  
-`[08/04 07:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [riemers/ansible-gitlab-runner](https://github.com/riemers/ansible-gitlab-runner)  
 
 </details>
 <!--END_SECTION:activity-->
