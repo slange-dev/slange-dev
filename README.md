@@ -104,9 +104,6 @@ Test: Lower Than
 `[08/21 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ypid/ansible-dm](https://github.com/ypid/ansible-dm)  
 `[08/08 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos6-ansible](https://github.com/slange-dev/docker-centos6-ansible)  
 `[08/08 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
-`[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-samba](https://github.com/mrlesmithjr/ansible-samba)  
-`[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-netdata](https://github.com/mrlesmithjr/ansible-netdata)  
-`[08/06 02:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/dotfiles](https://github.com/mrlesmithjr/dotfiles)  
 
 </details>
 <!--END_SECTION:activity-->
