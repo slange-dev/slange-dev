@@ -102,7 +102,6 @@ Test: Lower Than
 `[08/27 14:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1324`](https://github.com//nextcloud/nextcloudpi/issues/1324 'Building with "build-SD-armbian.sh odroidxu4" fails') in [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi)  
 `[08/24 18:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [phpipam/phpipam](https://github.com/phpipam/phpipam)  
 `[08/24 14:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbox-community/netbox](https://github.com/netbox-community/netbox)  
-`[08/21 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ypid/ansible-dm](https://github.com/ypid/ansible-dm)  
 
 </details>
 <!--END_SECTION:activity-->
