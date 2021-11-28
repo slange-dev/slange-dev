@@ -100,8 +100,6 @@ Test: Lower Than
 `[08/31 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/DOGECICS](https://github.com/mainframed/DOGECICS)  
 `[08/31 23:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containers/buildah](https://github.com/containers/buildah)  
 `[08/29 02:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [armbian/build](https://github.com/armbian/build)  
-`[08/27 15:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#161`](https://github.com//linux-sunxi/sunxi-tools/issues/161 'Error: nand-part.c:93:4: warning: ‘strncpy’ output truncated before terminating nul copying 8 bytes from a string of the same length') in [linux-sunxi/sunxi-tools](https://github.com/linux-sunxi/sunxi-tools)  
-`[08/27 14:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1324`](https://github.com//nextcloud/nextcloudpi/issues/1324 'Building with "build-SD-armbian.sh odroidxu4" fails') in [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi)  
 
 </details>
 <!--END_SECTION:activity-->
