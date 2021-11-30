@@ -101,7 +101,6 @@ Test: Lower Than
 `[08/31 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/Mainframed](https://github.com/mainframed/Mainframed)  
 `[08/31 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/DOGECICS](https://github.com/mainframed/DOGECICS)  
 `[08/31 23:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containers/buildah](https://github.com/containers/buildah)  
-`[08/29 02:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [armbian/build](https://github.com/armbian/build)  
 
 </details>
 <!--END_SECTION:activity-->
