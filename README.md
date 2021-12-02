@@ -98,9 +98,6 @@ Test: Lower Than
 `[09/10 23:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [i3/i3](https://github.com/i3/i3)  
 `[09/07 09:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)  
 `[09/01 20:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [terminalforlife/BashConfig](https://github.com/terminalforlife/BashConfig)  
-`[08/31 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/Mainframed](https://github.com/mainframed/Mainframed)  
-`[08/31 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/DOGECICS](https://github.com/mainframed/DOGECICS)  
-`[08/31 23:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containers/buildah](https://github.com/containers/buildah)  
 
 </details>
 <!--END_SECTION:activity-->
