@@ -96,7 +96,6 @@ Test: Lower Than
 `[09/12 14:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cpwr-devops/DevOps-Examples](https://github.com/cpwr-devops/DevOps-Examples)  
 `[09/12 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [billrain/MainframeJCL](https://github.com/billrain/MainframeJCL)  
 `[09/10 23:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [i3/i3](https://github.com/i3/i3)  
-`[09/07 09:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)  
 
 </details>
 <!--END_SECTION:activity-->
