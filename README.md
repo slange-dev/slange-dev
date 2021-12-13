@@ -95,8 +95,6 @@ Test: Lower Than
 `[09/29 03:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [davatorium/rofi](https://github.com/davatorium/rofi)  
 `[09/14 00:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [canonical/cloud-init](https://github.com/canonical/cloud-init)  
 `[09/13 03:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hectorm/hmirror](https://github.com/hectorm/hmirror)  
-`[09/12 14:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cpwr-devops/DevOps-Examples](https://github.com/cpwr-devops/DevOps-Examples)  
-`[09/12 14:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [billrain/MainframeJCL](https://github.com/billrain/MainframeJCL)  
 
 </details>
 <!--END_SECTION:activity-->
