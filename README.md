@@ -92,7 +92,6 @@ Test: Lower Than
 `[10/02 23:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)  
 `[10/02 19:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [grooveadelic/ansible-i2p](https://github.com/grooveadelic/ansible-i2p)  
 `[10/01 09:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[09/29 23:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [docker/compose](https://github.com/docker/compose)  
 
 </details>
 <!--END_SECTION:activity-->
