@@ -88,9 +88,6 @@ Test: Lower Than
 `[10/03 04:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jenkins-x/jx](https://github.com/jenkins-x/jx)  
 `[10/03 03:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)  
 `[10/03 02:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring)  
-`[10/03 01:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ansible/galaxy](https://github.com/ansible/galaxy)  
-`[10/02 23:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)  
-`[10/02 19:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [grooveadelic/ansible-i2p](https://github.com/grooveadelic/ansible-i2p)  
 
 </details>
 <!--END_SECTION:activity-->
