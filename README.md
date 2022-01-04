@@ -84,10 +84,6 @@ Test: Lower Than
 `[10/13 23:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hypebeast/ansible-i3](https://github.com/hypebeast/ansible-i3)  
 `[10/13 22:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rachejazz/my-vimrc](https://github.com/rachejazz/my-vimrc)  
 `[10/13 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hamdouni/myDwm](https://github.com/hamdouni/myDwm)  
-`[10/03 04:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FTXInfotech/laravel-adminpanel](https://github.com/FTXInfotech/laravel-adminpanel)  
-`[10/03 04:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jenkins-x/jx](https://github.com/jenkins-x/jx)  
-`[10/03 03:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mastodon/mastodon](https://github.com/mastodon/mastodon)  
-`[10/03 02:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring)  
 
 </details>
 <!--END_SECTION:activity-->
