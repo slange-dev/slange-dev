@@ -88,10 +88,6 @@ Test: Lower Than
 `[11/02 18:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets)  
 `[10/24 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic)  
 `[10/16 13:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad)  
-`[10/13 23:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nephelaiio/ansible-role-i3](https://github.com/nephelaiio/ansible-role-i3)  
-`[10/13 23:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hypebeast/ansible-i3](https://github.com/hypebeast/ansible-i3)  
-`[10/13 22:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rachejazz/my-vimrc](https://github.com/rachejazz/my-vimrc)  
-`[10/13 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hamdouni/myDwm](https://github.com/hamdouni/myDwm)  
 
 </details>
 <!--END_SECTION:activity-->
