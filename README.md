@@ -87,7 +87,6 @@ Test: Lower Than
 `[11/04 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juaromu/wazuh-domain-stats-alienvault](https://github.com/juaromu/wazuh-domain-stats-alienvault)  
 `[11/02 18:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets)  
 `[10/24 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Bugswriter/arch-linux-magic](https://github.com/Bugswriter/arch-linux-magic)  
-`[10/16 13:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad)  
 
 </details>
 <!--END_SECTION:activity-->
