@@ -55,6 +55,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[01/17 12:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fcaviggia/hardened-centos7-kickstart](https://github.com/fcaviggia/hardened-centos7-kickstart)  
 `[01/17 12:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content)  
 `[01/13 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pauldreik/rdfind](https://github.com/pauldreik/rdfind)  
 `[01/13 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [francesco-supportlan/pihole_filterlists_update](https://github.com/francesco-supportlan/pihole_filterlists_update)  
@@ -64,10 +65,10 @@ Test: Lower Than
 `[01/10 06:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GAS85/checkServerCiphers](https://github.com/GAS85/checkServerCiphers)  
 `[01/08 13:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[01/05 23:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux)  
-`[12/16 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rex-Consulting/Ansible-OpenLDAP-Basic](https://github.com/Rex-Consulting/Ansible-OpenLDAP-Basic)  
 
 <details><summary>Show More</summary>
 
+`[12/16 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rex-Consulting/Ansible-OpenLDAP-Basic](https://github.com/Rex-Consulting/Ansible-OpenLDAP-Basic)  
 `[12/09 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [criecm/ansible-role-openldap](https://github.com/criecm/ansible-role-openldap)  
 `[12/09 14:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lae/ansible-role-system_ldap](https://github.com/lae/ansible-role-system_ldap)  
 `[11/29 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
