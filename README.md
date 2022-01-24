@@ -55,6 +55,8 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[01/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
+`[01/24 01:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 `[01/22 23:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/policy-templates](https://github.com/mozilla/policy-templates)  
 `[01/22 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [p0dalirius/pyLAPS](https://github.com/p0dalirius/pyLAPS)  
 `[01/22 19:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [taw00/element-rpm](https://github.com/taw00/element-rpm)  
@@ -63,11 +65,11 @@ Test: Lower Than
 `[01/17 15:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrC2C/cis-benchmark-centOS-8](https://github.com/mrC2C/cis-benchmark-centOS-8)  
 `[01/17 12:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fcaviggia/hardened-centos7-kickstart](https://github.com/fcaviggia/hardened-centos7-kickstart)  
 `[01/17 12:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content)  
-`[01/13 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pauldreik/rdfind](https://github.com/pauldreik/rdfind)  
-`[01/13 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [francesco-supportlan/pihole_filterlists_update](https://github.com/francesco-supportlan/pihole_filterlists_update)  
 
 <details><summary>Show More</summary>
 
+`[01/13 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pauldreik/rdfind](https://github.com/pauldreik/rdfind)  
+`[01/13 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [francesco-supportlan/pihole_filterlists_update](https://github.com/francesco-supportlan/pihole_filterlists_update)  
 `[01/13 20:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists)  
 `[01/10 06:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [suuhm/batch-ip-scan.bat](https://github.com/suuhm/batch-ip-scan.bat)  
 `[01/10 06:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts)  
