@@ -102,7 +102,6 @@ Test: Lower Than
 `[11/05 18:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[11/05 18:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[11/04 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juaromu/wazuh-domain-stats-alienvault](https://github.com/juaromu/wazuh-domain-stats-alienvault)  
-`[11/02 18:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets)  
 
 </details>
 <!--END_SECTION:activity-->
