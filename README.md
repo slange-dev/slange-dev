@@ -91,16 +91,6 @@ Test: Lower Than
 `[11/25 23:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-rpi-k8s-cluster](https://github.com/mrlesmithjr/ansible-rpi-k8s-cluster)  
 `[11/25 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ome/ansible-role-lvm-partition](https://github.com/ome/ansible-role-lvm-partition)  
 `[11/19 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcad2k/vscode-thedigitallife](https://github.com/xcad2k/vscode-thedigitallife)  
-`[11/05 18:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubuntu2004-ansible](https://github.com/slange-dev/docker-ubuntu2004-ansible)  
-`[11/05 18:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-fedora34-ansible](https://github.com/slange-dev/docker-fedora34-ansible)  
-`[11/05 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-fedora33-ansible](https://github.com/slange-dev/docker-fedora33-ansible)  
-`[11/05 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-fedora32-ansible](https://github.com/slange-dev/docker-fedora32-ansible)  
-`[11/05 18:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-ubi8-ansible](https://github.com/slange-dev/docker-ubi8-ansible)  
-`[11/05 18:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian9-ansible](https://github.com/slange-dev/docker-debian9-ansible)  
-`[11/05 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
-`[11/05 18:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos7-ansible](https://github.com/slange-dev/docker-centos7-ansible)  
-`[11/05 18:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[11/05 18:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
