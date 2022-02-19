@@ -90,7 +90,6 @@ Test: Lower Than
 `[11/29 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
 `[11/25 23:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-rpi-k8s-cluster](https://github.com/mrlesmithjr/ansible-rpi-k8s-cluster)  
 `[11/25 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ome/ansible-role-lvm-partition](https://github.com/ome/ansible-role-lvm-partition)  
-`[11/19 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcad2k/vscode-thedigitallife](https://github.com/xcad2k/vscode-thedigitallife)  
 
 </details>
 <!--END_SECTION:activity-->
