@@ -88,8 +88,6 @@ Test: Lower Than
 `[12/09 14:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lae/ansible-role-system_ldap](https://github.com/lae/ansible-role-system_ldap)  
 `[11/29 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[11/29 01:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-centos8-ansible](https://github.com/slange-dev/docker-centos8-ansible)  
-`[11/25 23:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrlesmithjr/ansible-rpi-k8s-cluster](https://github.com/mrlesmithjr/ansible-rpi-k8s-cluster)  
-`[11/25 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ome/ansible-role-lvm-partition](https://github.com/ome/ansible-role-lvm-partition)  
 
 </details>
 <!--END_SECTION:activity-->
