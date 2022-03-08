@@ -1,12 +1,5 @@
 ## :mag: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square">
 
-i am 40 years, work as a second level windows administrator,
-besides work I like to learn new technologies, programming languages and automate my home server and clients.
-
-Over 20 years ago I started to be interested in Windows administration, and make my hobby to my job,
-the next step i started learned linux administration, followed from learning programming with php/mysql,
-Webhacking, Docker/Dockerfile and Docker-Compose, Ansible, etc. so on and on, all self taught.
-
 ## :desktop_computer: My skills
 Test: Lower Than
 
