@@ -7,15 +7,6 @@ Over 20 years ago I started to be interested in Windows administration, and make
 the next step i started learned linux administration, followed from learning programming with php/mysql,
 Webhacking, Docker/Dockerfile and Docker-Compose, Ansible, etc. so on and on, all self taught.
 
- At my home stands a 20U Rack with:
- - OpnSense Firewall Server
- - Cisco SG200-26 Switch
- - CloudShell2 2x10 TB Raid 1(Private Data Cloud)
- - 2x PiHole DNS Adblocker Server 2x NTP Server
- - PXE/TFTP Server (Automatic OS Install)
- - Samaba 4 PDC/AD Server
- - Freifunk W-Lan Router
- 
 ## :desktop_computer: My skills
 Test: Lower Than
 
