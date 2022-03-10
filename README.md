@@ -70,8 +70,6 @@ Test: Lower Than
 `[01/08 13:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/docker-debian10-ansible](https://github.com/slange-dev/docker-debian10-ansible)  
 `[01/05 23:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux)  
 `[12/16 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rex-Consulting/Ansible-OpenLDAP-Basic](https://github.com/Rex-Consulting/Ansible-OpenLDAP-Basic)  
-`[12/09 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [criecm/ansible-role-openldap](https://github.com/criecm/ansible-role-openldap)  
-`[12/09 14:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lae/ansible-role-system_ldap](https://github.com/lae/ansible-role-system_ldap)  
 
 </details>
 <!--END_SECTION:activity-->
