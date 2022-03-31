@@ -39,6 +39,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[03/31 11:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials)  
 `[03/25 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name)  
 `[03/25 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vergoh/vnstat](https://github.com/vergoh/vnstat)  
 `[03/22 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m-manu/rsync-sidekick](https://github.com/m-manu/rsync-sidekick)  
@@ -48,10 +49,10 @@ Test: Lower Than
 `[03/18 02:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/tmux-plugin-sysstat](https://github.com/slange-dev/tmux-plugin-sysstat)  
 `[03/18 01:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) to [slange-dev/tmux-plugin-sysstat](https://github.com/slange-dev/tmux-plugin-sysstat)  
 `[03/17 02:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS)  
-`[03/17 02:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets)  
 
 <details><summary>Show More</summary>
 
+`[03/17 02:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets)  
 `[03/17 01:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config)  
 `[03/17 00:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat)  
 `[03/11 21:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [phette23/bashrc](https://github.com/phette23/bashrc) to [slange-dev/bashrc](https://github.com/slange-dev/bashrc)  
