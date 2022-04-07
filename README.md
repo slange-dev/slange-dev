@@ -39,6 +39,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[04/07 20:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [todotxt/plugin-view](https://github.com/todotxt/plugin-view) to [slange-dev/plugin-view](https://github.com/slange-dev/plugin-view)  
 `[04/06 01:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wwalker/ssh-find-agent](https://github.com/wwalker/ssh-find-agent)  
 `[04/06 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [centic9/generate-and-send-ssh-key](https://github.com/centic9/generate-and-send-ssh-key)  
 `[04/01 16:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)  
@@ -48,10 +49,10 @@ Test: Lower Than
 `[03/31 11:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials)  
 `[03/25 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name)  
 `[03/25 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vergoh/vnstat](https://github.com/vergoh/vnstat)  
-`[03/22 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m-manu/rsync-sidekick](https://github.com/m-manu/rsync-sidekick)  
 
 <details><summary>Show More</summary>
 
+`[03/22 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m-manu/rsync-sidekick](https://github.com/m-manu/rsync-sidekick)  
 `[03/21 15:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux/tmux](https://github.com/tmux/tmux)  
 `[03/20 19:58]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout) to [slange-dev/tmux-keyboard-layout](https://github.com/slange-dev/tmux-keyboard-layout)  
 `[03/18 15:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator)  
