@@ -39,6 +39,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[04/08 18:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powerline/powerline](https://github.com/powerline/powerline)  
 `[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/info.vim](https://github.com/HiPhish/info.vim)  
 `[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/awk-ward.nvim](https://github.com/HiPhish/awk-ward.nvim)  
 `[04/07 20:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [todotxt/plugin-view](https://github.com/todotxt/plugin-view) to [slange-dev/plugin-view](https://github.com/slange-dev/plugin-view)  
@@ -48,10 +49,10 @@ Test: Lower Than
 `[04/01 10:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter)  
 `[04/01 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/nerdtree](https://github.com/preservim/nerdtree)  
 `[04/01 09:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-plug](https://github.com/junegunn/vim-plug)  
-`[03/31 11:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials)  
 
 <details><summary>Show More</summary>
 
+`[03/31 11:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials)  
 `[03/25 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name)  
 `[03/25 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vergoh/vnstat](https://github.com/vergoh/vnstat)  
 `[03/22 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m-manu/rsync-sidekick](https://github.com/m-manu/rsync-sidekick)  
