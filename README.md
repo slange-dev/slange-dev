@@ -39,6 +39,8 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[04/09 22:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ianmiell/history-service](https://github.com/ianmiell/history-service) to [slange-dev/history-service](https://github.com/slange-dev/history-service)  
+`[04/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ianmiell/history-service](https://github.com/ianmiell/history-service)  
 `[04/08 18:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powerline/powerline](https://github.com/powerline/powerline)  
 `[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/info.vim](https://github.com/HiPhish/info.vim)  
 `[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/awk-ward.nvim](https://github.com/HiPhish/awk-ward.nvim)  
@@ -47,11 +49,11 @@ Test: Lower Than
 `[04/06 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [centic9/generate-and-send-ssh-key](https://github.com/centic9/generate-and-send-ssh-key)  
 `[04/01 16:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)  
 `[04/01 10:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter)  
-`[04/01 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/nerdtree](https://github.com/preservim/nerdtree)  
-`[04/01 09:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-plug](https://github.com/junegunn/vim-plug)  
 
 <details><summary>Show More</summary>
 
+`[04/01 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/nerdtree](https://github.com/preservim/nerdtree)  
+`[04/01 09:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-plug](https://github.com/junegunn/vim-plug)  
 `[03/31 11:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials)  
 `[03/25 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name)  
 `[03/25 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vergoh/vnstat](https://github.com/vergoh/vnstat)  
