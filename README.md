@@ -91,9 +91,6 @@ Test: Lower Than
 `[01/13 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pauldreik/rdfind](https://github.com/pauldreik/rdfind)  
 `[01/13 20:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [francesco-supportlan/pihole_filterlists_update](https://github.com/francesco-supportlan/pihole_filterlists_update)  
 `[01/13 20:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists)  
-`[01/10 06:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [suuhm/batch-ip-scan.bat](https://github.com/suuhm/batch-ip-scan.bat)  
-`[01/10 06:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts)  
-`[01/10 06:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GAS85/checkServerCiphers](https://github.com/GAS85/checkServerCiphers)  
 
 </details>
 <!--END_SECTION:activity-->
