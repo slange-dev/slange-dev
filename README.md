@@ -39,7 +39,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[04/13 09:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
+`[04/13 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[04/13 08:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) to [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[04/13 06:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging)  
 `[04/13 06:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/tmux-update-display](https://github.com/lljbash/tmux-update-display)  
