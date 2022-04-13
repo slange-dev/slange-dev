@@ -39,19 +39,25 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[04/13 15:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus)  
+`[04/13 15:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [b0o/tmux-autoreload](https://github.com/b0o/tmux-autoreload)  
+`[04/13 15:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tassaron/tmux-df](https://github.com/tassaron/tmux-df)  
+`[04/13 15:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout)  
+`[04/13 15:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter)  
+`[04/13 15:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy)  
 `[04/13 11:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[04/13 10:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arl/gitmux](https://github.com/arl/gitmux)  
 `[04/13 09:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[04/13 08:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) to [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
+
+<details><summary>Show More</summary>
+
 `[04/13 06:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging)  
 `[04/13 06:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/tmux-update-display](https://github.com/lljbash/tmux-update-display)  
 `[04/12 16:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MegaV0lt/MV_Backup](https://github.com/MegaV0lt/MV_Backup)  
 `[04/11 14:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)  
 `[04/11 14:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brndnmtthws/conky](https://github.com/brndnmtthws/conky)  
 `[04/11 14:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load)  
-
-<details><summary>Show More</summary>
-
 `[04/10 00:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KarimElghamry/vim-auto-comment](https://github.com/KarimElghamry/vim-auto-comment)  
 `[04/09 22:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ianmiell/history-service](https://github.com/ianmiell/history-service) to [slange-dev/history-service](https://github.com/slange-dev/history-service)  
 `[04/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ianmiell/history-service](https://github.com/ianmiell/history-service)  
