@@ -39,7 +39,9 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[04/13 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
+`[04/13 10:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
+`[04/13 10:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arl/gitmux](https://github.com/arl/gitmux)  
+`[04/13 09:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[04/13 08:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) to [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[04/13 06:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging)  
 `[04/13 06:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/tmux-update-display](https://github.com/lljbash/tmux-update-display)  
@@ -47,11 +49,11 @@ Test: Lower Than
 `[04/11 14:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)  
 `[04/11 14:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brndnmtthws/conky](https://github.com/brndnmtthws/conky)  
 `[04/11 14:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load)  
-`[04/10 00:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KarimElghamry/vim-auto-comment](https://github.com/KarimElghamry/vim-auto-comment)  
-`[04/09 22:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ianmiell/history-service](https://github.com/ianmiell/history-service) to [slange-dev/history-service](https://github.com/slange-dev/history-service)  
 
 <details><summary>Show More</summary>
 
+`[04/10 00:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KarimElghamry/vim-auto-comment](https://github.com/KarimElghamry/vim-auto-comment)  
+`[04/09 22:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ianmiell/history-service](https://github.com/ianmiell/history-service) to [slange-dev/history-service](https://github.com/slange-dev/history-service)  
 `[04/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ianmiell/history-service](https://github.com/ianmiell/history-service)  
 `[04/08 18:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powerline/powerline](https://github.com/powerline/powerline)  
 `[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/info.vim](https://github.com/HiPhish/info.vim)  
