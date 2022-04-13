@@ -39,6 +39,8 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[04/13 06:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging)  
+`[04/13 06:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/tmux-update-display](https://github.com/lljbash/tmux-update-display)  
 `[04/12 16:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MegaV0lt/MV_Backup](https://github.com/MegaV0lt/MV_Backup)  
 `[04/11 14:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)  
 `[04/11 14:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brndnmtthws/conky](https://github.com/brndnmtthws/conky)  
@@ -47,11 +49,11 @@ Test: Lower Than
 `[04/09 22:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ianmiell/history-service](https://github.com/ianmiell/history-service) to [slange-dev/history-service](https://github.com/slange-dev/history-service)  
 `[04/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ianmiell/history-service](https://github.com/ianmiell/history-service)  
 `[04/08 18:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powerline/powerline](https://github.com/powerline/powerline)  
-`[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/info.vim](https://github.com/HiPhish/info.vim)  
-`[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/awk-ward.nvim](https://github.com/HiPhish/awk-ward.nvim)  
 
 <details><summary>Show More</summary>
 
+`[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/info.vim](https://github.com/HiPhish/info.vim)  
+`[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/awk-ward.nvim](https://github.com/HiPhish/awk-ward.nvim)  
 `[04/07 20:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [todotxt/plugin-view](https://github.com/todotxt/plugin-view) to [slange-dev/plugin-view](https://github.com/slange-dev/plugin-view)  
 `[04/06 01:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wwalker/ssh-find-agent](https://github.com/wwalker/ssh-find-agent)  
 `[04/06 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [centic9/generate-and-send-ssh-key](https://github.com/centic9/generate-and-send-ssh-key)  
