@@ -102,9 +102,6 @@ Test: Lower Than
 `[01/22 19:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [taw00/element-rpm](https://github.com/taw00/element-rpm)  
 `[01/22 14:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [schorschii/LAPS4LINUX](https://github.com/schorschii/LAPS4LINUX)  
 `[01/21 11:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mthenw/frontail](https://github.com/mthenw/frontail)  
-`[01/17 15:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mrC2C/cis-benchmark-centOS-8](https://github.com/mrC2C/cis-benchmark-centOS-8)  
-`[01/17 12:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fcaviggia/hardened-centos7-kickstart](https://github.com/fcaviggia/hardened-centos7-kickstart)  
-`[01/17 12:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content)  
 
 </details>
 <!--END_SECTION:activity-->
