@@ -39,6 +39,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[04/19 22:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aide/aide](https://github.com/aide/aide)  
 `[04/19 21:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [astarafar/almalinux](https://github.com/astarafar/almalinux)  
 `[04/19 21:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ossec/ossec-docs](https://github.com/ossec/ossec-docs)  
 `[04/14 21:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)  
@@ -48,10 +49,10 @@ Test: Lower Than
 `[04/13 15:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout)  
 `[04/13 15:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter)  
 `[04/13 15:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy)  
-`[04/13 11:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 
 <details><summary>Show More</summary>
 
+`[04/13 11:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[04/13 10:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arl/gitmux](https://github.com/arl/gitmux)  
 `[04/13 09:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[04/13 08:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) to [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
