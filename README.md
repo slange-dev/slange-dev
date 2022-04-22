@@ -105,7 +105,6 @@ Test: Lower Than
 `[01/22 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [p0dalirius/pyLAPS](https://github.com/p0dalirius/pyLAPS)  
 `[01/22 19:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [taw00/element-rpm](https://github.com/taw00/element-rpm)  
 `[01/22 14:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [schorschii/LAPS4LINUX](https://github.com/schorschii/LAPS4LINUX)  
-`[01/21 11:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mthenw/frontail](https://github.com/mthenw/frontail)  
 
 </details>
 <!--END_SECTION:activity-->
