@@ -101,10 +101,6 @@ Test: Lower Than
 `[01/24 08:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cirosantilli/linux-cheat](https://github.com/cirosantilli/linux-cheat)  
 `[01/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
 `[01/24 01:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
-`[01/22 23:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/policy-templates](https://github.com/mozilla/policy-templates)  
-`[01/22 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [p0dalirius/pyLAPS](https://github.com/p0dalirius/pyLAPS)  
-`[01/22 19:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [taw00/element-rpm](https://github.com/taw00/element-rpm)  
-`[01/22 14:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [schorschii/LAPS4LINUX](https://github.com/schorschii/LAPS4LINUX)  
 
 </details>
 <!--END_SECTION:activity-->
