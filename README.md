@@ -99,8 +99,6 @@ Test: Lower Than
 `[01/26 17:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mihaliak/ssh-manager](https://github.com/mihaliak/ssh-manager)  
 `[01/25 17:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ossec/ossec-hids](https://github.com/ossec/ossec-hids)  
 `[01/24 08:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cirosantilli/linux-cheat](https://github.com/cirosantilli/linux-cheat)  
-`[01/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
-`[01/24 01:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 </details>
 <!--END_SECTION:activity-->
