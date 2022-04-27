@@ -95,8 +95,6 @@ Test: Lower Than
 `[02/02 20:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [logseq/logseq](https://github.com/logseq/logseq)  
 `[02/02 10:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chubin/cheat.sh](https://github.com/chubin/cheat.sh)  
 `[01/31 15:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034)  
-`[01/26 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tstack/lnav](https://github.com/tstack/lnav)  
-`[01/26 17:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mihaliak/ssh-manager](https://github.com/mihaliak/ssh-manager)  
 
 </details>
 <!--END_SECTION:activity-->
