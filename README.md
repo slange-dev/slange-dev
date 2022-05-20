@@ -39,6 +39,7 @@ Test: Lower Than
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[05/20 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avast/PurpleDome](https://github.com/avast/PurpleDome)  
 `[04/27 22:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bcrowell/when](https://github.com/bcrowell/when)  
 `[04/20 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)  
 `[04/19 22:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aide/aide](https://github.com/aide/aide)  
@@ -48,10 +49,10 @@ Test: Lower Than
 `[04/13 15:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus)  
 `[04/13 15:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [b0o/tmux-autoreload](https://github.com/b0o/tmux-autoreload)  
 `[04/13 15:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tassaron/tmux-df](https://github.com/tassaron/tmux-df)  
-`[04/13 15:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout)  
 
 <details><summary>Show More</summary>
 
+`[04/13 15:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout)  
 `[04/13 15:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter)  
 `[04/13 15:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy)  
 `[04/13 11:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
