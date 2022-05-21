@@ -12,6 +12,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[05/21 11:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [threathunters-io/laurel](https://github.com/threathunters-io/laurel)  
 `[05/21 09:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy1/auditd-attack](https://github.com/bfuzzy1/auditd-attack)  
 `[05/21 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy/auditd-attack](https://github.com/bfuzzy/auditd-attack)  
 `[05/21 09:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Neo23x0/auditd](https://github.com/Neo23x0/auditd)  
@@ -21,10 +22,10 @@
 `[04/27 22:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bcrowell/when](https://github.com/bcrowell/when)  
 `[04/20 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)  
 `[04/19 22:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aide/aide](https://github.com/aide/aide)  
-`[04/19 21:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [astarafar/almalinux](https://github.com/astarafar/almalinux)  
 
 <details><summary>Show More</summary>
 
+`[04/19 21:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [astarafar/almalinux](https://github.com/astarafar/almalinux)  
 `[04/19 21:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ossec/ossec-docs](https://github.com/ossec/ossec-docs)  
 `[04/14 21:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)  
 `[04/13 15:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus)  
