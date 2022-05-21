@@ -100,15 +100,15 @@ Test: Lower Than
 
 ## Statistics
 
-[![Slange-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=slange-dev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Slange-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=slange-dev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slange-dev&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slange-dev&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :hourglass_flowing_sand: This week I spent my time on
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=slange_dev&hide_title=true&hide_border=true&langs_count=10)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=slange_dev&hide_title=true&hide_border=true&langs_count=10&theme=dark)
 
-[![Slange-dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Slange-dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :memo: Blogs
 
