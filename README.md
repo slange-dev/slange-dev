@@ -159,6 +159,7 @@ You can also contribute with
 * Dev.to: [https://dev.to/slangedev](https://dev.to/slangedev)
 * Stackoverflow: [https://stackexchange.com/users/20881190/slange-dev](https://stackexchange.com/users/20881190/slange-dev)
 * Github: [@slange-dev](https://github.com/slange-dev)
+* GitLab: [@slange-dev](https://gitlab.com/slange-dev)
 
 ## :rocket: Created
 
