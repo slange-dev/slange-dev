@@ -75,8 +75,6 @@
 `[03/18 01:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) to [slange-dev/tmux-plugin-sysstat](https://github.com/slange-dev/tmux-plugin-sysstat)  
 `[03/17 02:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS)  
 `[03/17 02:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets)  
-`[03/17 01:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config)  
-`[03/17 00:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat)  
 
 </details>
 <!--END_SECTION:activity-->
