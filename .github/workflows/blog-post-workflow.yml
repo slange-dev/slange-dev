@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.4.0
-      - uses: khaosdoctor/blog-post-workflow@1.7.3
+      - uses: gautamkrishnar/blog-post-workflow@1.7.3
         with:
           comment_tag_name: "DEVTO"
           feed_list: "https://dev.to/feed/slangedev"
