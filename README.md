@@ -12,6 +12,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[06/18 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[06/13 21:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [baudm/ufw-frontends](https://github.com/baudm/ufw-frontends)  
 `[06/13 21:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/debian-scripts](https://github.com/thctlo/debian-scripts)  
 `[06/13 02:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/samba4](https://github.com/thctlo/samba4)  
@@ -21,10 +22,10 @@
 `[05/23 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/fzf](https://github.com/junegunn/fzf)  
 `[05/21 11:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [threathunters-io/laurel](https://github.com/threathunters-io/laurel)  
 `[05/21 09:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy1/auditd-attack](https://github.com/bfuzzy1/auditd-attack)  
-`[05/21 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy/auditd-attack](https://github.com/bfuzzy/auditd-attack)  
 
 <details><summary>Show More</summary>
 
+`[05/21 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy/auditd-attack](https://github.com/bfuzzy/auditd-attack)  
 `[05/21 09:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Neo23x0/auditd](https://github.com/Neo23x0/auditd)  
 `[05/21 09:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert)  
 `[05/21 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -72,9 +73,6 @@
 `[03/20 19:58]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout) to [slange-dev/tmux-keyboard-layout](https://github.com/slange-dev/tmux-keyboard-layout)  
 `[03/18 15:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator)  
 `[03/18 02:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/tmux-plugin-sysstat](https://github.com/slange-dev/tmux-plugin-sysstat)  
-`[03/18 01:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) to [slange-dev/tmux-plugin-sysstat](https://github.com/slange-dev/tmux-plugin-sysstat)  
-`[03/17 02:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS)  
-`[03/17 02:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets)  
 
 </details>
 <!--END_SECTION:activity-->
