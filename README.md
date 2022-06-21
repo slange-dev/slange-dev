@@ -70,7 +70,6 @@
 `[03/25 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vergoh/vnstat](https://github.com/vergoh/vnstat)  
 `[03/22 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m-manu/rsync-sidekick](https://github.com/m-manu/rsync-sidekick)  
 `[03/21 15:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux/tmux](https://github.com/tmux/tmux)  
-`[03/20 19:58]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout) to [slange-dev/tmux-keyboard-layout](https://github.com/slange-dev/tmux-keyboard-layout)  
 
 </details>
 <!--END_SECTION:activity-->
