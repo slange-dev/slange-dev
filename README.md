@@ -12,6 +12,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[06/25 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses)  
 `[06/18 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[06/13 21:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [baudm/ufw-frontends](https://github.com/baudm/ufw-frontends)  
 `[06/13 21:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/debian-scripts](https://github.com/thctlo/debian-scripts)  
@@ -21,10 +22,10 @@
 `[05/31 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/23 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/fzf](https://github.com/junegunn/fzf)  
 `[05/21 11:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [threathunters-io/laurel](https://github.com/threathunters-io/laurel)  
-`[05/21 09:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy1/auditd-attack](https://github.com/bfuzzy1/auditd-attack)  
 
 <details><summary>Show More</summary>
 
+`[05/21 09:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy1/auditd-attack](https://github.com/bfuzzy1/auditd-attack)  
 `[05/21 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy/auditd-attack](https://github.com/bfuzzy/auditd-attack)  
 `[05/21 09:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Neo23x0/auditd](https://github.com/Neo23x0/auditd)  
 `[05/21 09:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert)  
