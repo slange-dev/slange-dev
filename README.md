@@ -67,8 +67,6 @@
 `[04/01 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/nerdtree](https://github.com/preservim/nerdtree)  
 `[04/01 09:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-plug](https://github.com/junegunn/vim-plug)  
 `[03/31 11:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials)  
-`[03/25 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ofirgall/tmux-window-name](https://github.com/ofirgall/tmux-window-name)  
-`[03/25 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vergoh/vnstat](https://github.com/vergoh/vnstat)  
 
 </details>
 <!--END_SECTION:activity-->
