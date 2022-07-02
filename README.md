@@ -63,10 +63,6 @@
 `[04/07 20:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [todotxt/plugin-view](https://github.com/todotxt/plugin-view) to [slange-dev/plugin-view](https://github.com/slange-dev/plugin-view)  
 `[04/06 01:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wwalker/ssh-find-agent](https://github.com/wwalker/ssh-find-agent)  
 `[04/06 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [centic9/generate-and-send-ssh-key](https://github.com/centic9/generate-and-send-ssh-key)  
-`[04/01 16:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)  
-`[04/01 10:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter)  
-`[04/01 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/nerdtree](https://github.com/preservim/nerdtree)  
-`[04/01 09:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-plug](https://github.com/junegunn/vim-plug)  
 
 </details>
 <!--END_SECTION:activity-->
