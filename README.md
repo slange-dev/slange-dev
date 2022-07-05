@@ -12,6 +12,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/05 15:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist)  
 `[06/27 23:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ATAschert/CentOS8_Hardening](https://github.com/ATAschert/CentOS8_Hardening)  
 `[06/25 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses)  
 `[06/18 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -21,10 +22,10 @@
 `[06/08 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows)  
 `[06/02 22:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sadsfae/misc-scripts](https://github.com/sadsfae/misc-scripts)  
 `[05/31 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[05/23 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/fzf](https://github.com/junegunn/fzf)  
 
 <details><summary>Show More</summary>
 
+`[05/23 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/fzf](https://github.com/junegunn/fzf)  
 `[05/21 11:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [threathunters-io/laurel](https://github.com/threathunters-io/laurel)  
 `[05/21 09:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy1/auditd-attack](https://github.com/bfuzzy1/auditd-attack)  
 `[05/21 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy/auditd-attack](https://github.com/bfuzzy/auditd-attack)  
