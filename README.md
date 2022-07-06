@@ -62,8 +62,6 @@
 `[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/info.vim](https://github.com/HiPhish/info.vim)  
 `[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/awk-ward.nvim](https://github.com/HiPhish/awk-ward.nvim)  
 `[04/07 20:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [todotxt/plugin-view](https://github.com/todotxt/plugin-view) to [slange-dev/plugin-view](https://github.com/slange-dev/plugin-view)  
-`[04/06 01:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wwalker/ssh-find-agent](https://github.com/wwalker/ssh-find-agent)  
-`[04/06 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [centic9/generate-and-send-ssh-key](https://github.com/centic9/generate-and-send-ssh-key)  
 
 </details>
 <!--END_SECTION:activity-->
