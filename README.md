@@ -12,6 +12,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
+`[07/08 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/hardening-ks/tree/master) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abdalluhmostafa/hardening_linux](https://github.com/abdalluhmostafa/hardening_linux)  
@@ -21,10 +22,10 @@
 `[06/18 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[06/13 21:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [baudm/ufw-frontends](https://github.com/baudm/ufw-frontends)  
 `[06/13 21:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/debian-scripts](https://github.com/thctlo/debian-scripts)  
-`[06/13 02:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/samba4](https://github.com/thctlo/samba4)  
 
 <details><summary>Show More</summary>
 
+`[06/13 02:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/samba4](https://github.com/thctlo/samba4)  
 `[06/08 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows)  
 `[06/02 22:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sadsfae/misc-scripts](https://github.com/sadsfae/misc-scripts)  
 `[05/31 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
