@@ -12,7 +12,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[07/08 22:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `25` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/08 23:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/hardening-ks/tree/master) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abdalluhmostafa/hardening_linux](https://github.com/abdalluhmostafa/hardening_linux)  
