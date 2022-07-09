@@ -12,7 +12,7 @@
 ## :zap: Recent GitHub activitys
 
 <!--START_SECTION:activity-->
-`[07/08 23:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/09 01:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `44` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/hardening-ks/tree/master) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abdalluhmostafa/hardening_linux](https://github.com/abdalluhmostafa/hardening_linux)  
@@ -62,9 +62,6 @@
 `[04/10 00:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KarimElghamry/vim-auto-comment](https://github.com/KarimElghamry/vim-auto-comment)  
 `[04/09 22:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ianmiell/history-service](https://github.com/ianmiell/history-service) to [slange-dev/history-service](https://github.com/slange-dev/history-service)  
 `[04/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ianmiell/history-service](https://github.com/ianmiell/history-service)  
-`[04/08 18:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powerline/powerline](https://github.com/powerline/powerline)  
-`[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/info.vim](https://github.com/HiPhish/info.vim)  
-`[04/08 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiPhish/awk-ward.nvim](https://github.com/HiPhish/awk-ward.nvim)  
 
 </details>
 <!--END_SECTION:activity-->
