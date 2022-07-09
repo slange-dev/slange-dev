@@ -125,7 +125,6 @@ Contributions are what make the open source community such an amazing place to b
 * Visualizing Git: [Visualizing Git](https://git-school.github.io/visualizing-git/) (Learn git with challenges in a browser)
 * Git-It: [Git-It](https://github.com/jlord/git-it-electron) (Desktop App for learning Git and GitHub)
 
-
 #### Courses & Videos
 * Codecademy course: [Codecademy course](https://www.codecademy.com/learn/learn-git)
 - FreeCodeCamp Tutorial Git & GitHub: [Git & GitHub](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
