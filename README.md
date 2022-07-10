@@ -65,9 +65,6 @@
 `[04/11 14:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)  
 `[04/11 14:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brndnmtthws/conky](https://github.com/brndnmtthws/conky)  
 `[04/11 14:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load)  
-`[04/10 00:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KarimElghamry/vim-auto-comment](https://github.com/KarimElghamry/vim-auto-comment)  
-`[04/09 22:28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ianmiell/history-service](https://github.com/ianmiell/history-service) to [slange-dev/history-service](https://github.com/slange-dev/history-service)  
-`[04/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ianmiell/history-service](https://github.com/ianmiell/history-service)  
 
 </details>
 <!--END_SECTION:activity-->
