@@ -1,4 +1,4 @@
-## :mag: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square">
+## :mag: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square"> <a href="https://wakatime.com/@b9ca06e8-3961-4e7b-89c7-a5697a293916"><img align="right" src="https://wakatime.com/badge/user/b9ca06e8-3961-4e7b-89c7-a5697a293916.svg" alt="Total time coded since Feb 2 2021" /></a>
 
 ## :desktop_computer:
 
