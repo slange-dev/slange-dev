@@ -12,6 +12,7 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[07/12 12:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[07/09 03:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/09 03:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[07/09 03:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
@@ -21,10 +22,10 @@
 `[07/09 02:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `46` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/hardening-ks/tree/master) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
-`[07/08 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abdalluhmostafa/hardening_linux](https://github.com/abdalluhmostafa/hardening_linux)  
 
 <details><summary>Show More</summary>
 
+`[07/08 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abdalluhmostafa/hardening_linux](https://github.com/abdalluhmostafa/hardening_linux)  
 `[07/05 15:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist)  
 `[06/27 23:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ATAschert/CentOS8_Hardening](https://github.com/ATAschert/CentOS8_Hardening)  
 `[06/25 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses)  
