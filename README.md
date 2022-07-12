@@ -12,19 +12,24 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[07/12 23:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/12 23:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//slange-dev/hardening-ks/pull/3 'Update issue templates') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/12 23:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-issue-template`](https://github.com/slange-dev/hardening-ks/tree/slange-dev-issue-template) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/12 23:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/12 23:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//slange-dev/hardening-ks/pull/3 'Update issue templates') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 23:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//slange-dev/hardening-ks/pull/2 'Create auto_release.yml') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 23:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 23:13]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//slange-dev/hardening-ks/pull/2 'Create auto_release.yml') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 23:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-auto-release`](https://github.com/slange-dev/hardening-ks/tree/slange-dev-auto-release) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 12:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+
+<details><summary>Show More</summary>
+
 `[07/09 03:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/09 03:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[07/09 03:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/09 03:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//slange-dev/hardening-ks/pull/1 'Create LICENSE') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/09 03:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//slange-dev/hardening-ks/pull/1 'Create LICENSE') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
-
-<details><summary>Show More</summary>
-
 `[07/09 03:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-license-1`](https://github.com/slange-dev/hardening-ks/tree/add-license-1) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/09 02:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `46` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/08 14:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/hardening-ks/tree/master) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
