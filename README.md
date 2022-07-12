@@ -62,9 +62,6 @@
 `[04/13 06:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging)  
 `[04/13 06:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/tmux-update-display](https://github.com/lljbash/tmux-update-display)  
 `[04/12 16:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MegaV0lt/MV_Backup](https://github.com/MegaV0lt/MV_Backup)  
-`[04/11 14:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank)  
-`[04/11 14:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brndnmtthws/conky](https://github.com/brndnmtthws/conky)  
-`[04/11 14:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thewtex/tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load)  
 
 </details>
 <!--END_SECTION:activity-->
