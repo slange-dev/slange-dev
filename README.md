@@ -9,7 +9,7 @@
 ## :books:
 
 
-## :zap: Recent GitHub activitys
+## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
 `[07/09 03:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
