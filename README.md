@@ -12,6 +12,8 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[07/14 21:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MISP/MISP](https://github.com/MISP/MISP)  
+`[07/14 21:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/14 19:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eesmer/LastControl](https://github.com/eesmer/LastControl)  
 `[07/14 18:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [inspec/inspec](https://github.com/inspec/inspec)  
 `[07/14 17:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `61` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
@@ -20,11 +22,11 @@
 `[07/13 00:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//slange-dev/hardening-ks/pull/10 'Update issue templates') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:37]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//slange-dev/hardening-ks/pull/10 'Update issue templates') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
-`[07/13 00:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//slange-dev/hardening-ks/pull/9 'Update todo section') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
-`[07/13 00:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9`](https://github.com//slange-dev/hardening-ks/pull/9 'Update todo section') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 
 <details><summary>Show More</summary>
 
+`[07/13 00:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//slange-dev/hardening-ks/pull/9 'Update todo section') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/13 00:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9`](https://github.com//slange-dev/hardening-ks/pull/9 'Update todo section') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-todo`](https://github.com/slange-dev/hardening-ks/tree/slange-dev-todo) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 23:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//slange-dev/hardening-ks/pull/8 'Update CHANGELOG.md') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
