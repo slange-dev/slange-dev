@@ -12,7 +12,9 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
-`[07/13 21:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `73` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/14 01:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/14 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lastmjs/enable-cryptocurrency-in-funding-yml](https://github.com/lastmjs/enable-cryptocurrency-in-funding-yml)  
+`[07/14 01:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `82` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//slange-dev/hardening-ks/pull/10 'Update issue templates') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:37]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//slange-dev/hardening-ks/pull/10 'Update issue templates') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
@@ -20,11 +22,11 @@
 `[07/13 00:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9`](https://github.com//slange-dev/hardening-ks/pull/9 'Update todo section') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-todo`](https://github.com/slange-dev/hardening-ks/tree/slange-dev-todo) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/13 00:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
-`[07/12 23:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//slange-dev/hardening-ks/pull/8 'Update CHANGELOG.md') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
-`[07/12 23:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//slange-dev/hardening-ks/pull/8 'Update CHANGELOG.md') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 
 <details><summary>Show More</summary>
 
+`[07/12 23:48]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//slange-dev/hardening-ks/pull/8 'Update CHANGELOG.md') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
+`[07/12 23:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//slange-dev/hardening-ks/pull/8 'Update CHANGELOG.md') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 23:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-patch-2`](https://github.com/slange-dev/hardening-ks/tree/slange-dev-patch-2) in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 23:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
 `[07/12 23:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//slange-dev/hardening-ks/pull/7 'Release: 0.0.1') in [slange-dev/hardening-ks](https://github.com/slange-dev/hardening-ks)  
@@ -82,18 +84,6 @@
 `[04/19 21:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [astarafar/almalinux](https://github.com/astarafar/almalinux)  
 `[04/19 21:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ossec/ossec-docs](https://github.com/ossec/ossec-docs)  
 `[04/14 21:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)  
-`[04/13 15:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus)  
-`[04/13 15:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [b0o/tmux-autoreload](https://github.com/b0o/tmux-autoreload)  
-`[04/13 15:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tassaron/tmux-df](https://github.com/tassaron/tmux-df)  
-`[04/13 15:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout)  
-`[04/13 15:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-maildir-counter](https://github.com/tmux-plugins/tmux-maildir-counter)  
-`[04/13 15:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-cowboy](https://github.com/tmux-plugins/tmux-cowboy)  
-`[04/13 11:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
-`[04/13 10:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arl/gitmux](https://github.com/arl/gitmux)  
-`[04/13 09:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
-`[04/13 08:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) to [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
-`[04/13 06:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging)  
-`[04/13 06:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/tmux-update-display](https://github.com/lljbash/tmux-update-display)  
 
 </details>
 <!--END_SECTION:activity-->
