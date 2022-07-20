@@ -49,9 +49,6 @@
 `[05/20 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avast/PurpleDome](https://github.com/avast/PurpleDome)  
 `[04/27 22:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bcrowell/when](https://github.com/bcrowell/when)  
 `[04/20 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)  
-`[04/19 22:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aide/aide](https://github.com/aide/aide)  
-`[04/19 21:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [astarafar/almalinux](https://github.com/astarafar/almalinux)  
-`[04/19 21:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ossec/ossec-docs](https://github.com/ossec/ossec-docs)  
 
 </details>
 <!--END_SECTION:activity-->
