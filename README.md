@@ -48,7 +48,6 @@
 `[05/21 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/20 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avast/PurpleDome](https://github.com/avast/PurpleDome)  
 `[04/27 22:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bcrowell/when](https://github.com/bcrowell/when)  
-`[04/20 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)  
 
 </details>
 <!--END_SECTION:activity-->
