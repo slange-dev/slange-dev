@@ -12,6 +12,9 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[07/24 18:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxsquad/Linux_Workstation_Harden_Security](https://github.com/linuxsquad/Linux_Workstation_Harden_Security)  
+`[07/24 17:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheOnodrim/Shield](https://github.com/TheOnodrim/Shield)  
+`[07/24 17:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ayethatsright/RedHat_Hardening_Script](https://github.com/ayethatsright/RedHat_Hardening_Script)  
 `[07/16 05:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sokdr/LinuxAudit](https://github.com/sokdr/LinuxAudit)  
 `[07/16 04:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [emirozer/nixarmor](https://github.com/emirozer/nixarmor)  
 `[07/16 04:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [k4yt3x/nftables](https://github.com/k4yt3x/nftables)  
@@ -19,12 +22,12 @@
 `[07/16 03:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit)  
 `[07/16 03:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ovh/debian-cis](https://github.com/ovh/debian-cis)  
 `[07/15 14:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [a13xp0p0v/kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check)  
-`[07/15 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh)  
-`[07/14 21:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MISP/MISP](https://github.com/MISP/MISP)  
-`[07/14 19:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eesmer/LastControl](https://github.com/eesmer/LastControl)  
 
 <details><summary>Show More</summary>
 
+`[07/15 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh)  
+`[07/14 21:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MISP/MISP](https://github.com/MISP/MISP)  
+`[07/14 19:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eesmer/LastControl](https://github.com/eesmer/LastControl)  
 `[07/14 18:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [inspec/inspec](https://github.com/inspec/inspec)  
 `[07/14 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lastmjs/enable-cryptocurrency-in-funding-yml](https://github.com/lastmjs/enable-cryptocurrency-in-funding-yml)  
 `[07/12 12:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
