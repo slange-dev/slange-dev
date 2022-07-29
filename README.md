@@ -12,6 +12,7 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[07/29 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linux-application-whitelisting/fapolicyd](https://github.com/linux-application-whitelisting/fapolicyd)  
 `[07/29 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt)  
 `[07/26 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/hardened-rocky8-kickstart](https://github.com/slange-dev/hardened-rocky8-kickstart)  
 `[07/26 14:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [fcaviggia/hardened-centos7-kickstart](https://github.com/fcaviggia/hardened-centos7-kickstart) to [slange-dev/hardened-rocky8-kickstart](https://github.com/slange-dev/hardened-rocky8-kickstart)  
@@ -21,10 +22,10 @@
 `[07/24 17:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ayethatsright/RedHat_Hardening_Script](https://github.com/ayethatsright/RedHat_Hardening_Script)  
 `[07/16 05:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sokdr/LinuxAudit](https://github.com/sokdr/LinuxAudit)  
 `[07/16 04:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [emirozer/nixarmor](https://github.com/emirozer/nixarmor)  
-`[07/16 04:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [k4yt3x/nftables](https://github.com/k4yt3x/nftables)  
 
 <details><summary>Show More</summary>
 
+`[07/16 04:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [k4yt3x/nftables](https://github.com/k4yt3x/nftables)  
 `[07/16 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [k4yt3x/sysctl](https://github.com/k4yt3x/sysctl)  
 `[07/16 03:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit)  
 `[07/16 03:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ovh/debian-cis](https://github.com/ovh/debian-cis)  
