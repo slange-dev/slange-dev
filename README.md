@@ -12,6 +12,7 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[08/03 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit)  
 `[07/31 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dthurston/fapolicyd-configuration](https://github.com/dthurston/fapolicyd-configuration)  
 `[07/29 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linux-application-whitelisting/fapolicyd](https://github.com/linux-application-whitelisting/fapolicyd)  
 `[07/29 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt)  
@@ -21,10 +22,10 @@
 `[07/24 18:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxsquad/Linux_Workstation_Harden_Security](https://github.com/linuxsquad/Linux_Workstation_Harden_Security)  
 `[07/24 17:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheOnodrim/Shield](https://github.com/TheOnodrim/Shield)  
 `[07/24 17:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ayethatsright/RedHat_Hardening_Script](https://github.com/ayethatsright/RedHat_Hardening_Script)  
-`[07/16 05:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sokdr/LinuxAudit](https://github.com/sokdr/LinuxAudit)  
 
 <details><summary>Show More</summary>
 
+`[07/16 05:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sokdr/LinuxAudit](https://github.com/sokdr/LinuxAudit)  
 `[07/16 04:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [emirozer/nixarmor](https://github.com/emirozer/nixarmor)  
 `[07/16 04:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [k4yt3x/nftables](https://github.com/k4yt3x/nftables)  
 `[07/16 04:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [k4yt3x/sysctl](https://github.com/k4yt3x/sysctl)  
