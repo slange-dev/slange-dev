@@ -2,12 +2,7 @@
 
 ## :desktop_computer:
 
-
 ## :books:
-
-
-## :books:
-
 
 ## :zap: GitHub activity
 
