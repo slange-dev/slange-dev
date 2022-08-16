@@ -7,6 +7,7 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[08/16 09:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dmitriykuptsov/tacacsgui](https://github.com/dmitriykuptsov/tacacsgui)  
 `[08/16 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bareos/bareos](https://github.com/bareos/bareos)  
 `[08/04 21:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[08/04 19:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -16,10 +17,10 @@
 `[08/03 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit)  
 `[07/31 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dthurston/fapolicyd-configuration](https://github.com/dthurston/fapolicyd-configuration)  
 `[07/29 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linux-application-whitelisting/fapolicyd](https://github.com/linux-application-whitelisting/fapolicyd)  
-`[07/29 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt)  
 
 <details><summary>Show More</summary>
 
+`[07/29 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt)  
 `[07/26 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/hardened-rocky8-kickstart](https://github.com/slange-dev/hardened-rocky8-kickstart)  
 `[07/26 14:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [fcaviggia/hardened-centos7-kickstart](https://github.com/fcaviggia/hardened-centos7-kickstart) to [slange-dev/hardened-rocky8-kickstart](https://github.com/slange-dev/hardened-rocky8-kickstart)  
 `[07/26 05:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [librenms/librenms](https://github.com/librenms/librenms)  
