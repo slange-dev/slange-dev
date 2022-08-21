@@ -7,6 +7,7 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[08/21 00:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)  
 `[08/20 16:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brianclements/pkictl](https://github.com/brianclements/pkictl)  
 `[08/17 05:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server)  
 `[08/16 09:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dmitriykuptsov/tacacsgui](https://github.com/dmitriykuptsov/tacacsgui)  
@@ -16,10 +17,10 @@
 `[08/04 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[08/04 04:55]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[08/04 04:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/slange-dev/evaluate-scap/tree/master) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
-`[08/03 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit)  
 
 <details><summary>Show More</summary>
 
+`[08/03 06:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit)  
 `[07/31 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dthurston/fapolicyd-configuration](https://github.com/dthurston/fapolicyd-configuration)  
 `[07/29 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linux-application-whitelisting/fapolicyd](https://github.com/linux-application-whitelisting/fapolicyd)  
 `[07/29 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt)  
@@ -59,8 +60,6 @@
 `[05/21 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bfuzzy/auditd-attack](https://github.com/bfuzzy/auditd-attack)  
 `[05/21 09:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Neo23x0/auditd](https://github.com/Neo23x0/auditd)  
 `[05/21 09:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert)  
-`[05/21 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[05/20 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avast/PurpleDome](https://github.com/avast/PurpleDome)  
 
 </details>
 <!--END_SECTION:activity-->
