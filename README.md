@@ -57,7 +57,6 @@
 `[06/08 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows)  
 `[06/02 22:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sadsfae/misc-scripts](https://github.com/sadsfae/misc-scripts)  
 `[05/31 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[05/23 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/fzf](https://github.com/junegunn/fzf)  
 
 </details>
 <!--END_SECTION:activity-->
