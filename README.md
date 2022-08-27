@@ -7,6 +7,7 @@
 ## :zap: GitHub activity
 
 <!--START_SECTION:activity-->
+`[08/27 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clhore/autoDC.sh](https://github.com/clhore/autoDC.sh)  
 `[08/27 03:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ClaudioMerola/ADxRay](https://github.com/ClaudioMerola/ADxRay)  
 `[08/26 08:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jymigeon/gpgsm-as-ca](https://github.com/jymigeon/gpgsm-as-ca)  
 `[08/24 04:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chris2511/xca](https://github.com/chris2511/xca)  
@@ -16,10 +17,10 @@
 `[08/22 07:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radiushub/FreeRADIUS-Server-Configuration-Tool](https://github.com/radiushub/FreeRADIUS-Server-Configuration-Tool)  
 `[08/21 04:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamielinux/bashmount](https://github.com/jamielinux/bashmount)  
 `[08/21 00:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)  
-`[08/20 16:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brianclements/pkictl](https://github.com/brianclements/pkictl)  
 
 <details><summary>Show More</summary>
 
+`[08/20 16:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brianclements/pkictl](https://github.com/brianclements/pkictl)  
 `[08/17 05:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server)  
 `[08/16 09:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dmitriykuptsov/tacacsgui](https://github.com/dmitriykuptsov/tacacsgui)  
 `[08/16 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bareos/bareos](https://github.com/bareos/bareos)  
