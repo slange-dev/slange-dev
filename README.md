@@ -1,13 +1,19 @@
-## :mag: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square"> <a href="https://wakatime.com/@b9ca06e8-3961-4e7b-89c7-a5697a293916"><img align="right" src="https://wakatime.com/badge/user/b9ca06e8-3961-4e7b-89c7-a5697a293916.svg" alt="Total time coded since Feb 2 2021" /></a>
+<details>
+  <summary><b> :mag: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=slange-dev&style=flat-square"> <a href="https://wakatime.com/@b9ca06e8-3961-4e7b-89c7-a5697a293916"><img align="right" src="https://wakatime.com/badge/user/b9ca06e8-3961-4e7b-89c7-a5697a293916.svg" alt="Total time coded since Feb 2 2021" /></a> </b></summary>
+</details>
 
-## :desktop_computer:
+<details>
+  <summary><b> :desktop_computer: </b></summary>
+</details>
 
-## :books:
+<details>
+  <summary><b> :books: </b></summary>
+</details>
 
-## :zap: GitHub activity
+<details>
+  <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
-`[08/28 23:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[08/28 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RedHatGov/rhel8-stig-latest](https://github.com/RedHatGov/rhel8-stig-latest)  
 `[08/27 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clhore/autoDC.sh](https://github.com/clhore/autoDC.sh)  
 `[08/27 03:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ClaudioMerola/ADxRay](https://github.com/ClaudioMerola/ADxRay)  
@@ -17,10 +23,10 @@
 `[08/24 02:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC)  
 `[08/23 05:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dwinurhadia/freeradius-macauth](https://github.com/dwinurhadia/freeradius-macauth)  
 `[08/22 07:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radiushub/FreeRADIUS-Server-Configuration-Tool](https://github.com/radiushub/FreeRADIUS-Server-Configuration-Tool)  
+`[08/21 04:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamielinux/bashmount](https://github.com/jamielinux/bashmount)  
 
 <details><summary>Show More</summary>
 
-`[08/21 04:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamielinux/bashmount](https://github.com/jamielinux/bashmount)  
 `[08/21 00:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)  
 `[08/20 16:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brianclements/pkictl](https://github.com/brianclements/pkictl)  
 `[08/17 05:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server)  
@@ -67,19 +73,25 @@
 `[05/31 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
+</details>
 <!--END_SECTION:activity-->
 
-## Statistics
+<details>
+  <summary><b> Statistics </b></summary>
 
 [![Slange-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=slange-dev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slange-dev&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
-## :hourglass_flowing_sand: This week I spent my time on
+<details>
+  <summary><b> :hourglass_flowing_sand: This week I spent my time on </b></summary>
 
 [![Slange-dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
-## :memo: Blogs
+<details>
+  <summary><b> :memo: Blogs </b></summary>
 
 ### Dev.to Community Posts
 
@@ -96,6 +108,7 @@
 
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
+</details>
 
 ## :handshake: Contributing
 
