@@ -77,7 +77,7 @@
 <!--END_SECTION:activity-->
 
 <details>
-  <summary><b> Statistics </b></summary>
+  <summary><b> 📈 Statistics </b></summary>
 
 [![Slange-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=slange-dev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
