@@ -13,15 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.4.0
-      - uses: gautamkrishnar/blog-post-workflow@1.7.3
+      - uses: gautamkrishnar/blog-post-workflow@1.7.8
         with:
           comment_tag_name: "DEVTO"
           feed_list: "https://dev.to/feed/slangedev"
-      #- uses: gautamkrishnar/blog-post-workflow@1.7.3
+      #- uses: gautamkrishnar/blog-post-workflow@1.7.8
         #with:
           #comment_tag_name: "MEDIUM"
           #feed_list: "https://medium.com/feed/@slange-dev"
-      - uses: gautamkrishnar/blog-post-workflow@1.7.3
+      - uses: gautamkrishnar/blog-post-workflow@1.7.8
         with:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://stackoverflow.com/feeds/user/15338883"
