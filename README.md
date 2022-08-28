@@ -76,8 +76,6 @@
 
 ## :hourglass_flowing_sand: This week I spent my time on
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=slange_dev&langs_count=10&theme=dark)
-
 [![Slange-dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :memo: Blogs
