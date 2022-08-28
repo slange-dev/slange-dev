@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[08/28 23:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[08/28 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RedHatGov/rhel8-stig-latest](https://github.com/RedHatGov/rhel8-stig-latest)  
 `[08/27 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clhore/autoDC.sh](https://github.com/clhore/autoDC.sh)  
 `[08/27 03:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ClaudioMerola/ADxRay](https://github.com/ClaudioMerola/ADxRay)  
@@ -23,10 +24,10 @@
 `[08/24 02:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC)  
 `[08/23 05:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dwinurhadia/freeradius-macauth](https://github.com/dwinurhadia/freeradius-macauth)  
 `[08/22 07:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radiushub/FreeRADIUS-Server-Configuration-Tool](https://github.com/radiushub/FreeRADIUS-Server-Configuration-Tool)  
-`[08/21 04:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamielinux/bashmount](https://github.com/jamielinux/bashmount)  
 
 <details><summary>Show More</summary>
 
+`[08/21 04:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamielinux/bashmount](https://github.com/jamielinux/bashmount)  
 `[08/21 00:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)  
 `[08/20 16:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brianclements/pkictl](https://github.com/brianclements/pkictl)  
 `[08/17 05:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server)  
@@ -72,7 +73,6 @@
 `[06/02 22:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sadsfae/misc-scripts](https://github.com/sadsfae/misc-scripts)  
 `[05/31 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
-</details>
 </details>
 <!--END_SECTION:activity-->
 
