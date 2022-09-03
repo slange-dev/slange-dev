@@ -25,7 +25,7 @@
 `[08/23 05:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dwinurhadia/freeradius-macauth](https://github.com/dwinurhadia/freeradius-macauth)  
 `[08/22 07:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radiushub/FreeRADIUS-Server-Configuration-Tool](https://github.com/radiushub/FreeRADIUS-Server-Configuration-Tool)  
 
-<details><summary>Show More</summary>
+<summary>Show More</summary>
 
 `[08/21 04:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamielinux/bashmount](https://github.com/jamielinux/bashmount)  
 `[08/21 00:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)  
