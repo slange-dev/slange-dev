@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[09/03 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/03 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appelgriebsch/dotFiles](https://github.com/appelgriebsch/dotFiles)  
 `[09/03 00:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[08/28 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RedHatGov/rhel8-stig-latest](https://github.com/RedHatGov/rhel8-stig-latest)  
@@ -23,10 +24,10 @@
 `[08/24 04:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chris2511/xca](https://github.com/chris2511/xca)  
 `[08/24 02:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSC/pam_pkcs11](https://github.com/OpenSC/pam_pkcs11)  
 `[08/24 02:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC)  
+
+<details><summary>Show More</summary>
+
 `[08/23 05:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dwinurhadia/freeradius-macauth](https://github.com/dwinurhadia/freeradius-macauth)  
-
-<summary>Show More</summary>
-
 `[08/22 07:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [radiushub/FreeRADIUS-Server-Configuration-Tool](https://github.com/radiushub/FreeRADIUS-Server-Configuration-Tool)  
 `[08/21 04:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamielinux/bashmount](https://github.com/jamielinux/bashmount)  
 `[08/21 00:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)  
