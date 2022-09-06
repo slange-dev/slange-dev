@@ -75,6 +75,7 @@
 
 </details>
 <!--END_SECTION:activity-->
+</details>
 
 <details>
   <summary><b> 📈 Statistics </b></summary>
