@@ -11,11 +11,11 @@ on:
   
 jobs:
   build:
-
+    #
     runs-on: ubuntu-latest
-
+    #
     steps:
-    - uses: actions/checkout@v2.4.0
+    - uses: actions/checkout@v3.0.2
       with:
         # Personal access token (PAT) used to fetch the repository. The PAT is configured
         # with the local git config, which enables your scripts to run authenticated git
@@ -85,12 +85,13 @@ jobs:
         # Default: false
         # submodules: ''
 
-    #
+    # Misspell-fixer-action
     - uses: sobolevn/misspell-fixer-action@0.1.0
       with:
-        options: "-rsvn . "
-    #
-    - uses: peter-evans/create-pull-request@v3.8.2
+        options: "-rsvn . src/"
+
+    # Pull-request
+    - uses: peter-evans/create-pull-request@v4.1.1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "Fixes by misspell-fixer"
