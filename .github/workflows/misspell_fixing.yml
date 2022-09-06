@@ -88,7 +88,7 @@ jobs:
     # Misspell-fixer-action
     - uses: sobolevn/misspell-fixer-action@0.1.0
       with:
-        options: "-rsvn . src/"
+        options: "-rsvnugRV ."
 
     # Pull-request
     - uses: peter-evans/create-pull-request@v4.1.1
