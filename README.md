@@ -175,4 +175,4 @@ Created in 2021 by [slange-dev](https://github.com/slange-dev)
 
 failur test
 
-febriry
+februsry
