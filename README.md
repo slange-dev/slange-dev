@@ -82,7 +82,6 @@
 `[06/13 21:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [baudm/ufw-frontends](https://github.com/baudm/ufw-frontends)  
 `[06/13 21:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/debian-scripts](https://github.com/thctlo/debian-scripts)  
 `[06/13 02:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/samba4](https://github.com/thctlo/samba4)  
-`[06/08 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows)  
 
 </details>
 <!--END_SECTION:activity-->
