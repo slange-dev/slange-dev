@@ -124,7 +124,7 @@
 </details>
 
 ## :handshake: Contributing
-TT
+
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project (`git clone https://github.com/slange-dev/....git` OR `git clone git://github.com/slange-dev/...git`)
