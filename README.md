@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[09/10 09:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [swoopla/smartcard-luks](https://github.com/swoopla/smartcard-luks)  
 `[09/10 09:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [episource/Keepass-SmartcardEncryptedKeyFile](https://github.com/episource/Keepass-SmartcardEncryptedKeyFile)  
 `[09/10 09:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [T-Systems-MMS/keepassxc-p11-wrapper](https://github.com/T-Systems-MMS/keepassxc-p11-wrapper)  
 `[09/10 01:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NoMoreFood/putty-cac](https://github.com/NoMoreFood/putty-cac)  
@@ -23,10 +24,10 @@
 `[09/06 03:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/06 03:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//slange-dev/slange-dev/pull/2 'Update README.md') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/06 03:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[09/06 03:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield)  
 
 <details><summary>Show More</summary>
 
+`[09/06 03:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield)  
 `[09/06 03:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/06 03:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [reviewdog/action-remark-lint](https://github.com/reviewdog/action-remark-lint)  
 `[09/06 03:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
