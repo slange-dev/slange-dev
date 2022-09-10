@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[09/10 10:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSC/pam_p11](https://github.com/OpenSC/pam_p11)  
 `[09/10 10:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GSA/piv-conformance](https://github.com/GSA/piv-conformance)  
 `[09/10 10:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GSA/piv-guides](https://github.com/GSA/piv-guides)  
 `[09/10 09:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [swoopla/smartcard-luks](https://github.com/swoopla/smartcard-luks)  
@@ -23,10 +24,10 @@
 `[09/09 22:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/09 20:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vletoux/OpenPGP-CSP](https://github.com/vletoux/OpenPGP-CSP)  
 `[09/08 12:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rookiestyle/ColoredPassword](https://github.com/Rookiestyle/ColoredPassword)  
-`[09/06 03:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 <details><summary>Show More</summary>
 
+`[09/06 03:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/06 03:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//slange-dev/slange-dev/pull/2 'Update README.md') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/06 03:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/06 03:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield)  
