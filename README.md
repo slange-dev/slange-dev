@@ -88,9 +88,6 @@
 `[06/27 23:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ATAschert/CentOS8_Hardening](https://github.com/ATAschert/CentOS8_Hardening)  
 `[06/25 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses)  
 `[06/18 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[06/13 21:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [baudm/ufw-frontends](https://github.com/baudm/ufw-frontends)  
-`[06/13 21:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/debian-scripts](https://github.com/thctlo/debian-scripts)  
-`[06/13 02:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thctlo/samba4](https://github.com/thctlo/samba4)  
 
 </details>
 <!--END_SECTION:activity-->
