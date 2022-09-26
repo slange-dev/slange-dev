@@ -87,7 +87,6 @@
 `[07/08 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abdalluhmostafa/hardening_linux](https://github.com/abdalluhmostafa/hardening_linux)  
 `[07/05 15:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trimstray/linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist)  
 `[06/27 23:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ATAschert/CentOS8_Hardening](https://github.com/ATAschert/CentOS8_Hardening)  
-`[06/25 09:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses)  
 
 </details>
 <!--END_SECTION:activity-->
