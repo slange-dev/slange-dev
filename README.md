@@ -83,7 +83,6 @@
 `[07/14 21:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MISP/MISP](https://github.com/MISP/MISP)  
 `[07/14 19:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eesmer/LastControl](https://github.com/eesmer/LastControl)  
 `[07/14 18:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [inspec/inspec](https://github.com/inspec/inspec)  
-`[07/14 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lastmjs/enable-cryptocurrency-in-funding-yml](https://github.com/lastmjs/enable-cryptocurrency-in-funding-yml)  
 
 </details>
 <!--END_SECTION:activity-->
