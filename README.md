@@ -79,10 +79,6 @@
 `[07/16 03:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit)  
 `[07/16 03:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ovh/debian-cis](https://github.com/ovh/debian-cis)  
 `[07/15 14:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [a13xp0p0v/kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check)  
-`[07/15 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [x08d/lockdown.sh](https://github.com/x08d/lockdown.sh)  
-`[07/14 21:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MISP/MISP](https://github.com/MISP/MISP)  
-`[07/14 19:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eesmer/LastControl](https://github.com/eesmer/LastControl)  
-`[07/14 18:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [inspec/inspec](https://github.com/inspec/inspec)  
 
 </details>
 <!--END_SECTION:activity-->
