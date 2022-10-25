@@ -69,9 +69,6 @@
 `[07/26 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/hardened-rocky8-kickstart](https://github.com/slange-dev/hardened-rocky8-kickstart)  
 `[07/26 14:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [fcaviggia/hardened-centos7-kickstart](https://github.com/fcaviggia/hardened-centos7-kickstart) to [slange-dev/hardened-rocky8-kickstart](https://github.com/slange-dev/hardened-rocky8-kickstart)  
 `[07/26 05:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [librenms/librenms](https://github.com/librenms/librenms)  
-`[07/24 18:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxsquad/Linux_Workstation_Harden_Security](https://github.com/linuxsquad/Linux_Workstation_Harden_Security)  
-`[07/24 17:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheOnodrim/Shield](https://github.com/TheOnodrim/Shield)  
-`[07/24 17:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ayethatsright/RedHat_Hardening_Script](https://github.com/ayethatsright/RedHat_Hardening_Script)  
 
 </details>
 <!--END_SECTION:activity-->
