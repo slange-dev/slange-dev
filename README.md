@@ -66,9 +66,6 @@
 `[07/31 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dthurston/fapolicyd-configuration](https://github.com/dthurston/fapolicyd-configuration)  
 `[07/29 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linux-application-whitelisting/fapolicyd](https://github.com/linux-application-whitelisting/fapolicyd)  
 `[07/29 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HACKERALERT/Picocrypt](https://github.com/HACKERALERT/Picocrypt)  
-`[07/26 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/hardened-rocky8-kickstart](https://github.com/slange-dev/hardened-rocky8-kickstart)  
-`[07/26 14:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [fcaviggia/hardened-centos7-kickstart](https://github.com/fcaviggia/hardened-centos7-kickstart) to [slange-dev/hardened-rocky8-kickstart](https://github.com/slange-dev/hardened-rocky8-kickstart)  
-`[07/26 05:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [librenms/librenms](https://github.com/librenms/librenms)  
 
 </details>
 <!--END_SECTION:activity-->
