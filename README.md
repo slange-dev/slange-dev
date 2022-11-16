@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[11/16 12:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)  
 `[11/04 02:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dandavison/delta](https://github.com/dandavison/delta)  
 `[09/26 21:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[09/18 18:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fhstp/SoniControl](https://github.com/fhstp/SoniControl)  
@@ -23,10 +24,10 @@
 `[09/10 09:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [swoopla/smartcard-luks](https://github.com/swoopla/smartcard-luks)  
 `[09/10 09:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [episource/Keepass-SmartcardEncryptedKeyFile](https://github.com/episource/Keepass-SmartcardEncryptedKeyFile)  
 `[09/10 09:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [T-Systems-MMS/keepassxc-p11-wrapper](https://github.com/T-Systems-MMS/keepassxc-p11-wrapper)  
-`[09/10 01:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NoMoreFood/putty-cac](https://github.com/NoMoreFood/putty-cac)  
 
 <details><summary>Show More</summary>
 
+`[09/10 01:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NoMoreFood/putty-cac](https://github.com/NoMoreFood/putty-cac)  
 `[09/09 22:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/09 20:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vletoux/OpenPGP-CSP](https://github.com/vletoux/OpenPGP-CSP)  
 `[09/08 12:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rookiestyle/ColoredPassword](https://github.com/Rookiestyle/ColoredPassword)  
