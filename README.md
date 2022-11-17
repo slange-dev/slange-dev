@@ -57,8 +57,6 @@
 `[08/21 00:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)  
 `[08/20 16:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brianclements/pkictl](https://github.com/brianclements/pkictl)  
 `[08/17 05:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server)  
-`[08/16 09:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dmitriykuptsov/tacacsgui](https://github.com/dmitriykuptsov/tacacsgui)  
-`[08/16 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bareos/bareos](https://github.com/bareos/bareos)  
 
 </details>
 <!--END_SECTION:activity-->
