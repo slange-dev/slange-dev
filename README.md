@@ -51,7 +51,6 @@
 `[08/24 04:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chris2511/xca](https://github.com/chris2511/xca)  
 `[08/24 02:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSC/pam_pkcs11](https://github.com/OpenSC/pam_pkcs11)  
 `[08/24 02:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC)  
-`[08/23 05:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dwinurhadia/freeradius-macauth](https://github.com/dwinurhadia/freeradius-macauth)  
 
 </details>
 <!--END_SECTION:activity-->
