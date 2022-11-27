@@ -47,7 +47,6 @@
 `[08/28 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RedHatGov/rhel8-stig-latest](https://github.com/RedHatGov/rhel8-stig-latest)  
 `[08/27 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clhore/autoDC.sh](https://github.com/clhore/autoDC.sh)  
 `[08/27 03:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ClaudioMerola/ADxRay](https://github.com/ClaudioMerola/ADxRay)  
-`[08/26 08:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jymigeon/gpgsm-as-ca](https://github.com/jymigeon/gpgsm-as-ca)  
 
 </details>
 <!--END_SECTION:activity-->
