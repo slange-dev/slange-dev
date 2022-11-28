@@ -45,8 +45,6 @@
 `[09/03 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appelgriebsch/dotFiles](https://github.com/appelgriebsch/dotFiles)  
 `[09/03 00:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[08/28 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RedHatGov/rhel8-stig-latest](https://github.com/RedHatGov/rhel8-stig-latest)  
-`[08/27 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clhore/autoDC.sh](https://github.com/clhore/autoDC.sh)  
-`[08/27 03:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ClaudioMerola/ADxRay](https://github.com/ClaudioMerola/ADxRay)  
 
 </details>
 <!--END_SECTION:activity-->
