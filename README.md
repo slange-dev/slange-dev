@@ -41,7 +41,7 @@
 `[09/06 03:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vlajos/misspell-fixer](https://github.com/vlajos/misspell-fixer)  
 `[09/06 02:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[09/06 02:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Roblox-ActionsCache/sobolevn-misspell-fixer-action](https://github.com/Roblox-ActionsCache/sobolevn-misspell-fixer-action)  
-`[09/06 02:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[09/06 02:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 </details>
 <!--END_SECTION:activity-->
