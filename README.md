@@ -25,10 +25,6 @@
 `[09/10 09:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [episource/Keepass-SmartcardEncryptedKeyFile](https://github.com/episource/Keepass-SmartcardEncryptedKeyFile)  
 `[09/10 09:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [T-Systems-MMS/keepassxc-p11-wrapper](https://github.com/T-Systems-MMS/keepassxc-p11-wrapper)  
 
-<details><summary>Show More</summary>
-
-`[09/10 01:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NoMoreFood/putty-cac](https://github.com/NoMoreFood/putty-cac)  
-
 </details>
 <!--END_SECTION:activity-->
 </details>
