@@ -28,8 +28,6 @@
 <details><summary>Show More</summary>
 
 `[09/10 01:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NoMoreFood/putty-cac](https://github.com/NoMoreFood/putty-cac)  
-`[09/09 22:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[09/09 20:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vletoux/OpenPGP-CSP](https://github.com/vletoux/OpenPGP-CSP)  
 
 </details>
 <!--END_SECTION:activity-->
