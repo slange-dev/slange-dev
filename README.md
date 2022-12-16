@@ -14,7 +14,11 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
-`[12/16 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/16 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/16 13:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//slange-dev/evaluate-scap/pull/2 'Create LICENSE') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/16 13:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//slange-dev/evaluate-scap/pull/2 'Create LICENSE') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/16 13:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-license-1`](https://github.com/slange-dev/evaluate-scap/tree/add-license-1) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/16 13:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[11/16 12:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)  
 `[11/04 02:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dandavison/delta](https://github.com/dandavison/delta)  
 `[09/26 21:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
