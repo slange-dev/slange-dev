@@ -14,6 +14,9 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[12/21 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zuberfowler/HASM](https://github.com/zuberfowler/HASM)  
+`[12/21 22:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/zlinux](https://github.com/moshix/zlinux)  
+`[12/21 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [racingmars/ctc-mainframe-api](https://github.com/racingmars/ctc-mainframe-api)  
 `[12/17 15:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)  
 `[12/17 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/17 15:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [codeclimate/codeclimate](https://github.com/codeclimate/codeclimate)  
@@ -21,12 +24,12 @@
 `[12/17 14:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSCAP/scap-workbench](https://github.com/OpenSCAP/scap-workbench)  
 `[12/17 14:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap)  
 `[12/17 11:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `47` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
-`[12/16 23:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint)  
-`[12/16 23:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
-`[12/16 22:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3`](https://github.com//slange-dev/evaluate-scap/pull/3 'Bump codacy/codacy-analysis-cli-action from 1.1.0 to 4.2.0') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 
 <details><summary>Show More</summary>
 
+`[12/16 23:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint)  
+`[12/16 23:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/16 22:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#3`](https://github.com//slange-dev/evaluate-scap/pull/3 'Bump codacy/codacy-analysis-cli-action from 1.1.0 to 4.2.0') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/16 22:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [codacy/codacy-analysis-cli-action](https://github.com/codacy/codacy-analysis-cli-action)  
 `[12/16 22:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3`](https://github.com//slange-dev/evaluate-scap/pull/3 'Bump codacy/codacy-analysis-cli-action from 1.1.0 to 4.2.0') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/16 22:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
