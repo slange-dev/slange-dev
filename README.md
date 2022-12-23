@@ -14,19 +14,25 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[12/23 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/23 04:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//slange-dev/evaluate-scap/pull/6 'Create .codeclimate.yml') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/23 04:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//slange-dev/evaluate-scap/pull/6 'Create .codeclimate.yml') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/23 04:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-create-1`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-create-1) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/23 04:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/23 04:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//slange-dev/evaluate-scap/pull/5 'Update README.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/23 04:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//slange-dev/evaluate-scap/pull/5 'Update README.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/23 04:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-update-2`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-update-2) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/23 04:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/23 04:07]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//slange-dev/evaluate-scap/pull/4 'Update codacy.yml') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+
+<details><summary>Show More</summary>
+
 `[12/23 04:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//slange-dev/evaluate-scap/pull/4 'Update codacy.yml') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/23 04:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-update-1`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-update-1) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/23 04:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[12/23 04:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//slange-dev/slange-dev/pull/3 'Update blog-post-workflow.yml') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[12/23 04:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//slange-dev/slange-dev/pull/3 'Update blog-post-workflow.yml') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[12/23 04:02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-update-1`](https://github.com/slange-dev/slange-dev/tree/slange-dev-update-1) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-
-<details><summary>Show More</summary>
-
 `[12/23 03:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zowe/zowe-client-python-sdk](https://github.com/zowe/zowe-client-python-sdk)  
 `[12/23 03:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [massCodeIO/massCode](https://github.com/massCodeIO/massCode)  
 `[12/23 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/ROPE](https://github.com/moshix/ROPE)  
