@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[01/08 22:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RealOrangeOne/dotfiles](https://github.com/RealOrangeOne/dotfiles)  
 `[01/08 22:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FuzzyMainframes/MainframeNotebook](https://github.com/FuzzyMainframes/MainframeNotebook)  
 `[01/07 22:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniel64/lspf](https://github.com/daniel64/lspf)  
 `[01/07 22:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)  
@@ -23,10 +24,10 @@
 `[01/07 16:15]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-issue`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-issue) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[01/07 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[01/07 16:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//slange-dev/evaluate-scap/pull/7 'Bump actions/checkout from 3.2.0 to 3.3.0') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
-`[01/07 16:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 
 <details><summary>Show More</summary>
 
+`[01/07 16:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[01/07 16:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7`](https://github.com//slange-dev/evaluate-scap/pull/7 'Bump actions/checkout from 3.2.0 to 3.3.0') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[01/06 00:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix)  
 `[01/04 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [roblthegreat/HerculesMvsTk4Notes](https://github.com/roblthegreat/HerculesMvsTk4Notes)  
