@@ -14,6 +14,23 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[01/14 23:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ambitus/ambitus](https://github.com/ambitus/ambitus)  
+`[01/14 23:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RookieDay/VirtualBank](https://github.com/RookieDay/VirtualBank)  
+`[01/14 23:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/debugger-for-mainframe](https://github.com/BroadcomMFD/debugger-for-mainframe)  
+`[01/14 23:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bencz/cics-process-management](https://github.com/bencz/cics-process-management)  
+`[01/14 23:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haynieresearch/cics-process-management](https://github.com/haynieresearch/cics-process-management)  
+`[01/14 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ttaulli/Modern-mainframe-development](https://github.com/ttaulli/Modern-mainframe-development)  
+`[01/14 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/code4z](https://github.com/BroadcomMFD/code4z)  
+`[01/14 22:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haynieresearch/hercules-tape-robot](https://github.com/haynieresearch/hercules-tape-robot)  
+`[01/14 22:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haynieresearch/mainframe-automation](https://github.com/haynieresearch/mainframe-automation)  
+`[01/14 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IBMRedbooks/USSCheatSheet](https://github.com/IBMRedbooks/USSCheatSheet)  
+
+<details><summary>Show More</summary>
+
+`[01/14 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zowe/vscode-extension-for-cics](https://github.com/zowe/vscode-extension-for-cics)  
+`[01/14 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [quentinhardy/TPX-Brute](https://github.com/quentinhardy/TPX-Brute)  
+`[01/14 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaytay79/zos](https://github.com/jaytay79/zos)  
+`[01/14 22:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IBM/IBM-Z-zOS](https://github.com/IBM/IBM-Z-zOS)  
 `[01/14 21:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar)  
 `[01/14 21:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wfxr/tmux-power](https://github.com/wfxr/tmux-power)  
 `[01/14 21:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard)  
@@ -24,9 +41,6 @@
 `[01/13 02:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [moshix/zlinux](https://github.com/moshix/zlinux) to [slange-dev/zlinux-installer](https://github.com/slange-dev/zlinux-installer)  
 `[01/13 02:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline)  
 `[01/13 02:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vlachoudis/brexx](https://github.com/vlachoudis/brexx)  
-
-<details><summary>Show More</summary>
-
 `[01/13 02:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mvslovers/brexx370](https://github.com/mvslovers/brexx370)  
 `[01/13 02:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-cpu](https://github.com/tmux-plugins/tmux-cpu)  
 `[01/13 02:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [schorschii/LAPS4LINUX](https://github.com/schorschii/LAPS4LINUX)  
