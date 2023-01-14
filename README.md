@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[01/14 05:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme)  
 `[01/14 04:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fakemanoan/LineageOS-Releases](https://github.com/fakemanoan/LineageOS-Releases)  
 `[01/13 03:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FuzzyMainframes/Awesome-Mainframes](https://github.com/FuzzyMainframes/Awesome-Mainframes)  
 `[01/13 02:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/BITNETServices](https://github.com/moshix/BITNETServices)  
@@ -23,10 +24,10 @@
 `[01/13 02:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mvslovers/brexx370](https://github.com/mvslovers/brexx370)  
 `[01/13 02:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-cpu](https://github.com/tmux-plugins/tmux-cpu)  
 `[01/13 02:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [schorschii/LAPS4LINUX](https://github.com/schorschii/LAPS4LINUX)  
-`[01/13 01:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MVS-sysgen/RAKF](https://github.com/MVS-sysgen/RAKF)  
 
 <details><summary>Show More</summary>
 
+`[01/13 01:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MVS-sysgen/RAKF](https://github.com/MVS-sysgen/RAKF)  
 `[01/11 21:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wrljet/hercules-helper-windows](https://github.com/wrljet/hercules-helper-windows)  
 `[01/11 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[01/11 17:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flakrat/dotfiles](https://github.com/flakrat/dotfiles)  
