@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[01/15 21:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ChanderG/tmux-notify](https://github.com/ChanderG/tmux-notify)  
 `[01/15 21:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-urlview](https://github.com/tmux-plugins/tmux-urlview)  
 `[01/15 21:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack)  
 `[01/14 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [inthelamp/cobol-challenges](https://github.com/inthelamp/cobol-challenges)  
@@ -23,10 +24,10 @@
 `[01/14 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ozgurhepsag/Basic-z-OS-Utilities-and-Practices](https://github.com/ozgurhepsag/Basic-z-OS-Utilities-and-Practices)  
 `[01/14 23:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ambitus/ambitus](https://github.com/ambitus/ambitus)  
 `[01/14 23:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RookieDay/VirtualBank](https://github.com/RookieDay/VirtualBank)  
-`[01/14 23:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/debugger-for-mainframe](https://github.com/BroadcomMFD/debugger-for-mainframe)  
 
 <details><summary>Show More</summary>
 
+`[01/14 23:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/debugger-for-mainframe](https://github.com/BroadcomMFD/debugger-for-mainframe)  
 `[01/14 23:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bencz/cics-process-management](https://github.com/bencz/cics-process-management)  
 `[01/14 23:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haynieresearch/cics-process-management](https://github.com/haynieresearch/cics-process-management)  
 `[01/14 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ttaulli/Modern-mainframe-development](https://github.com/ttaulli/Modern-mainframe-development)  
