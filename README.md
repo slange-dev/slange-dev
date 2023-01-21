@@ -14,6 +14,26 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[01/21 03:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#12`](https://github.com//slange-dev/evaluate-scap/pull/12 'Update README.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:17]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#12`](https://github.com//slange-dev/evaluate-scap/pull/12 'Update README.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-patch-2`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-patch-2) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [all-contributors/app](https://github.com/all-contributors/app)  
+`[01/21 03:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#11`](https://github.com//slange-dev/evaluate-scap/pull/11 'Create CONTRIBUTING.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#11`](https://github.com//slange-dev/evaluate-scap/pull/11 'Create CONTRIBUTING.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-patch-1`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-patch-1) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+
+<details><summary>Show More</summary>
+
+`[01/21 03:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//slange-dev/evaluate-scap/pull/10 'Update README.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:10]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//slange-dev/evaluate-scap/pull/10 'Update README.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-contributors`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-contributors) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//slange-dev/evaluate-scap/pull/9 'Add more badges') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9`](https://github.com//slange-dev/evaluate-scap/pull/9 'Add more badges') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-badges1`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-badges1) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[01/17 21:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ebcsyglobal/mainframe-cobol-db2-jcl-templates](https://github.com/ebcsyglobal/mainframe-cobol-db2-jcl-templates)  
 `[01/17 21:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FrankR85/cobol-travis](https://github.com/FrankR85/cobol-travis)  
 `[01/17 21:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe)  
@@ -24,9 +44,6 @@
 `[01/14 23:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [inthelamp/cobol-challenges](https://github.com/inthelamp/cobol-challenges)  
 `[01/14 23:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/abend-analyzer-for-mainframe](https://github.com/BroadcomMFD/abend-analyzer-for-mainframe)  
 `[01/14 23:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abend0c1/piv](https://github.com/abend0c1/piv)  
-
-<details><summary>Show More</summary>
-
 `[01/14 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [beaker-project/zpxe](https://github.com/beaker-project/zpxe)  
 `[01/14 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ozgurhepsag/Basic-z-OS-Utilities-and-Practices](https://github.com/ozgurhepsag/Basic-z-OS-Utilities-and-Practices)  
 `[01/14 23:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ambitus/ambitus](https://github.com/ambitus/ambitus)  
