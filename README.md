@@ -14,7 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
-`[01/21 03:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[01/21 03:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[01/21 03:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#12`](https://github.com//slange-dev/evaluate-scap/pull/12 'Update README.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[01/21 03:17]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#12`](https://github.com//slange-dev/evaluate-scap/pull/12 'Update README.md') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[01/21 03:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-patch-2`](https://github.com/slange-dev/evaluate-scap/tree/slange-dev-patch-2) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
