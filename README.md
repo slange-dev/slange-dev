@@ -270,6 +270,7 @@ You can also contribute with
 * Stackoverflow: [https://stackexchange.com/users/20881190/slange-dev](https://stackexchange.com/users/20881190/slange-dev)
 * Github: [@slange-dev](https://github.com/slange-dev)
 * GitLab: [@slange-dev](https://gitlab.com/slange-dev)
+* Mastodon https://mastodon.social/@slangedev
 
 ## :rocket: Created
 
