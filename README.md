@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[01/23 02:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/23 00:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeroyal/Rocky-Linux-Guide](https://github.com/mikeroyal/Rocky-Linux-Guide)  
 `[01/22 22:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/22 22:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//slange-dev/slange-dev/pull/8 'Update GitHub action/checkout to v3.3.0') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
@@ -23,10 +24,10 @@
 `[01/22 22:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//slange-dev/slange-dev/pull/7 'Update GitHub action/checkout to v3.3.0') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/22 22:55]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//slange-dev/slange-dev/pull/7 'Update GitHub action/checkout to v3.3.0') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/22 22:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-patch-3`](https://github.com/slange-dev/slange-dev/tree/slange-dev-patch-3) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[01/22 22:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 <details><summary>Show More</summary>
 
+`[01/22 22:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/22 22:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//slange-dev/slange-dev/pull/6 'Update GitHub action/checkout to v3.3.0') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/22 22:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//slange-dev/slange-dev/pull/6 'Update GitHub action/checkout to v3.3.0') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/22 22:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-patch-2`](https://github.com/slange-dev/slange-dev/tree/slange-dev-patch-2) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
