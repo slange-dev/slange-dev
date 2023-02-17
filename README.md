@@ -203,7 +203,6 @@
 `[12/16 13:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//slange-dev/evaluate-scap/pull/2 'Create LICENSE') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/16 13:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-license-1`](https://github.com/slange-dev/evaluate-scap/tree/add-license-1) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/16 13:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
-`[11/16 12:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)  
 
 </details>
 <!--END_SECTION:activity-->
