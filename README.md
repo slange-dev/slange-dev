@@ -14,6 +14,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[02/19 22:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dogtagpki/pki](https://github.com/dogtagpki/pki)  
 `[02/18 03:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bcchenbc/isc-bind9-dyndns-updater](https://github.com/bcchenbc/isc-bind9-dyndns-updater)  
 `[02/14 00:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nicolargo/glances](https://github.com/nicolargo/glances)  
 `[02/11 00:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts)  
@@ -23,10 +24,10 @@
 `[02/09 03:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [prakash181/Mainframe_casestudy](https://github.com/prakash181/Mainframe_casestudy) to [slange-dev/Mainframe-personal-banking](https://github.com/slange-dev/Mainframe-personal-banking)  
 `[02/09 03:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IBM/banking-digitalization-using-hybrid-cloud-with-mainframes](https://github.com/IBM/banking-digitalization-using-hybrid-cloud-with-mainframes)  
 `[01/30 19:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bacula-web/bacula-web](https://github.com/bacula-web/bacula-web)  
-`[01/30 19:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [waa/baculabackupreport](https://github.com/waa/baculabackupreport)  
 
 <details><summary>Show More</summary>
 
+`[01/30 19:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [waa/baculabackupreport](https://github.com/waa/baculabackupreport)  
 `[01/30 17:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tim4dev/webacula](https://github.com/tim4dev/webacula)  
 `[01/29 08:39]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [RookieDay/VirtualBank](https://github.com/RookieDay/VirtualBank) to [slange-dev/VirtualBank](https://github.com/slange-dev/VirtualBank)  
 `[01/29 08:05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//In4n1s357/Linux-Security-and-Hardening-Security-Guide/issues/3 'Center for Internet Security (CIS) - Hardening rules') in [In4n1s357/Linux-Security-and-Hardening-Security-Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide)  
