@@ -230,26 +230,6 @@
 [![Slange-dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-<details>
-  <summary><b> :memo: Blogs </b></summary>
-
-### Dev.to Community Posts
-
-<!-- DEVTO:START -->
-- [Test Post](https://dev.to/slangedev/test-post-1naa)
-<!-- DEVTO:END -->
-
-### StackOverflow Community Posts
-
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-### Medium Community Posts
-
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-</details>
-
 ## :handshake: Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
