@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[02/27 17:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[02/27 17:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//In4n1s357/Linux-Security-and-Hardening-Security-Guide/pull/2 'Add Rkhunter and OpenScap Workbench to Security Auditing Tools Open Source') in [In4n1s357/Linux-Security-and-Hardening-Security-Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide)  
 `[02/21 20:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [freeplane/freeplane](https://github.com/freeplane/freeplane)  
 `[02/20 06:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)  
@@ -28,10 +29,10 @@
 `[02/11 00:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts)  
 `[02/11 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coderholic/pyradio](https://github.com/coderholic/pyradio)  
 `[02/11 00:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rupa/z](https://github.com/rupa/z)  
-`[02/09 04:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tympanix/Bankaroo](https://github.com/tympanix/Bankaroo)  
 
 <details><summary>Show More</summary>
 
+`[02/09 04:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tympanix/Bankaroo](https://github.com/tympanix/Bankaroo)  
 `[02/09 03:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [prakash181/Mainframe_casestudy](https://github.com/prakash181/Mainframe_casestudy) to [slange-dev/Mainframe-personal-banking](https://github.com/slange-dev/Mainframe-personal-banking)  
 `[02/09 03:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IBM/banking-digitalization-using-hybrid-cloud-with-mainframes](https://github.com/IBM/banking-digitalization-using-hybrid-cloud-with-mainframes)  
 `[01/30 19:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bacula-web/bacula-web](https://github.com/bacula-web/bacula-web)  
