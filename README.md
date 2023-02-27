@@ -2,7 +2,9 @@
 
 <details>
   <summary><b> :mag: About me </b></summary>
-  Windows and Linux administrator
+  Windows and Linux administrator </br>
+  Running Mainframe systems (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) @home </br>
+  
 </details>
 
 <details>
