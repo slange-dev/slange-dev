@@ -19,7 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
-`[03/01 19:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
+`[03/01 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[03/01 18:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager)  
 `[02/27 18:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[02/27 17:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//In4n1s357/Linux-Security-and-Hardening-Security-Guide/pull/2 'Add Rkhunter and OpenScap Workbench to Security Auditing Tools Open Source') in [In4n1s357/Linux-Security-and-Hardening-Security-Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide)  
@@ -214,8 +214,6 @@
 `[12/16 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/16 13:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//slange-dev/evaluate-scap/pull/2 'Create LICENSE') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/16 13:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//slange-dev/evaluate-scap/pull/2 'Create LICENSE') in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
-`[12/16 13:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-license-1`](https://github.com/slange-dev/evaluate-scap/tree/add-license-1) in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
-`[12/16 13:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 
 </details>
 <!--END_SECTION:activity-->
