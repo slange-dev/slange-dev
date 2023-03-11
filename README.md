@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/11 01:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GNOME/vte](https://github.com/GNOME/vte)  
 `[03/11 00:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend)  
 `[03/10 19:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anghootys/tmux-ip-address](https://github.com/anghootys/tmux-ip-address)  
 `[03/10 04:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/vim-sort-folds](https://github.com/mikeboiko/vim-sort-folds)  
@@ -28,10 +29,10 @@
 `[03/10 01:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powerline/fonts](https://github.com/powerline/fonts)  
 `[03/09 22:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scop/bash-completion](https://github.com/scop/bash-completion)  
 `[03/09 16:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git)  
-`[03/09 16:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [riobard/bash-powerline](https://github.com/riobard/bash-powerline)  
 
 <details><summary>Show More</summary>
 
+`[03/09 16:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [riobard/bash-powerline](https://github.com/riobard/bash-powerline)  
 `[03/09 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)  
 `[03/08 17:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arpagon/history-backup](https://github.com/arpagon/history-backup)  
 `[03/08 11:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
@@ -225,7 +226,7 @@
 `[12/17 14:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 `[12/17 14:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSCAP/scap-workbench](https://github.com/OpenSCAP/scap-workbench)  
 `[12/17 14:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap)  
-`[12/17 11:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
+`[12/17 11:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [slange-dev/evaluate-scap](https://github.com/slange-dev/evaluate-scap)  
 
 </details>
 <!--END_SECTION:activity-->
