@@ -19,6 +19,8 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/17 04:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderjeurissen/tmux-process-indicator](https://github.com/alexanderjeurissen/tmux-process-indicator)  
+`[03/17 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderjeurissen/tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock)  
 `[03/11 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [msimerson/ssh-agent](https://github.com/msimerson/ssh-agent)  
 `[03/11 05:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jessevdk/vte](https://github.com/jessevdk/vte)  
 `[03/11 04:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duncs/clusterssh](https://github.com/duncs/clusterssh)  
@@ -27,11 +29,11 @@
 `[03/11 01:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GNOME/vte](https://github.com/GNOME/vte)  
 `[03/11 00:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend)  
 `[03/10 19:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anghootys/tmux-ip-address](https://github.com/anghootys/tmux-ip-address)  
-`[03/10 04:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/vim-sort-folds](https://github.com/mikeboiko/vim-sort-folds)  
-`[03/10 04:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/Vim](https://github.com/mikeboiko/Vim)  
 
 <details><summary>Show More</summary>
 
+`[03/10 04:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/vim-sort-folds](https://github.com/mikeboiko/vim-sort-folds)  
+`[03/10 04:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/Vim](https://github.com/mikeboiko/Vim)  
 `[03/10 04:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/zsh-renew-tmux-env](https://github.com/lljbash/zsh-renew-tmux-env)  
 `[03/10 03:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open)  
 `[03/10 01:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powerline/fonts](https://github.com/powerline/fonts)  
@@ -190,7 +192,6 @@
 `[12/17 15:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)  
 `[12/17 15:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [codeclimate/codeclimate](https://github.com/codeclimate/codeclimate)  
 `[12/17 14:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSCAP/scap-workbench](https://github.com/OpenSCAP/scap-workbench)  
-`[12/17 14:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap)  
 
 </details>
 <!--END_SECTION:activity-->
