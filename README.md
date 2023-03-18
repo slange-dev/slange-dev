@@ -189,9 +189,6 @@
 `[12/21 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zuberfowler/HASM](https://github.com/zuberfowler/HASM)  
 `[12/21 22:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/zlinux](https://github.com/moshix/zlinux)  
 `[12/21 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [racingmars/ctc-mainframe-api](https://github.com/racingmars/ctc-mainframe-api)  
-`[12/17 15:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)  
-`[12/17 15:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [codeclimate/codeclimate](https://github.com/codeclimate/codeclimate)  
-`[12/17 14:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenSCAP/scap-workbench](https://github.com/OpenSCAP/scap-workbench)  
 
 </details>
 <!--END_SECTION:activity-->
