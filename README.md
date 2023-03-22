@@ -187,9 +187,6 @@
 `[12/23 03:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zowe/zowe-client-python-sdk](https://github.com/zowe/zowe-client-python-sdk)  
 `[12/23 03:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [massCodeIO/massCode](https://github.com/massCodeIO/massCode)  
 `[12/23 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/ROPE](https://github.com/moshix/ROPE)  
-`[12/21 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zuberfowler/HASM](https://github.com/zuberfowler/HASM)  
-`[12/21 22:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/zlinux](https://github.com/moshix/zlinux)  
-`[12/21 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [racingmars/ctc-mainframe-api](https://github.com/racingmars/ctc-mainframe-api)  
 
 </details>
 <!--END_SECTION:activity-->
