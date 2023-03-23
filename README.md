@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/23 19:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)  
 `[03/23 04:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-bash-completion](https://github.com/imomaliev/tmux-bash-completion)  
 `[03/20 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole)  
 `[03/17 04:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderjeurissen/tmux-process-indicator](https://github.com/alexanderjeurissen/tmux-process-indicator)  
@@ -28,10 +29,10 @@
 `[03/11 04:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duncs/clusterssh](https://github.com/duncs/clusterssh)  
 `[03/11 04:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pschmitt/tmux-ssh-split](https://github.com/pschmitt/tmux-ssh-split)  
 `[03/11 03:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-keyboard-type](https://github.com/jaclu/tmux-keyboard-type)  
-`[03/11 01:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GNOME/vte](https://github.com/GNOME/vte)  
 
 <details><summary>Show More</summary>
 
+`[03/11 01:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GNOME/vte](https://github.com/GNOME/vte)  
 `[03/11 00:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend)  
 `[03/10 19:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anghootys/tmux-ip-address](https://github.com/anghootys/tmux-ip-address)  
 `[03/10 04:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/vim-sort-folds](https://github.com/mikeboiko/vim-sort-folds)  
