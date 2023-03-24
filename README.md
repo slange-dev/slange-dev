@@ -19,6 +19,20 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/24 01:36]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) to [slange-dev/tmux-yank](https://github.com/slange-dev/tmux-yank)  
+`[03/24 01:35]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [lljbash/tmux-update-display](https://github.com/lljbash/tmux-update-display) to [slange-dev/tmux-update-display](https://github.com/slange-dev/tmux-update-display)  
+`[03/24 01:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout)  
+`[03/24 01:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser)  
+`[03/24 01:29]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging) to [slange-dev/tmux-logging](https://github.com/slange-dev/tmux-logging)  
+`[03/24 01:29]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) to [slange-dev/tmux-prefix-highlight](https://github.com/slange-dev/tmux-prefix-highlight)  
+`[03/24 01:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-fpp](https://github.com/tmux-plugins/tmux-fpp)  
+`[03/24 00:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url)  
+`[03/24 00:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim)  
+`[03/24 00:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux-complete.vim](https://github.com/junegunn/tmux-complete.vim)  
+
+<details><summary>Show More</summary>
+
+`[03/24 00:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [sainnhe/tmux-plugin-sysstat](https://github.com/sainnhe/tmux-plugin-sysstat) to [slange-dev/tmux-plugin-sysstat](https://github.com/slange-dev/tmux-plugin-sysstat)  
 `[03/24 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf)  
 `[03/24 00:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux-fzf-maccy](https://github.com/junegunn/tmux-fzf-maccy)  
 `[03/24 00:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url)  
@@ -29,9 +43,6 @@
 `[03/17 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderjeurissen/tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock)  
 `[03/11 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [msimerson/ssh-agent](https://github.com/msimerson/ssh-agent)  
 `[03/11 05:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jessevdk/vte](https://github.com/jessevdk/vte)  
-
-<details><summary>Show More</summary>
-
 `[03/11 04:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duncs/clusterssh](https://github.com/duncs/clusterssh)  
 `[03/11 04:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pschmitt/tmux-ssh-split](https://github.com/pschmitt/tmux-ssh-split)  
 `[03/11 03:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-keyboard-type](https://github.com/jaclu/tmux-keyboard-type)  
