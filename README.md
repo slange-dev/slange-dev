@@ -19,8 +19,19 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/24 04:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddebode/tmux-choose](https://github.com/ddebode/tmux-choose)  
+`[03/24 03:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery) to [slange-dev/tmux-battery](https://github.com/slange-dev/tmux-battery)  
+`[03/24 03:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery)  
+`[03/24 03:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [charlietag/tmux-cpu-model](https://github.com/charlietag/tmux-cpu-model)  
+`[03/24 03:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [charlietag/Samba4_AD_RSAT](https://github.com/charlietag/Samba4_AD_RSAT)  
+`[03/24 02:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [devend711/tmux-screentime](https://github.com/devend711/tmux-screentime)  
+`[03/24 02:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [charlietag/tmux-split-statusbar](https://github.com/charlietag/tmux-split-statusbar)  
+`[03/24 02:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jlipps/tmux-safekill](https://github.com/jlipps/tmux-safekill)  
 `[03/24 01:36]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) to [slange-dev/tmux-yank](https://github.com/slange-dev/tmux-yank)  
 `[03/24 01:35]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [lljbash/tmux-update-display](https://github.com/lljbash/tmux-update-display) to [slange-dev/tmux-update-display](https://github.com/slange-dev/tmux-update-display)  
+
+<details><summary>Show More</summary>
+
 `[03/24 01:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-keyboard-layout](https://github.com/imomaliev/tmux-keyboard-layout)  
 `[03/24 01:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ofirgall/tmux-browser](https://github.com/ofirgall/tmux-browser)  
 `[03/24 01:29]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging) to [slange-dev/tmux-logging](https://github.com/slange-dev/tmux-logging)  
@@ -29,9 +40,6 @@
 `[03/24 00:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url)  
 `[03/24 00:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim)  
 `[03/24 00:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux-complete.vim](https://github.com/junegunn/tmux-complete.vim)  
-
-<details><summary>Show More</summary>
-
 `[03/24 00:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [sainnhe/tmux-plugin-sysstat](https://github.com/sainnhe/tmux-plugin-sysstat) to [slange-dev/tmux-plugin-sysstat](https://github.com/slange-dev/tmux-plugin-sysstat)  
 `[03/24 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf)  
 `[03/24 00:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux-fzf-maccy](https://github.com/junegunn/tmux-fzf-maccy)  
