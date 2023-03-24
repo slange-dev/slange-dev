@@ -182,13 +182,6 @@
 `[01/04 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jake-mainframe/KICKS](https://github.com/jake-mainframe/KICKS)  
 `[01/04 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MVS-sysgen/sysgen](https://github.com/MVS-sysgen/sysgen)  
 `[01/04 22:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/list](https://github.com/tmux-plugins/list)  
-`[12/23 04:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[12/23 04:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//slange-dev/slange-dev/pull/3 'Update blog-post-workflow.yml') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[12/23 04:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//slange-dev/slange-dev/pull/3 'Update blog-post-workflow.yml') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[12/23 04:02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-update-1`](https://github.com/slange-dev/slange-dev/tree/slange-dev-update-1) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[12/23 03:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zowe/zowe-client-python-sdk](https://github.com/zowe/zowe-client-python-sdk)  
-`[12/23 03:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [massCodeIO/massCode](https://github.com/massCodeIO/massCode)  
-`[12/23 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/ROPE](https://github.com/moshix/ROPE)  
 
 </details>
 <!--END_SECTION:activity-->
