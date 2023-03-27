@@ -19,6 +19,9 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/27 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paradigmpost/firewall-helpers](https://github.com/paradigmpost/firewall-helpers)  
+`[03/27 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aatlasis/firewalld_log_parser](https://github.com/aatlasis/firewalld_log_parser)  
+`[03/27 00:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whilcayangyang/firewalld-script](https://github.com/whilcayangyang/firewalld-script)  
 `[03/24 07:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firecat53/urlscan](https://github.com/firecat53/urlscan)  
 `[03/24 07:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cacharle/tmux-ssh-mode](https://github.com/cacharle/tmux-ssh-mode)  
 `[03/24 07:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [huseyz/tmux-sshmenu](https://github.com/huseyz/tmux-sshmenu)  
@@ -26,12 +29,12 @@
 `[03/24 06:08]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jaclu/tmux-keyboard-type](https://github.com/jaclu/tmux-keyboard-type) to [slange-dev/tmux-keyboard-type](https://github.com/slange-dev/tmux-keyboard-type)  
 `[03/24 04:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-keyboard-type](https://github.com/jaclu/tmux-keyboard-type)  
 `[03/24 04:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NickHastings/tmux-plugin-cssh](https://github.com/NickHastings/tmux-plugin-cssh)  
-`[03/24 04:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddebode/tmux-choose](https://github.com/ddebode/tmux-choose)  
-`[03/24 03:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery) to [slange-dev/tmux-battery](https://github.com/slange-dev/tmux-battery)  
-`[03/24 03:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery)  
 
 <details><summary>Show More</summary>
 
+`[03/24 04:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddebode/tmux-choose](https://github.com/ddebode/tmux-choose)  
+`[03/24 03:41]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery) to [slange-dev/tmux-battery](https://github.com/slange-dev/tmux-battery)  
+`[03/24 03:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-battery](https://github.com/tmux-plugins/tmux-battery)  
 `[03/24 03:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [charlietag/tmux-cpu-model](https://github.com/charlietag/tmux-cpu-model)  
 `[03/24 03:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [charlietag/Samba4_AD_RSAT](https://github.com/charlietag/Samba4_AD_RSAT)  
 `[03/24 02:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [devend711/tmux-screentime](https://github.com/devend711/tmux-screentime)  
@@ -208,8 +211,6 @@
 `[01/07 22:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)  
 `[01/06 00:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix)  
 `[01/04 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [roblthegreat/HerculesMvsTk4Notes](https://github.com/roblthegreat/HerculesMvsTk4Notes)  
-`[01/04 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jake-mainframe/KICKS](https://github.com/jake-mainframe/KICKS)  
-`[01/04 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MVS-sysgen/sysgen](https://github.com/MVS-sysgen/sysgen)  
 
 </details>
 <!--END_SECTION:activity-->
