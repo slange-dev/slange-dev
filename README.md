@@ -19,19 +19,23 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/29 00:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [michaelkoetter/netbox-dns-zone](https://github.com/michaelkoetter/netbox-dns-zone)  
+`[03/29 00:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deku-m/netbox-installer-menu](https://github.com/deku-m/netbox-installer-menu)  
+`[03/29 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drygdryg/netbox-device-autodiscovery](https://github.com/drygdryg/netbox-device-autodiscovery)  
+`[03/29 00:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [candlerb/netbox-webhook-dnsupdate](https://github.com/candlerb/netbox-webhook-dnsupdate)  
 `[03/28 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [auroraresearchlab/netbox-dns](https://github.com/auroraresearchlab/netbox-dns)  
 `[03/28 21:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fcsonline/tmux-fingers](https://github.com/fcsonline/tmux-fingers)  
 `[03/28 21:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs)  
 `[03/28 21:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[03/27 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paradigmpost/firewall-helpers](https://github.com/paradigmpost/firewall-helpers)  
 `[03/27 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aatlasis/firewalld_log_parser](https://github.com/aatlasis/firewalld_log_parser)  
+
+<details><summary>Show More</summary>
+
 `[03/27 00:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whilcayangyang/firewalld-script](https://github.com/whilcayangyang/firewalld-script)  
 `[03/24 07:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firecat53/urlscan](https://github.com/firecat53/urlscan)  
 `[03/24 07:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cacharle/tmux-ssh-mode](https://github.com/cacharle/tmux-ssh-mode)  
 `[03/24 07:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [huseyz/tmux-sshmenu](https://github.com/huseyz/tmux-sshmenu)  
-
-<details><summary>Show More</summary>
-
 `[03/24 06:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/tmux-keyboard-type](https://github.com/slange-dev/tmux-keyboard-type)  
 `[03/24 06:08]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [jaclu/tmux-keyboard-type](https://github.com/jaclu/tmux-keyboard-type) to [slange-dev/tmux-keyboard-type](https://github.com/slange-dev/tmux-keyboard-type)  
 `[03/24 04:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-keyboard-type](https://github.com/jaclu/tmux-keyboard-type)  
