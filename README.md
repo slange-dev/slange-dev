@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/29 06:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Abulhallaj/netbox-deviceimage](https://github.com/Abulhallaj/netbox-deviceimage)  
 `[03/29 04:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peering-manager/peering-manager](https://github.com/peering-manager/peering-manager)  
 `[03/29 04:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbox-community/netbox-healthcheck-plugin](https://github.com/netbox-community/netbox-healthcheck-plugin)  
 `[03/29 04:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cvlabsio/netdoc](https://github.com/cvlabsio/netdoc)  
@@ -28,10 +29,10 @@
 `[03/29 03:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ITJamie/racktables2netbox](https://github.com/ITJamie/racktables2netbox)  
 `[03/29 03:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RackTables/racktables](https://github.com/RackTables/racktables)  
 `[03/29 03:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ITJamie/netbox_gateways](https://github.com/ITJamie/netbox_gateways)  
-`[03/29 03:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanmerolle/netbox-acls](https://github.com/ryanmerolle/netbox-acls)  
 
 <details><summary>Show More</summary>
 
+`[03/29 03:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanmerolle/netbox-acls](https://github.com/ryanmerolle/netbox-acls)  
 `[03/29 02:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PieterL75/netbox_contextmenus](https://github.com/PieterL75/netbox_contextmenus)  
 `[03/29 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jasonyates/netbox-documents](https://github.com/jasonyates/netbox-documents)  
 `[03/29 02:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iDebugAll/phonebox_plugin](https://github.com/iDebugAll/phonebox_plugin)  
@@ -226,7 +227,7 @@
 `[01/11 17:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flakrat/dotfiles](https://github.com/flakrat/dotfiles)  
 `[01/11 17:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[01/11 17:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [snyk/actions](https://github.com/snyk/actions)  
-`[01/11 17:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
+`[01/11 17:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 
 </details>
 <!--END_SECTION:activity-->
