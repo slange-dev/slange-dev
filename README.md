@@ -19,6 +19,20 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/29 01:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sjm-steffann/netbox-reorder](https://github.com/sjm-steffann/netbox-reorder)  
+`[03/29 01:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Baspla/netbox_reservations](https://github.com/Baspla/netbox_reservations)  
+`[03/29 01:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [miyuk/netbox-vlan-manager](https://github.com/miyuk/netbox-vlan-manager)  
+`[03/29 01:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jsenecal/netbox-auto-cable-label](https://github.com/jsenecal/netbox-auto-cable-label)  
+`[03/29 01:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [renatoalmeidaoliveira/nbrisk](https://github.com/renatoalmeidaoliveira/nbrisk)  
+`[03/29 01:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netdevopsbr/netbox-plugins-store](https://github.com/netdevopsbr/netbox-plugins-store)  
+`[03/29 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sjm-steffann/netbox-ddns](https://github.com/sjm-steffann/netbox-ddns)  
+`[03/29 01:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [den-it/ntmap](https://github.com/den-it/ntmap)  
+`[03/29 01:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views)  
+`[03/29 01:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin)  
+
+<details><summary>Show More</summary>
+
+`[03/29 01:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PieterL75/netbox_ipcalculator](https://github.com/PieterL75/netbox_ipcalculator)  
 `[03/29 00:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [michaelkoetter/netbox-dns-zone](https://github.com/michaelkoetter/netbox-dns-zone)  
 `[03/29 00:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deku-m/netbox-installer-menu](https://github.com/deku-m/netbox-installer-menu)  
 `[03/29 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drygdryg/netbox-device-autodiscovery](https://github.com/drygdryg/netbox-device-autodiscovery)  
@@ -29,9 +43,6 @@
 `[03/28 21:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[03/27 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paradigmpost/firewall-helpers](https://github.com/paradigmpost/firewall-helpers)  
 `[03/27 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aatlasis/firewalld_log_parser](https://github.com/aatlasis/firewalld_log_parser)  
-
-<details><summary>Show More</summary>
-
 `[03/27 00:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whilcayangyang/firewalld-script](https://github.com/whilcayangyang/firewalld-script)  
 `[03/24 07:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firecat53/urlscan](https://github.com/firecat53/urlscan)  
 `[03/24 07:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cacharle/tmux-ssh-mode](https://github.com/cacharle/tmux-ssh-mode)  
@@ -212,11 +223,6 @@
 `[01/11 16:27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [DieGit0/Bank-Account](https://github.com/DieGit0/Bank-Account) to [slange-dev/Mainframe-Bank](https://github.com/slange-dev/Mainframe-Bank)  
 `[01/11 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DieGit0/Bank-Account](https://github.com/DieGit0/Bank-Account)  
 `[01/11 15:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [walmartlabs/zECS](https://github.com/walmartlabs/zECS)  
-`[01/11 15:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [walmartlabs/zFAM](https://github.com/walmartlabs/zFAM)  
-`[01/08 22:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RealOrangeOne/dotfiles](https://github.com/RealOrangeOne/dotfiles)  
-`[01/08 22:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FuzzyMainframes/MainframeNotebook](https://github.com/FuzzyMainframes/MainframeNotebook)  
-`[01/07 22:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daniel64/lspf](https://github.com/daniel64/lspf)  
-`[01/07 22:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)  
 
 </details>
 <!--END_SECTION:activity-->
