@@ -19,19 +19,25 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/31 15:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//bbird81/Netbox-ipscanner/pull/6 'Update') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
+`[03/31 15:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5`](https://github.com//bbird81/Netbox-ipscanner/pull/5 'Update') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
+`[03/31 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
+`[03/31 14:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//slange-dev/Netbox-ipscanner/pull/1 'Change comment and code language to english') in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
+`[03/31 14:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//slange-dev/Netbox-ipscanner/pull/1 'Change comment and code language to english') in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
+`[03/31 14:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-language-patch`](https://github.com/slange-dev/Netbox-ipscanner/tree/slange-dev-language-patch) in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 14:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `patch-1` from [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 14:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#4`](https://github.com//bbird81/Netbox-ipscanner/pull/4 'Added NETBOXURL variable') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 14:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//bbird81/Netbox-ipscanner/pull/5 'Update') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
+
+<details><summary>Show More</summary>
+
 `[03/31 05:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//bbird81/Netbox-ipscanner/pull/4 'Added NETBOXURL variable') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 05:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 05:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner) to [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 05:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 03:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drygdryg/netbox-plugin-device-map](https://github.com/drygdryg/netbox-plugin-device-map)  
 `[03/31 03:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BarbarossaTM/netbox-scripts](https://github.com/BarbarossaTM/netbox-scripts)  
-
-<details><summary>Show More</summary>
-
 `[03/31 03:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [falz/netbox-device-scripts](https://github.com/falz/netbox-device-scripts)  
 `[03/31 00:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ArnesSI/netbox-inventory](https://github.com/ArnesSI/netbox-inventory)  
 `[03/31 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)  
@@ -225,13 +231,6 @@
 `[01/14 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IBMRedbooks/USSCheatSheet](https://github.com/IBMRedbooks/USSCheatSheet)  
 `[01/14 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zowe/vscode-extension-for-cics](https://github.com/zowe/vscode-extension-for-cics)  
 `[01/14 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [quentinhardy/TPX-Brute](https://github.com/quentinhardy/TPX-Brute)  
-`[01/14 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaytay79/zos](https://github.com/jaytay79/zos)  
-`[01/14 22:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IBM/IBM-Z-zOS](https://github.com/IBM/IBM-Z-zOS)  
-`[01/14 21:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-sidebar](https://github.com/tmux-plugins/tmux-sidebar)  
-`[01/14 21:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wfxr/tmux-power](https://github.com/wfxr/tmux-power)  
-`[01/14 21:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard)  
-`[01/14 05:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme)  
-`[01/14 04:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fakemanoan/LineageOS-Releases](https://github.com/fakemanoan/LineageOS-Releases)  
 
 </details>
 <!--END_SECTION:activity-->
