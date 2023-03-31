@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/31 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 05:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//bbird81/Netbox-ipscanner/pull/4 'Added NETBOXURL variable') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 05:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 05:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner) to [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
@@ -28,10 +29,10 @@
 `[03/31 03:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [falz/netbox-device-scripts](https://github.com/falz/netbox-device-scripts)  
 `[03/31 00:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ArnesSI/netbox-inventory](https://github.com/ArnesSI/netbox-inventory)  
 `[03/31 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)  
-`[03/30 02:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Icinga/icinga2](https://github.com/Icinga/icinga2)  
 
 <details><summary>Show More</summary>
 
+`[03/30 02:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Icinga/icinga2](https://github.com/Icinga/icinga2)  
 `[03/30 02:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Icinga/icingaweb2](https://github.com/Icinga/icingaweb2)  
 `[03/29 23:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/netbox-backup](https://github.com/slange-dev/netbox-backup)  
 `[03/29 13:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)  
@@ -231,8 +232,6 @@
 `[01/13 03:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FuzzyMainframes/Awesome-Mainframes](https://github.com/FuzzyMainframes/Awesome-Mainframes)  
 `[01/13 02:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/BITNETServices](https://github.com/moshix/BITNETServices)  
 `[01/13 02:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [moshix/zlinux](https://github.com/moshix/zlinux) to [slange-dev/zlinux-installer](https://github.com/slange-dev/zlinux-installer)  
-`[01/13 02:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline)  
-`[01/13 02:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vlachoudis/brexx](https://github.com/vlachoudis/brexx)  
 
 </details>
 <!--END_SECTION:activity-->
