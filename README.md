@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/31 03:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [falz/netbox-device-scripts](https://github.com/falz/netbox-device-scripts)  
 `[03/31 00:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ArnesSI/netbox-inventory](https://github.com/ArnesSI/netbox-inventory)  
 `[03/31 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)  
 `[03/30 02:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Icinga/icinga2](https://github.com/Icinga/icinga2)  
@@ -28,10 +29,10 @@
 `[03/29 07:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner)  
 `[03/29 07:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [M35a2/cisco-interfaces-to-netbox](https://github.com/M35a2/cisco-interfaces-to-netbox)  
 `[03/29 06:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Abulhallaj/netbox-deviceimage](https://github.com/Abulhallaj/netbox-deviceimage)  
-`[03/29 04:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peering-manager/peering-manager](https://github.com/peering-manager/peering-manager)  
 
 <details><summary>Show More</summary>
 
+`[03/29 04:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peering-manager/peering-manager](https://github.com/peering-manager/peering-manager)  
 `[03/29 04:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netbox-community/netbox-healthcheck-plugin](https://github.com/netbox-community/netbox-healthcheck-plugin)  
 `[03/29 04:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cvlabsio/netdoc](https://github.com/cvlabsio/netdoc)  
 `[03/29 04:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netdotwork/netbox_resolver](https://github.com/netdotwork/netbox_resolver)  
@@ -231,7 +232,7 @@
 `[01/13 02:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [schorschii/LAPS4LINUX](https://github.com/schorschii/LAPS4LINUX)  
 `[01/13 01:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MVS-sysgen/RAKF](https://github.com/MVS-sysgen/RAKF)  
 `[01/11 21:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wrljet/hercules-helper-windows](https://github.com/wrljet/hercules-helper-windows)  
-`[01/11 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
+`[01/11 18:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 
 </details>
 <!--END_SECTION:activity-->
