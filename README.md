@@ -19,6 +19,9 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[03/31 14:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `patch-1` from [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
+`[03/31 14:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#4`](https://github.com//bbird81/Netbox-ipscanner/pull/4 'Added NETBOXURL variable') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
+`[03/31 14:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//bbird81/Netbox-ipscanner/pull/5 'Update') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 05:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//bbird81/Netbox-ipscanner/pull/4 'Added NETBOXURL variable') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 05:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
@@ -26,12 +29,12 @@
 `[03/31 05:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 03:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drygdryg/netbox-plugin-device-map](https://github.com/drygdryg/netbox-plugin-device-map)  
 `[03/31 03:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BarbarossaTM/netbox-scripts](https://github.com/BarbarossaTM/netbox-scripts)  
-`[03/31 03:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [falz/netbox-device-scripts](https://github.com/falz/netbox-device-scripts)  
-`[03/31 00:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ArnesSI/netbox-inventory](https://github.com/ArnesSI/netbox-inventory)  
-`[03/31 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)  
 
 <details><summary>Show More</summary>
 
+`[03/31 03:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [falz/netbox-device-scripts](https://github.com/falz/netbox-device-scripts)  
+`[03/31 00:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ArnesSI/netbox-inventory](https://github.com/ArnesSI/netbox-inventory)  
+`[03/31 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)  
 `[03/30 02:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Icinga/icinga2](https://github.com/Icinga/icinga2)  
 `[03/30 02:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Icinga/icingaweb2](https://github.com/Icinga/icingaweb2)  
 `[03/29 23:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [slange-dev/netbox-backup](https://github.com/slange-dev/netbox-backup)  
@@ -229,9 +232,6 @@
 `[01/14 21:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard)  
 `[01/14 05:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme)  
 `[01/14 04:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fakemanoan/LineageOS-Releases](https://github.com/fakemanoan/LineageOS-Releases)  
-`[01/13 03:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FuzzyMainframes/Awesome-Mainframes](https://github.com/FuzzyMainframes/Awesome-Mainframes)  
-`[01/13 02:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/BITNETServices](https://github.com/moshix/BITNETServices)  
-`[01/13 02:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [moshix/zlinux](https://github.com/moshix/zlinux) to [slange-dev/zlinux-installer](https://github.com/slange-dev/zlinux-installer)  
 
 </details>
 <!--END_SECTION:activity-->
