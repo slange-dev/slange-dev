@@ -230,7 +230,6 @@
 `[01/14 22:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haynieresearch/hercules-tape-robot](https://github.com/haynieresearch/hercules-tape-robot)  
 `[01/14 22:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haynieresearch/mainframe-automation](https://github.com/haynieresearch/mainframe-automation)  
 `[01/14 22:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IBMRedbooks/USSCheatSheet](https://github.com/IBMRedbooks/USSCheatSheet)  
-`[01/14 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zowe/vscode-extension-for-cics](https://github.com/zowe/vscode-extension-for-cics)  
 
 </details>
 <!--END_SECTION:activity-->
