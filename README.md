@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[04/04 20:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lirantal/daloradius](https://github.com/lirantal/daloradius)  
 `[04/03 14:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam)  
 `[04/03 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin)  
 `[04/02 23:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password)  
@@ -28,10 +29,10 @@
 `[04/01 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 15:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//bbird81/Netbox-ipscanner/pull/6 'Update') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
 `[03/31 15:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5`](https://github.com//bbird81/Netbox-ipscanner/pull/5 'Update') in [bbird81/Netbox-ipscanner](https://github.com/bbird81/Netbox-ipscanner)  
-`[03/31 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 
 <details><summary>Show More</summary>
 
+`[03/31 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 14:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//slange-dev/Netbox-ipscanner/pull/1 'Change comment and code language to english') in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 14:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//slange-dev/Netbox-ipscanner/pull/1 'Change comment and code language to english') in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 `[03/31 14:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-language-patch`](https://github.com/slange-dev/Netbox-ipscanner/tree/slange-dev-language-patch) in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
@@ -229,7 +230,6 @@
 `[01/14 23:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ambitus/ambitus](https://github.com/ambitus/ambitus)  
 `[01/14 23:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RookieDay/VirtualBank](https://github.com/RookieDay/VirtualBank)  
 `[01/14 23:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/debugger-for-mainframe](https://github.com/BroadcomMFD/debugger-for-mainframe)  
-`[01/14 23:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bencz/cics-process-management](https://github.com/bencz/cics-process-management)  
 
 </details>
 <!--END_SECTION:activity-->
