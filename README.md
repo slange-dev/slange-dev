@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[04/09 01:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sebikolon/PKI-X509](https://github.com/sebikolon/PKI-X509)  
 `[04/08 00:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SUBnet192/PKI](https://github.com/SUBnet192/PKI)  
 `[04/08 00:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hakwerk/labca](https://github.com/hakwerk/labca)  
 `[04/08 00:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BladeFireLight/PKITools](https://github.com/BladeFireLight/PKITools)  
@@ -28,10 +29,10 @@
 `[04/06 23:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SKS-Keyserver/sks-keyserver](https://github.com/SKS-Keyserver/sks-keyserver)  
 `[04/06 21:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dovecot/tools](https://github.com/dovecot/tools)  
 `[04/04 20:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lirantal/daloradius](https://github.com/lirantal/daloradius)  
-`[04/03 14:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam)  
 
 <details><summary>Show More</summary>
 
+`[04/03 14:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam)  
 `[04/03 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin)  
 `[04/02 23:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password)  
 `[04/02 22:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [horde/webmail](https://github.com/horde/webmail)  
@@ -229,7 +230,6 @@
 `[01/17 21:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/cobol-control-flow](https://github.com/BroadcomMFD/cobol-control-flow)  
 `[01/15 21:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ChanderG/tmux-notify](https://github.com/ChanderG/tmux-notify)  
 `[01/15 21:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-urlview](https://github.com/tmux-plugins/tmux-urlview)  
-`[01/15 21:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack)  
 
 </details>
 <!--END_SECTION:activity-->
