@@ -19,7 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
-`[04/10 01:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+`[04/10 02:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/09 01:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sebikolon/PKI-X509](https://github.com/sebikolon/PKI-X509)  
 `[04/08 00:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SUBnet192/PKI](https://github.com/SUBnet192/PKI)  
 `[04/08 00:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hakwerk/labca](https://github.com/hakwerk/labca)  
@@ -229,7 +229,6 @@
 `[01/17 21:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FrankR85/cobol-travis](https://github.com/FrankR85/cobol-travis)  
 `[01/17 21:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zowe/vscode-extension-for-zowe](https://github.com/zowe/vscode-extension-for-zowe)  
 `[01/17 21:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/cobol-control-flow](https://github.com/BroadcomMFD/cobol-control-flow)  
-`[01/15 21:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ChanderG/tmux-notify](https://github.com/ChanderG/tmux-notify)  
 
 </details>
 <!--END_SECTION:activity-->
