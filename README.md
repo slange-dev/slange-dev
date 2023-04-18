@@ -226,8 +226,6 @@
 `[01/22 22:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//slange-dev/slange-dev/pull/4 'Update GitHub action/checkout to v3.3.0') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/22 22:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-update-checkout-version`](https://github.com/slange-dev/slange-dev/tree/slange-dev-update-checkout-version) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[01/21 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [all-contributors/app](https://github.com/all-contributors/app)  
-`[01/17 21:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ebcsyglobal/mainframe-cobol-db2-jcl-templates](https://github.com/ebcsyglobal/mainframe-cobol-db2-jcl-templates)  
-`[01/17 21:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FrankR85/cobol-travis](https://github.com/FrankR85/cobol-travis)  
 
 </details>
 <!--END_SECTION:activity-->
