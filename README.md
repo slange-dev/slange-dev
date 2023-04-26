@@ -202,7 +202,6 @@
 `[01/29 07:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-update-rkhunter`](https://github.com/slange-dev/Linux-Security-and-Hardening-Security-Guide/tree/slange-dev-update-rkhunter) in [slange-dev/Linux-Security-and-Hardening-Security-Guide](https://github.com/slange-dev/Linux-Security-and-Hardening-Security-Guide)  
 `[01/29 07:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [In4n1s357/Linux-Security-and-Hardening-Security-Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide) to [slange-dev/Linux-Security-and-Hardening-Security-Guide](https://github.com/slange-dev/Linux-Security-and-Hardening-Security-Guide)  
 `[01/29 07:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [In4n1s357/Linux-Security-and-Hardening-Security-Guide](https://github.com/In4n1s357/Linux-Security-and-Hardening-Security-Guide)  
-`[01/25 20:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mattwebbio/orbital-sync](https://github.com/mattwebbio/orbital-sync)  
 
 </details>
 <!--END_SECTION:activity-->
