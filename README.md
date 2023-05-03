@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[05/03 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[05/03 06:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kevinhwang91/fzf-tmux-script](https://github.com/kevinhwang91/fzf-tmux-script)  
 `[05/03 01:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[05/03 00:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)  
@@ -28,10 +29,10 @@
 `[05/02 19:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [balena-io/etcher](https://github.com/balena-io/etcher)  
 `[05/02 19:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/11 04:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alonbl/gnupg-pkcs11-scd](https://github.com/alonbl/gnupg-pkcs11-scd)  
-`[04/10 15:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 
 <details><summary>Show More</summary>
 
+`[04/10 15:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/09 01:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sebikolon/PKI-X509](https://github.com/sebikolon/PKI-X509)  
 `[04/08 00:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SUBnet192/PKI](https://github.com/SUBnet192/PKI)  
 `[04/08 00:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hakwerk/labca](https://github.com/hakwerk/labca)  
