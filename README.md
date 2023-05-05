@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[05/04 23:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)  
 `[05/04 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tklepzig/vim-buffer-navigator](https://github.com/tklepzig/vim-buffer-navigator)  
 `[05/03 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rhysd/committia.vim](https://github.com/rhysd/committia.vim)  
 `[05/03 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
@@ -28,10 +29,10 @@
 `[05/03 00:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[05/02 23:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//slange-dev/tmux-config-testings/issues/1 'Add a Codacy badge to readme.md') in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[05/02 23:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
-`[05/02 19:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [balena-io/etcher](https://github.com/balena-io/etcher)  
 
 <details><summary>Show More</summary>
 
+`[05/02 19:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [balena-io/etcher](https://github.com/balena-io/etcher)  
 `[05/02 19:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/11 04:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alonbl/gnupg-pkcs11-scd](https://github.com/alonbl/gnupg-pkcs11-scd)  
 `[04/10 15:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
