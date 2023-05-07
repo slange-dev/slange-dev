@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[05/07 14:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)  
 `[05/07 06:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JAremko/alpine-vim](https://github.com/JAremko/alpine-vim)  
 `[05/07 05:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ljishen/MyVim](https://github.com/ljishen/MyVim)  
 `[05/07 05:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vimjas/vim-testbed](https://github.com/Vimjas/vim-testbed)  
@@ -28,10 +29,10 @@
 `[05/06 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts)  
 `[05/06 21:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/vimux](https://github.com/preservim/vimux)  
 `[05/04 23:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)  
-`[05/04 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tklepzig/vim-buffer-navigator](https://github.com/tklepzig/vim-buffer-navigator)  
 
 <details><summary>Show More</summary>
 
+`[05/04 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tklepzig/vim-buffer-navigator](https://github.com/tklepzig/vim-buffer-navigator)  
 `[05/03 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rhysd/committia.vim](https://github.com/rhysd/committia.vim)  
 `[05/03 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 `[05/03 06:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kevinhwang91/fzf-tmux-script](https://github.com/kevinhwang91/fzf-tmux-script)  
