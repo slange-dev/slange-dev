@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[05/08 02:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/08 01:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)  
 `[05/08 00:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)  
 `[05/07 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neomake/neomake](https://github.com/neomake/neomake)  
@@ -28,10 +29,10 @@
 `[05/07 14:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)  
 `[05/07 06:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JAremko/alpine-vim](https://github.com/JAremko/alpine-vim)  
 `[05/07 05:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ljishen/MyVim](https://github.com/ljishen/MyVim)  
-`[05/07 05:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vimjas/vim-testbed](https://github.com/Vimjas/vim-testbed)  
 
 <details><summary>Show More</summary>
 
+`[05/07 05:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vimjas/vim-testbed](https://github.com/Vimjas/vim-testbed)  
 `[05/07 05:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim-test/vim-test](https://github.com/vim-test/vim-test)  
 `[05/07 04:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SirVer/ultisnips](https://github.com/SirVer/ultisnips)  
 `[05/07 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [en-wl/wordlist](https://github.com/en-wl/wordlist)  
