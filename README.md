@@ -221,7 +221,7 @@
 <details>
   <summary><b> 📈 Statistics </b></summary>
 
-[![Slange-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=slange-dev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=slange-dev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slange-dev&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
@@ -229,7 +229,7 @@
 <details>
   <summary><b> :hourglass_flowing_sand: This week I spent my time on </b></summary>
 
-[![Slange-dev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 ## :handshake: Contributing
