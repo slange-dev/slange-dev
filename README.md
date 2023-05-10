@@ -213,9 +213,6 @@
 `[02/11 00:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts)  
 `[02/11 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coderholic/pyradio](https://github.com/coderholic/pyradio)  
 `[02/11 00:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rupa/z](https://github.com/rupa/z)  
-`[02/09 04:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tympanix/Bankaroo](https://github.com/tympanix/Bankaroo)  
-`[02/09 03:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [prakash181/Mainframe_casestudy](https://github.com/prakash181/Mainframe_casestudy) to [slange-dev/Mainframe-personal-banking](https://github.com/slange-dev/Mainframe-personal-banking)  
-`[02/09 03:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IBM/banking-digitalization-using-hybrid-cloud-with-mainframes](https://github.com/IBM/banking-digitalization-using-hybrid-cloud-with-mainframes)  
 
 </details>
 <!--END_SECTION:activity-->
