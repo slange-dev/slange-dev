@@ -209,7 +209,6 @@
 `[02/20 06:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)  
 `[02/19 22:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dogtagpki/pki](https://github.com/dogtagpki/pki)  
 `[02/18 03:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bcchenbc/isc-bind9-dyndns-updater](https://github.com/bcchenbc/isc-bind9-dyndns-updater)  
-`[02/14 00:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nicolargo/glances](https://github.com/nicolargo/glances)  
 
 </details>
 <!--END_SECTION:activity-->
