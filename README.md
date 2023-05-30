@@ -19,6 +19,8 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[05/29 23:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/colorschemes](https://github.com/vim/colorschemes)  
+`[05/29 23:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/vim-win32-installer](https://github.com/vim/vim-win32-installer)  
 `[05/29 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/vim](https://github.com/vim/vim)  
 `[05/25 20:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IBM/mainframe-downloads](https://github.com/IBM/mainframe-downloads) to [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[05/25 20:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IBM/IBM-Z-zOS](https://github.com/IBM/IBM-Z-zOS) to [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
@@ -27,11 +29,11 @@
 `[05/08 02:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[05/08 01:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)  
 `[05/08 00:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)  
-`[05/07 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neomake/neomake](https://github.com/neomake/neomake)  
-`[05/07 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)  
 
 <details><summary>Show More</summary>
 
+`[05/07 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neomake/neomake](https://github.com/neomake/neomake)  
+`[05/07 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)  
 `[05/07 22:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)  
 `[05/07 22:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wincent/command-t](https://github.com/wincent/command-t)  
 `[05/07 14:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)  
