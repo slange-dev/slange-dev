@@ -206,8 +206,6 @@
 `[03/05 20:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank)  
 `[03/05 03:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)  
 `[03/04 18:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)  
-`[03/02 01:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `53` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
-`[03/01 18:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager)  
 
 </details>
 <!--END_SECTION:activity-->
