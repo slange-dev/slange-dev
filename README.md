@@ -204,9 +204,6 @@
 `[03/07 05:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync)  
 `[03/07 05:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddworken/hishtory](https://github.com/ddworken/hishtory)  
 `[03/07 01:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client)  
-`[03/05 21:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [statox/FYT.vim](https://github.com/statox/FYT.vim)  
-`[03/05 20:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank)  
-`[03/05 03:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)  
 
 </details>
 <!--END_SECTION:activity-->
