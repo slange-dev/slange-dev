@@ -203,7 +203,6 @@
 `[03/07 06:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dvorka/hstr](https://github.com/dvorka/hstr)  
 `[03/07 05:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync)  
 `[03/07 05:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddworken/hishtory](https://github.com/ddworken/hishtory)  
-`[03/07 01:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client)  
 
 </details>
 <!--END_SECTION:activity-->
