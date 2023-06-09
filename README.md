@@ -195,7 +195,6 @@
 `[03/09 16:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git)  
 `[03/09 16:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [riobard/bash-powerline](https://github.com/riobard/bash-powerline)  
 `[03/09 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)  
-`[03/08 17:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arpagon/history-backup](https://github.com/arpagon/history-backup)  
 
 </details>
 <!--END_SECTION:activity-->
