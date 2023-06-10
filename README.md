@@ -190,11 +190,6 @@
 `[03/10 04:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/Vim](https://github.com/mikeboiko/Vim)  
 `[03/10 04:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/zsh-renew-tmux-env](https://github.com/lljbash/zsh-renew-tmux-env)  
 `[03/10 03:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open)  
-`[03/10 01:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [powerline/fonts](https://github.com/powerline/fonts)  
-`[03/09 22:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scop/bash-completion](https://github.com/scop/bash-completion)  
-`[03/09 16:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git)  
-`[03/09 16:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [riobard/bash-powerline](https://github.com/riobard/bash-powerline)  
-`[03/09 16:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)  
 
 </details>
 <!--END_SECTION:activity-->
