@@ -183,13 +183,6 @@
 `[03/11 04:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duncs/clusterssh](https://github.com/duncs/clusterssh)  
 `[03/11 04:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pschmitt/tmux-ssh-split](https://github.com/pschmitt/tmux-ssh-split)  
 `[03/11 03:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-keyboard-type](https://github.com/jaclu/tmux-keyboard-type)  
-`[03/11 01:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GNOME/vte](https://github.com/GNOME/vte)  
-`[03/11 00:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MunifTanjim/tmux-suspend](https://github.com/MunifTanjim/tmux-suspend)  
-`[03/10 19:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anghootys/tmux-ip-address](https://github.com/anghootys/tmux-ip-address)  
-`[03/10 04:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/vim-sort-folds](https://github.com/mikeboiko/vim-sort-folds)  
-`[03/10 04:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikeboiko/Vim](https://github.com/mikeboiko/Vim)  
-`[03/10 04:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lljbash/zsh-renew-tmux-env](https://github.com/lljbash/zsh-renew-tmux-env)  
-`[03/10 03:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open)  
 
 </details>
 <!--END_SECTION:activity-->
