@@ -178,11 +178,6 @@
 `[03/20 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole)  
 `[03/17 04:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderjeurissen/tmux-process-indicator](https://github.com/alexanderjeurissen/tmux-process-indicator)  
 `[03/17 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderjeurissen/tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock)  
-`[03/11 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [msimerson/ssh-agent](https://github.com/msimerson/ssh-agent)  
-`[03/11 05:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jessevdk/vte](https://github.com/jessevdk/vte)  
-`[03/11 04:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duncs/clusterssh](https://github.com/duncs/clusterssh)  
-`[03/11 04:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pschmitt/tmux-ssh-split](https://github.com/pschmitt/tmux-ssh-split)  
-`[03/11 03:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaclu/tmux-keyboard-type](https://github.com/jaclu/tmux-keyboard-type)  
 
 </details>
 <!--END_SECTION:activity-->
