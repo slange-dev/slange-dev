@@ -19,19 +19,23 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[06/16 01:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
+`[06/16 01:14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [dasta400/mvssplitspl](https://github.com/dasta400/mvssplitspl) to [slange-dev/mvssplitspl](https://github.com/slange-dev/mvssplitspl)  
+`[06/16 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dasta400/mvssplitspl](https://github.com/dasta400/mvssplitspl)  
+`[06/16 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 `[06/05 21:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[06/05 21:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `40` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 `[05/29 23:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/colorschemes](https://github.com/vim/colorschemes)  
 `[05/29 23:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/vim-win32-installer](https://github.com/vim/vim-win32-installer)  
 `[05/29 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/vim](https://github.com/vim/vim)  
 `[05/25 20:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IBM/mainframe-downloads](https://github.com/IBM/mainframe-downloads) to [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
+
+<details><summary>Show More</summary>
+
 `[05/25 20:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IBM/IBM-Z-zOS](https://github.com/IBM/IBM-Z-zOS) to [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 `[05/08 21:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim)  
 `[05/08 20:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/tagbar](https://github.com/preservim/tagbar)  
 `[05/08 02:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-
-<details><summary>Show More</summary>
-
 `[05/08 01:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)  
 `[05/08 00:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)  
 `[05/07 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neomake/neomake](https://github.com/neomake/neomake)  
