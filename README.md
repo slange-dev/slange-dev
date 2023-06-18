@@ -181,8 +181,6 @@
 `[03/23 19:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)  
 `[03/23 04:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-bash-completion](https://github.com/imomaliev/tmux-bash-completion)  
 `[03/20 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole)  
-`[03/17 04:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderjeurissen/tmux-process-indicator](https://github.com/alexanderjeurissen/tmux-process-indicator)  
-`[03/17 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexanderjeurissen/tmux-world-clock](https://github.com/alexanderjeurissen/tmux-world-clock)  
 
 </details>
 <!--END_SECTION:activity-->
