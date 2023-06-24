@@ -185,7 +185,6 @@
 `[03/24 00:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux-fzf-maccy](https://github.com/junegunn/tmux-fzf-maccy)  
 `[03/24 00:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url)  
 `[03/23 19:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)  
-`[03/23 04:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [imomaliev/tmux-bash-completion](https://github.com/imomaliev/tmux-bash-completion)  
 
 </details>
 <!--END_SECTION:activity-->
