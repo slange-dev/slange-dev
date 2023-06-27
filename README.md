@@ -152,9 +152,6 @@
 `[03/28 21:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fcsonline/tmux-fingers](https://github.com/fcsonline/tmux-fingers)  
 `[03/28 21:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs)  
 `[03/28 21:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
-`[03/27 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paradigmpost/firewall-helpers](https://github.com/paradigmpost/firewall-helpers)  
-`[03/27 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aatlasis/firewalld_log_parser](https://github.com/aatlasis/firewalld_log_parser)  
-`[03/27 00:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whilcayangyang/firewalld-script](https://github.com/whilcayangyang/firewalld-script)  
 
 </details>
 <!--END_SECTION:activity-->
