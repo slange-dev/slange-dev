@@ -86,9 +86,6 @@
 `[04/03 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin)  
 `[04/02 23:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password)  
 `[04/02 22:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [horde/webmail](https://github.com/horde/webmail)  
-`[04/01 20:14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [egberts/tls-ca-manage](https://github.com/egberts/tls-ca-manage) to [slange-dev/tls-ca-manage](https://github.com/slange-dev/tls-ca-manage)  
-`[04/01 19:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [egberts/tls-ca-manage](https://github.com/egberts/tls-ca-manage)  
-`[04/01 03:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 
 </details>
 <!--END_SECTION:activity-->
