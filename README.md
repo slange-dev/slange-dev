@@ -19,6 +19,9 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[07/03 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [slange-dev/zlinux-installer](https://github.com/slange-dev/zlinux-installer)  
+`[07/03 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
+`[07/03 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[07/02 17:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server)  
 `[07/02 17:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)  
 `[06/19 17:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
@@ -26,12 +29,12 @@
 `[06/18 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [elizase405/alx-system_engineering-devops](https://github.com/elizase405/alx-system_engineering-devops)  
 `[06/18 22:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux.sh](https://github.com/junegunn/tmux.sh)  
 `[06/18 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-journal](https://github.com/junegunn/vim-journal)  
-`[06/18 22:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard)  
-`[06/16 21:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/algol68c](https://github.com/moshix/algol68c)  
-`[06/16 01:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 
 <details><summary>Show More</summary>
 
+`[06/18 22:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard)  
+`[06/16 21:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/algol68c](https://github.com/moshix/algol68c)  
+`[06/16 01:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[06/16 01:14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [dasta400/mvssplitspl](https://github.com/dasta400/mvssplitspl) to [slange-dev/mvssplitspl](https://github.com/slange-dev/mvssplitspl)  
 `[06/16 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dasta400/mvssplitspl](https://github.com/dasta400/mvssplitspl)  
 `[06/16 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
