@@ -85,9 +85,6 @@
 `[04/06 21:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dovecot/tools](https://github.com/dovecot/tools)  
 `[04/04 20:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lirantal/daloradius](https://github.com/lirantal/daloradius)  
 `[04/03 14:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam)  
-`[04/03 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin)  
-`[04/02 23:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password)  
-`[04/02 22:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [horde/webmail](https://github.com/horde/webmail)  
 
 </details>
 <!--END_SECTION:activity-->
