@@ -86,7 +86,6 @@
 `[04/06 23:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openxpki/openxpki](https://github.com/openxpki/openxpki)  
 `[04/06 23:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SKS-Keyserver/sks-keyserver](https://github.com/SKS-Keyserver/sks-keyserver)  
 `[04/06 21:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dovecot/tools](https://github.com/dovecot/tools)  
-`[04/04 20:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lirantal/daloradius](https://github.com/lirantal/daloradius)  
 
 </details>
 <!--END_SECTION:activity-->
