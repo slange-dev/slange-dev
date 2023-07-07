@@ -83,9 +83,6 @@
 `[04/08 00:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BladeFireLight/PKITools](https://github.com/BladeFireLight/PKITools)  
 `[04/08 00:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikegioia/pki](https://github.com/mikegioia/pki)  
 `[04/07 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxm0nk3ys/ca-script](https://github.com/linuxm0nk3ys/ca-script)  
-`[04/06 23:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openxpki/openxpki](https://github.com/openxpki/openxpki)  
-`[04/06 23:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SKS-Keyserver/sks-keyserver](https://github.com/SKS-Keyserver/sks-keyserver)  
-`[04/06 21:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dovecot/tools](https://github.com/dovecot/tools)  
 
 </details>
 <!--END_SECTION:activity-->
