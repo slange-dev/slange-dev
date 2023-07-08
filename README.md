@@ -78,11 +78,6 @@
 `[04/11 04:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alonbl/gnupg-pkcs11-scd](https://github.com/alonbl/gnupg-pkcs11-scd)  
 `[04/10 15:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/09 01:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sebikolon/PKI-X509](https://github.com/sebikolon/PKI-X509)  
-`[04/08 00:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SUBnet192/PKI](https://github.com/SUBnet192/PKI)  
-`[04/08 00:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hakwerk/labca](https://github.com/hakwerk/labca)  
-`[04/08 00:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BladeFireLight/PKITools](https://github.com/BladeFireLight/PKITools)  
-`[04/08 00:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mikegioia/pki](https://github.com/mikegioia/pki)  
-`[04/07 14:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxm0nk3ys/ca-script](https://github.com/linuxm0nk3ys/ca-script)  
 
 </details>
 <!--END_SECTION:activity-->
