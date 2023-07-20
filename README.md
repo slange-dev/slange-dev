@@ -19,6 +19,7 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[07/20 19:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [timtyrrell/dotfiles-chezmoi](https://github.com/timtyrrell/dotfiles-chezmoi)  
 `[07/20 18:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) to [slange-dev/tpm](https://github.com/slange-dev/tpm)  
 `[07/20 17:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/tmux-yank](https://github.com/slange-dev/tmux-yank)  
 `[07/03 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [slange-dev/zlinux-installer](https://github.com/slange-dev/zlinux-installer)  
@@ -28,10 +29,10 @@
 `[07/02 17:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)  
 `[06/19 17:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[06/18 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wrljet/simh](https://github.com/wrljet/simh)  
-`[06/18 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [elizase405/alx-system_engineering-devops](https://github.com/elizase405/alx-system_engineering-devops)  
 
 <details><summary>Show More</summary>
 
+`[06/18 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [elizase405/alx-system_engineering-devops](https://github.com/elizase405/alx-system_engineering-devops)  
 `[06/18 22:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux.sh](https://github.com/junegunn/tmux.sh)  
 `[06/18 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-journal](https://github.com/junegunn/vim-journal)  
 `[06/18 22:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard)  
