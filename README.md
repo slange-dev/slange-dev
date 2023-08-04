@@ -71,7 +71,6 @@
 `[05/04 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tklepzig/vim-buffer-navigator](https://github.com/tklepzig/vim-buffer-navigator)  
 `[05/03 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rhysd/committia.vim](https://github.com/rhysd/committia.vim)  
 `[05/03 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
-`[05/03 06:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kevinhwang91/fzf-tmux-script](https://github.com/kevinhwang91/fzf-tmux-script)  
 
 </details>
 <!--END_SECTION:activity-->
