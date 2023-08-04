@@ -69,8 +69,6 @@
 `[05/06 21:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/vimux](https://github.com/preservim/vimux)  
 `[05/04 23:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)  
 `[05/04 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tklepzig/vim-buffer-navigator](https://github.com/tklepzig/vim-buffer-navigator)  
-`[05/03 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rhysd/committia.vim](https://github.com/rhysd/committia.vim)  
-`[05/03 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [slange-dev/tmux-config-testings](https://github.com/slange-dev/tmux-config-testings)  
 
 </details>
 <!--END_SECTION:activity-->
