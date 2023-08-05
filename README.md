@@ -67,7 +67,6 @@
 `[05/07 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [en-wl/wordlist](https://github.com/en-wl/wordlist)  
 `[05/06 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts)  
 `[05/06 21:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/vimux](https://github.com/preservim/vimux)  
-`[05/04 23:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mengelbrecht/lightline-bufferline](https://github.com/mengelbrecht/lightline-bufferline)  
 
 </details>
 <!--END_SECTION:activity-->
