@@ -19,6 +19,21 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[08/06 14:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ThDeleris/z-OS-LPARDesign-from-AM](https://github.com/ThDeleris/z-OS-LPARDesign-from-AM)  
+`[08/06 14:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [davvid322/COBOL_on_virtual_mainframe_example](https://github.com/davvid322/COBOL_on_virtual_mainframe_example)  
+`[08/06 14:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nicoeinsidler/ispf-editor-cheatsheet](https://github.com/nicoeinsidler/ispf-editor-cheatsheet)  
+`[08/06 14:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FOGSEC/IBM-Z-zOS](https://github.com/FOGSEC/IBM-Z-zOS)  
+`[08/06 14:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pak-center/ncitizen](https://github.com/pak-center/ncitizen)  
+`[08/06 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nickosh/mfnp](https://github.com/nickosh/mfnp)  
+`[08/06 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tr3x85/Mainframe_hacking](https://github.com/tr3x85/Mainframe_hacking)  
+`[08/06 13:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mcicolella/awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)  
+`[08/06 13:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rbanffy/3270font](https://github.com/rbanffy/3270font)  
+`[08/06 13:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/cobol-control-flow](https://github.com/BroadcomMFD/cobol-control-flow)  
+
+<details><summary>Show More</summary>
+
+`[08/06 13:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rbanffy/vm370](https://github.com/rbanffy/vm370)  
+`[08/06 13:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abend0c1/da](https://github.com/abend0c1/da)  
 `[08/06 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lnlyssg/IRRXUTIL](https://github.com/lnlyssg/IRRXUTIL)  
 `[08/06 12:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vadimshchukin/w3270](https://github.com/vadimshchukin/w3270)  
 `[08/05 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
@@ -29,9 +44,6 @@
 `[07/03 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [slange-dev/zlinux-installer](https://github.com/slange-dev/zlinux-installer)  
 `[07/03 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 `[07/03 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
-
-<details><summary>Show More</summary>
-
 `[07/02 17:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server)  
 `[07/02 17:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)  
 `[06/19 17:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
