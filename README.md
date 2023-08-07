@@ -80,8 +80,6 @@
 `[05/07 05:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim-test/vim-test](https://github.com/vim-test/vim-test)  
 `[05/07 04:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SirVer/ultisnips](https://github.com/SirVer/ultisnips)  
 `[05/07 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [en-wl/wordlist](https://github.com/en-wl/wordlist)  
-`[05/06 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts)  
-`[05/06 21:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/vimux](https://github.com/preservim/vimux)  
 
 </details>
 <!--END_SECTION:activity-->
