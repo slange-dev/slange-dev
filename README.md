@@ -67,12 +67,6 @@
 `[05/08 21:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim)  
 `[05/08 20:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [preservim/tagbar](https://github.com/preservim/tagbar)  
 `[05/08 02:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
-`[05/08 01:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)  
-`[05/08 00:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)  
-`[05/07 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neomake/neomake](https://github.com/neomake/neomake)  
-`[05/07 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)  
-`[05/07 22:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)  
-`[05/07 22:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wincent/command-t](https://github.com/wincent/command-t)  
 
 </details>
 <!--END_SECTION:activity-->
