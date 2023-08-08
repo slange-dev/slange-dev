@@ -73,13 +73,6 @@
 `[05/07 22:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck)  
 `[05/07 22:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)  
 `[05/07 22:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wincent/command-t](https://github.com/wincent/command-t)  
-`[05/07 14:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)  
-`[05/07 06:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JAremko/alpine-vim](https://github.com/JAremko/alpine-vim)  
-`[05/07 05:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ljishen/MyVim](https://github.com/ljishen/MyVim)  
-`[05/07 05:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vimjas/vim-testbed](https://github.com/Vimjas/vim-testbed)  
-`[05/07 05:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim-test/vim-test](https://github.com/vim-test/vim-test)  
-`[05/07 04:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SirVer/ultisnips](https://github.com/SirVer/ultisnips)  
-`[05/07 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [en-wl/wordlist](https://github.com/en-wl/wordlist)  
 
 </details>
 <!--END_SECTION:activity-->
