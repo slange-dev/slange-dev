@@ -63,8 +63,6 @@
 `[05/29 23:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/colorschemes](https://github.com/vim/colorschemes)  
 `[05/29 23:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/vim-win32-installer](https://github.com/vim/vim-win32-installer)  
 `[05/29 23:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vim/vim](https://github.com/vim/vim)  
-`[05/25 20:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IBM/mainframe-downloads](https://github.com/IBM/mainframe-downloads) to [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
-`[05/25 20:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [IBM/IBM-Z-zOS](https://github.com/IBM/IBM-Z-zOS) to [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 
 </details>
 <!--END_SECTION:activity-->
