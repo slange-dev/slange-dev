@@ -58,8 +58,6 @@
 `[06/16 01:14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [dasta400/mvssplitspl](https://github.com/dasta400/mvssplitspl) to [slange-dev/mvssplitspl](https://github.com/slange-dev/mvssplitspl)  
 `[06/16 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dasta400/mvssplitspl](https://github.com/dasta400/mvssplitspl)  
 `[06/16 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
-`[06/05 21:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
-`[06/05 21:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `40` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 
 </details>
 <!--END_SECTION:activity-->
