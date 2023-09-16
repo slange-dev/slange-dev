@@ -54,10 +54,6 @@
 `[06/18 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-journal](https://github.com/junegunn/vim-journal)  
 `[06/18 22:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard)  
 `[06/16 21:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/algol68c](https://github.com/moshix/algol68c)  
-`[06/16 01:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
-`[06/16 01:14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [dasta400/mvssplitspl](https://github.com/dasta400/mvssplitspl) to [slange-dev/mvssplitspl](https://github.com/slange-dev/mvssplitspl)  
-`[06/16 01:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dasta400/mvssplitspl](https://github.com/dasta400/mvssplitspl)  
-`[06/16 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 
 </details>
 <!--END_SECTION:activity-->
