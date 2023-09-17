@@ -53,7 +53,6 @@
 `[06/18 22:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/tmux.sh](https://github.com/junegunn/tmux.sh)  
 `[06/18 22:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-journal](https://github.com/junegunn/vim-journal)  
 `[06/18 22:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [junegunn/vim-github-dashboard](https://github.com/junegunn/vim-github-dashboard)  
-`[06/16 21:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/algol68c](https://github.com/moshix/algol68c)  
 
 </details>
 <!--END_SECTION:activity-->
