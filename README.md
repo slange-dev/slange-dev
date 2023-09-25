@@ -19,6 +19,8 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[09/25 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
+`[09/25 18:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `27` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[08/31 18:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 `[08/06 14:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ThDeleris/z-OS-LPARDesign-from-AM](https://github.com/ThDeleris/z-OS-LPARDesign-from-AM)  
 `[08/06 14:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [davvid322/COBOL_on_virtual_mainframe_example](https://github.com/davvid322/COBOL_on_virtual_mainframe_example)  
@@ -27,11 +29,11 @@
 `[08/06 14:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pak-center/ncitizen](https://github.com/pak-center/ncitizen)  
 `[08/06 13:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nickosh/mfnp](https://github.com/nickosh/mfnp)  
 `[08/06 13:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tr3x85/Mainframe_hacking](https://github.com/tr3x85/Mainframe_hacking)  
-`[08/06 13:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mcicolella/awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)  
-`[08/06 13:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rbanffy/3270font](https://github.com/rbanffy/3270font)  
 
 <details><summary>Show More</summary>
 
+`[08/06 13:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mcicolella/awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)  
+`[08/06 13:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rbanffy/3270font](https://github.com/rbanffy/3270font)  
 `[08/06 13:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BroadcomMFD/cobol-control-flow](https://github.com/BroadcomMFD/cobol-control-flow)  
 `[08/06 13:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rbanffy/vm370](https://github.com/rbanffy/vm370)  
 `[08/06 13:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abend0c1/da](https://github.com/abend0c1/da)  
