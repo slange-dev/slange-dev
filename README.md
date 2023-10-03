@@ -47,8 +47,6 @@
 `[07/03 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [slange-dev/zlinux-installer](https://github.com/slange-dev/zlinux-installer)  
 `[07/03 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 `[07/03 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
-`[07/02 17:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server)  
-`[07/02 17:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)  
 
 </details>
 <!--END_SECTION:activity-->
