@@ -44,8 +44,6 @@
 `[08/06 12:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vadimshchukin/w3270](https://github.com/vadimshchukin/w3270)  
 `[08/05 15:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[07/31 20:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [berghetti/netproc](https://github.com/berghetti/netproc)  
-`[07/20 19:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [timtyrrell/dotfiles-chezmoi](https://github.com/timtyrrell/dotfiles-chezmoi)  
-`[07/20 18:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) to [slange-dev/tpm](https://github.com/slange-dev/tpm)  
 
 </details>
 <!--END_SECTION:activity-->
