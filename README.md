@@ -25,7 +25,6 @@
 `[12/12 19:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [slange-dev/Mainframe-Bank](https://github.com/slange-dev/Mainframe-Bank)  
 `[10/12 19:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
 `[10/12 19:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
-`[09/25 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/Netbox-ipscanner](https://github.com/slange-dev/Netbox-ipscanner)  
 
 </details>
 <!--END_SECTION:activity-->
