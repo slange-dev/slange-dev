@@ -19,11 +19,19 @@
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[02/21 00:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [pak-center/operquiz](https://github.com/pak-center/operquiz) to [slange-dev/operquiz](https://github.com/slange-dev/operquiz)  
+`[02/21 00:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pak-center/operquiz](https://github.com/pak-center/operquiz)  
+`[02/20 23:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tobiaslinke/hash_table_zos_asm](https://github.com/tobiaslinke/hash_table_zos_asm)  
+`[02/20 23:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GroupTheorist12/mvs_submit_job](https://github.com/GroupTheorist12/mvs_submit_job)  
+`[02/20 23:48]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [billrain/MainframeJCL](https://github.com/billrain/MainframeJCL) to [slange-dev/MainframeJCL](https://github.com/slange-dev/MainframeJCL)  
 `[02/20 23:31]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ozgurhepsag/Basic-z-OS-Utilities-and-Practices](https://github.com/ozgurhepsag/Basic-z-OS-Utilities-and-Practices) to [slange-dev/Basic-z-OS-Utilities-and-Practices](https://github.com/slange-dev/Basic-z-OS-Utilities-and-Practices)  
 `[12/26 20:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[12/12 19:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/zlinux-installer](https://github.com/slange-dev/zlinux-installer)  
 `[12/12 19:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `55` commits in [slange-dev/mainframe-downloads](https://github.com/slange-dev/mainframe-downloads)  
 `[12/12 19:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `38` commits in [slange-dev/IBM-Z-zOS](https://github.com/slange-dev/IBM-Z-zOS)  
+
+<details><summary>Show More</summary>
+
 `[12/12 19:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/Mainframe-Bank](https://github.com/slange-dev/Mainframe-Bank)  
 
 </details>
