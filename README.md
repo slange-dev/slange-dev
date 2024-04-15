@@ -4,9 +4,9 @@
   <summary><b> :mag: About me </b></summary>
 I am a Windows/Linux administrator </br></br>
 i like to code in:</br>
-PHP/MySQL(i), Shell, Bash, Powershell, Python, Ansible,Dockerfiles, kickstart,</br> COBOL, and more...
+PHP/MySQL(i), Shell, Bash, Powershell, Python, Ansible, Dockerfiles, kickstart,</br> COBOL, and more...
 </br></br>
-i running Mainframe systems (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) for developments @home </br>
+i running Mainframe systems (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) for fun and coding @home </br>
 </details>
 
 <details>
