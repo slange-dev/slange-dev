@@ -2,19 +2,33 @@
 
 <details>
   <summary><b> :mag: About me </b></summary>
-I am a Windows/Linux administrator </br></br>
-i like to code in:</br>
-PHP/MySQL(i), Shell, Bash, Powershell, Python, Ansible, Dockerfiles, kickstart,</br> Jcl, COBOL, and more...
+Windows and Linux administrator </br></br>
+
+Code for fun and coffee in:</br>
+PHP/MySQL(i), Shell, Bash, Powershell, Python, Ansible, Dockerfiles, kickstart,</br> Jcl, Cobol, and more...
 </br>
 </details>
 
 <details>
   <summary><b> :desktop_computer: Home Lab</b></summary>
-I run Mainframe systems (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) for fun and coding @home
+1x OpnSense firewall
+1x Samba domain controller
+1x Bind9 dns server
+2x PiHole server
+3x NTP server
+1x Radius server
+1x PXE server
+1x Squid proxy server
+1x Nextcloud server
+1x Syslog server
+
+2x Mainframe systems (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) for fun and learning coding on it.
 </details>
 
 <details>
-  <summary><b> :books: </b></summary>
+  <summary><b> :books: Projects</b></summary>
+I automate Rocky Linux OS installations with CIS/CCE hardening rules.
+
 </details>
 
 <details>
