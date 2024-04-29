@@ -35,19 +35,24 @@ I automate Rocky Linux OS installations with CIS/CCE hardening rules.
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
+`[04/29 13:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/vm-370](https://github.com/adesutherland/vm-370)  
+`[04/29 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/herchosting](https://github.com/adesutherland/herchosting)  
+`[04/29 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/HercControl](https://github.com/adesutherland/HercControl)  
+`[04/29 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/CMS-370-GCCLIB](https://github.com/adesutherland/CMS-370-GCCLIB)  
+`[04/29 13:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/CMS-370-BREXX](https://github.com/adesutherland/CMS-370-BREXX)  
 `[04/27 01:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/27 01:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//slange-dev/slange-dev/pull/9 'update') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/27 01:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9`](https://github.com//slange-dev/slange-dev/pull/9 'update') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/27 01:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1022` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/27 01:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`slange-dev-patch-5`](https://github.com/slange-dev/slange-dev/tree/slange-dev-patch-5) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
+
+<details><summary>Show More</summary>
+
 `[04/27 01:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [traefik/traefik](https://github.com/traefik/traefik)  
 `[04/26 18:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/26 07:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openaiken/rhel-pki-mfa](https://github.com/openaiken/rhel-pki-mfa)  
 `[04/26 07:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomwechsler/KVM-Virtualization-with-Rocky-Linux](https://github.com/tomwechsler/KVM-Virtualization-with-Rocky-Linux)  
 `[04/26 00:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/CREXX](https://github.com/adesutherland/CREXX)  
-
-<details><summary>Show More</summary>
-
 `[04/26 00:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mainframed/xmi](https://github.com/mainframed/xmi)  
 `[04/26 00:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peter-sylvester/xmi](https://github.com/peter-sylvester/xmi)  
 `[04/25 20:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [moshix/kicks](https://github.com/moshix/kicks)  
