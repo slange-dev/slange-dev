@@ -35,8 +35,8 @@ I automate Rocky Linux OS installations with CIS/CCE hardening rules.
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
-`[04/29 13:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/vm-370](https://github.com/adesutherland/vm-370)  
-`[04/29 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/herchosting](https://github.com/adesutherland/herchosting)  
+1. 🎉 Merged PR [#9](https://github.com/slange-dev/slange-dev/pull/9) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)
+2. 💪 Opened PR [#9](https://github.com/slange-dev/slange-dev/pull/9) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)
 `[04/29 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/HercControl](https://github.com/adesutherland/HercControl)  
 `[04/29 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/CMS-370-GCCLIB](https://github.com/adesutherland/CMS-370-GCCLIB)  
 `[04/29 13:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/CMS-370-BREXX](https://github.com/adesutherland/CMS-370-BREXX)  
