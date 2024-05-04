@@ -2,27 +2,17 @@
 
 <details>
   <summary><b> :mag: About me </b></summary>
-Windows and Linux administrator </br></br>
-
-Code for fun and coffee in:</br>
+I work as a Windows and Linux administrator</br>
+and write code in different languages:</br>
 PHP/MySQL(i), Shell, Bash, Powershell, Python, Ansible, Dockerfiles, kickstart,</br> Jcl, Cobol, and more...
 </br>
 </details>
 
 <details>
   <summary><b> :desktop_computer: Home Lab</b></summary>
-- 1x OpnSense firewall</br>
-- 1x Samba domain controller</br>
-- 1x Bind9 dns server</br>
-- 2x PiHole server</br>
-- 3x NTP server</br>
-- 1x Radius server</br>
-- 1x PXE server</br>
-- 1x Squid proxy server</br>
-- 1x Nextcloud server</br>
-- 1x Syslog server</br>
+I have a datacenter @home on bare metal...
 </br>
-I emulate with hercules Mainframe systems (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) for fun and learning coding on it.
+and i emulate with hercules Mainframe systems (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) for fun and learning coding on it.
 </details>
 
 <details>
