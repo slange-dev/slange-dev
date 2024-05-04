@@ -2,8 +2,7 @@
 
 <details>
   <summary><b> :mag: About me </b></summary>
-I work as a Windows and Linux administrator</br>
-and write code in different languages:</br>
+I work as a Windows and Linux administrator and write code in different languages:</br>
 PHP/MySQL(i), Shell, Bash, Powershell, Python, Ansible, Dockerfiles, kickstart,</br> Jcl, Cobol, and more...
 </br>
 </details>
