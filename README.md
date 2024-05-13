@@ -4,17 +4,17 @@
   <summary><b> :mag: About me </b></summary>
 I work as a Windows and Linux administrator and write code in different languages:</br>
 </br>
-- PHP/MySQL(i)
-- Shell
-- Bash
-- Powershell
-- Python
-- Ansible
-- Dockerfiles
-- Kickstart
-- Jcl
-- Cobol
-- and more...
+- PHP/MySQL(i) </br>
+- Shell </br>
+- Bash </br>
+- Powershell </br>
+- Python </br>
+- Ansible </br>
+- Dockerfiles </br>
+- Kickstart </br>
+- Jcl </br>
+- Cobol </br>
+- and more... </br>
 </br>
 </details>
 
