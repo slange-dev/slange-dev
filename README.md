@@ -5,13 +5,12 @@
 I work as a Windows and Linux administrator and write code in different languages:</br>
 </br>
 - PHP/MySQL(i) </br>
-- Shell </br>
-- Bash </br>
+- Shell / Bash </br>
 - Powershell </br>
 - Python </br>
 - Ansible </br>
 - Dockerfiles </br>
-- Kickstart </br>
+- RedHat Kickstart </br>
 - Jcl </br>
 - Cobol </br>
 - and more... </br>
@@ -20,14 +19,23 @@ I work as a Windows and Linux administrator and write code in different language
 
 <details>
   <summary><b> :desktop_computer: Home Lab</b></summary>
-I have a datacenter @home on bare metal...
+I have @home a lab / datacenter / network and </br>
+i operate various server, services and technology @home:</br>
 </br>
-and i emulate with hercules Mainframe systems (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) for fun and learning coding on it.
+- 1x OpnSense Firewall (Vlan routing, DHCP relay, Suricata, Firewall) </br>
+- 2x PiHole DNS server </br>
+- 1x Samba DC server (DC , LDAP, DNS, DHCP, Print, File) </br>
+- 1x Proxy server </br>
+- 1x Radius server </br>
+- 1x PXE server </br>
+- 1x NextCloud server </br>
+- 1x Mainframe systems with hercules (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) </br>
+
 </details>
 
 <details>
-  <summary><b> :books: Projects</b></summary>
-I automate Rocky Linux OS installations with CIS/CCE hardening rules.
+  <summary><b> :books: Projects  i work on </b></summary>
+- Automate and hardening Rocky Linux OS v8/9 installations with CIS/CCE rules </br>
 
 </details>
 
