@@ -43,7 +43,7 @@ i operate various server, services and technology @home:</br>
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/slange-dev/slange-dev/pull/9) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)
+1. ❗ Opened issue [#3](https://github.com/moshix/kicks/issues/3) in [moshix/kicks](https://github.com/moshix/kicks)
 2. 💪 Opened PR [#9](https://github.com/slange-dev/slange-dev/pull/9) in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)
 `[04/29 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/HercControl](https://github.com/adesutherland/HercControl)  
 `[04/29 13:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/CMS-370-GCCLIB](https://github.com/adesutherland/CMS-370-GCCLIB)  
