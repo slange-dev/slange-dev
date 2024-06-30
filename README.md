@@ -43,11 +43,11 @@ i operate various server, services and technology @home:</br>
   <summary><b> :zap: GitHub activity </b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/DieGit0/Bank-Account/pull/1) in [DieGit0/Bank-Account](https://github.com/DieGit0/Bank-Account)
-2. 🗣 Commented on [#3](https://github.com/moshix/kicks/issues/3#issuecomment-2141847083) in [moshix/kicks](https://github.com/moshix/kicks)
-3. 🔒 Closed issue [#3](https://github.com/moshix/kicks/issues/3) in [moshix/kicks](https://github.com/moshix/kicks)
-4. ❗ Opened issue [#3](https://github.com/moshix/kicks/issues/3) in [moshix/kicks](https://github.com/moshix/kicks)
-`[04/29 13:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adesutherland/CMS-370-BREXX](https://github.com/adesutherland/CMS-370-BREXX)  
+1. ❌ Closed PR [#1](https://github.com/DieGit0/Bank-Account/pull/1) in [DieGit0/Bank-Account](https://github.com/DieGit0/Bank-Account)
+2. 💪 Opened PR [#1](https://github.com/DieGit0/Bank-Account/pull/1) in [DieGit0/Bank-Account](https://github.com/DieGit0/Bank-Account)
+3. 🗣 Commented on [#3](https://github.com/moshix/kicks/issues/3#issuecomment-2141847083) in [moshix/kicks](https://github.com/moshix/kicks)
+4. 🔒 Closed issue [#3](https://github.com/moshix/kicks/issues/3) in [moshix/kicks](https://github.com/moshix/kicks)
+5. ❗ Opened issue [#3](https://github.com/moshix/kicks/issues/3) in [moshix/kicks](https://github.com/moshix/kicks)
 `[04/27 01:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/27 01:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//slange-dev/slange-dev/pull/9 'update') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
 `[04/27 01:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9`](https://github.com//slange-dev/slange-dev/pull/9 'update') in [slange-dev/slange-dev](https://github.com/slange-dev/slange-dev)  
