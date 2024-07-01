@@ -36,7 +36,7 @@ i operate various server, services and technology @home:</br>
 <details>
   <summary><b> :books: Projects  i work on </b></summary>
 - Automate and hardening Rocky Linux OS v8/9 installations with CIS/CCE rules </br>
-
+- Making a simple Bank System(Transfer,Deposit,Withdraw) with ATM function in Cobol(No CICS/KICKS)</br>
 </details>
 
 <details>
