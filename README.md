@@ -39,11 +39,14 @@ i operate various server, services and technology @home:</br>
 ### Linux projects
   - Automate and hardening Rocky Linux OS v8/9 installations with CIS/CCE rules </br>
 
-### Mainframe projects
+### MVS-TK4 Mainframe projects
   - Making a simple Bank System (Transfer,Deposit,Withdraw) with ATM functions in Cobol (No CICS/KICKS) </br>
-    #### Kicks projects
-  - Create a login page in Cobol with KICKS and VSAM files </br>
-  - Create a menue page in Cobol with KICKS and VSAM files </br>
+#### Kicks
+  - Create a login in Cobol with KICKS and VSAM files </br>
+  - Create a menue/navigation page in Cobol with KICKS and VSAM files </br>
+  ##### Full configured MVS-TK4
+  - Create a full configured MVS-TK-4 with Kicks (http://www.kicksfortso.com/) </br>
+  - Create a full configured MVS-TK-4 with Dodgecics (https://github.com/mainframed/DOGECICS) </br>
 </details>
 
 <details>
