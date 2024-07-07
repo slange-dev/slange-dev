@@ -42,7 +42,7 @@ i operate various server, services and technology @home:</br>
 ### MVS-TK4 Mainframe projects
 #### Cobol
   - Making a simple Bank System (Login, Menue, Transfer, Deposit, Withdraw, Show balance, Transaction history, User management) </br>
-    with ATM functions in Cobol (No CICS/KICKS) </br>
+    with ATM functions in Cobol (No CICS/KICKS) with VSAM files (No DB2) </br>
 
 #### Kicks
   - Create a login in Cobol with KICKS and VSAM files </br>
