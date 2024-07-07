@@ -34,7 +34,7 @@ i operate various server, services and technology @home:</br>
 </details>
 
 <details>
-  <summary><b> :books: Projects i work on it or is planned </b></summary>
+  <summary><b> :books: Projects </b></summary>
 
 ## Linux projects
   - Automate and hardening Rocky Linux OS v8/9 installations with CIS/CCE rules </br>
