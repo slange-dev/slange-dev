@@ -35,8 +35,15 @@ i operate various server, services and technology @home:</br>
 
 <details>
   <summary><b> :books: Projects  i work on </b></summary>
-- Automate and hardening Rocky Linux OS v8/9 installations with CIS/CCE rules </br>
-- Making a simple Bank System (Transfer,Deposit,Withdraw) with ATM functions in Cobol (No CICS/KICKS) </br>
+
+### Linux projects
+  - Automate and hardening Rocky Linux OS v8/9 installations with CIS/CCE rules </br>
+
+### Mainframe projects
+  - Making a simple Bank System (Transfer,Deposit,Withdraw) with ATM functions in Cobol (No CICS/KICKS) </br>
+    #### Kicks projects
+  - Create a login page in Cobol with KICKS and VSAM files </br>
+  - Create a menue page in Cobol with KICKS and VSAM files </br>
 </details>
 
 <details>
