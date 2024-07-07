@@ -40,7 +40,9 @@ i operate various server, services and technology @home:</br>
   - Automate and hardening Rocky Linux OS v8/9 installations with CIS/CCE rules </br>
 
 ### MVS-TK4 Mainframe projects
-  - Making a simple Bank System (Transfer,Deposit,Withdraw) with ATM functions in Cobol (No CICS/KICKS) </br>
+#### Cobol
+  - Making a simple Bank System (Login, Menue, Transfer, Deposit, Withdraw, Show balance, Transaction history, User management) with ATM functions in Cobol (No CICS/KICKS) </br>
+
 #### Kicks
   - Create a login in Cobol with KICKS and VSAM files </br>
   - Create a menue/navigation page in Cobol with KICKS and VSAM files </br>
