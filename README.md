@@ -22,14 +22,15 @@ I work as a Windows and Linux administrator and write code in different language
 I have @home a lab / datacenter / network and </br>
 i operate various server, services and technology @home:</br>
 </br>
-- 1x OpnSense Firewall (Vlan routing, DHCP relay, Suricata, Firewall) </br>
+- 1x OpnSense Firewall/Router (Vlan routing, DHCP relay, Suricata, Firewall) </br>
 - 2x PiHole DNS server </br>
 - 1x Samba DC server (DC , LDAP, DNS, DHCP, Print, File) </br>
-- 1x Proxy server </br>
+- 1x Squid proxy server </br>
 - 1x Radius server </br>
 - 1x PXE server </br>
 - 1x NextCloud server </br>
-- 1x Mainframe systems with hercules (z/OS v2.1 and OS/VS2 MVS 3.8j Tur(n)key Level 4) </br>
+- 1x W-Lan AP(Freifunk) </br>
+- 2x Mainframe systems with hercules (OS/VS2 MVS 3.8j Tur(n)key Level 4 and z/OS v2.1) </br>
 
 </details>
 
