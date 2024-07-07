@@ -2,7 +2,8 @@
 
 <details>
   <summary><b> :mag: About me </b></summary>
-I work as a Windows and Linux administrator and write code in different languages:</br>
+I work as a Windows and Linux administrator. </br>
+I like to write code in different languages: </br>
 </br>
 - PHP/MySQL(i) </br>
 - Shell / Bash </br>
