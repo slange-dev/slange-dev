@@ -131,7 +131,7 @@ i operate various server, services and technology @home:</br>
 
 [![Top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=slange-dev&langs_count=20&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev&langs_count=20&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slange_dev&langs_count=20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
