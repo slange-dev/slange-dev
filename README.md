@@ -20,7 +20,7 @@ I like to write code in different languages: </br>
 
 <details>
   <summary><b> :desktop_computer: Home Lab</b></summary>
-I live in the HQ datacenter at server room 127.0.0.1...</br>
+I living in the HQ datacenter at server room 127.0.0.1...</br>
 and operate various server, services and technologys from here.</br>
 </br>
 - 1x OpnSense Firewall/Router (Vlan routing, DHCP relay, Suricata, Firewall) </br>
