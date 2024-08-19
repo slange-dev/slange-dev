@@ -31,7 +31,7 @@ and operate various server, services and technologys from here.</br>
 - 1x PXE server </br>
 - 1x NextCloud server </br>
 - 1x W-Lan AP(Freifunk) </br>
-- 2x Mainframe systems with hercules (OS/VS2 MVS 3.8j Tur(n)key Level 4 and z/OS v2.1) </br>
+- 2x Mainframe systems with hercules (OS/VS2 MVS 3.8j Tur(n)key Level 4/5 and z/OS v2.1) </br>
 </details>
 
 <details>
