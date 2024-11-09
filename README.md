@@ -2,7 +2,7 @@
 
 <details>
   <summary><b> :mag: About me </b></summary>
-I work as a Windows and Linux administrator. </br>
+I work as a Windows/Linux administrator and output manager. </br>
 I like to write code in different languages: </br>
 </br>
 - PHP/MySQL(i) </br>
