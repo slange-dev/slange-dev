@@ -52,6 +52,8 @@ and operate various server, services and technologys from here.</br>
   ##### Full configured MVS-TK4
   - Create a full configured MVS-TK-4 with Kicks (http://www.kicksfortso.com/) </br>
   - Create a full configured MVS-TK-4 with Dodgecics (https://github.com/mainframed/DOGECICS) </br>
+  ##### Trading Bot
+  - Making a trading Bot system </br>
 </details>
 
 <details>
