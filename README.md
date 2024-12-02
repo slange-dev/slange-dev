@@ -2,19 +2,10 @@
 
 <details>
   <summary><b> :mag: About me </b></summary>
-I work as a Windows/Linux administrator and output manager. </br>
-I like to write code in different languages: </br>
-</br>
-- PHP/MySQL(i) </br>
-- Shell / Bash </br>
-- Powershell </br>
-- Python </br>
-- Ansible </br>
-- Dockerfiles </br>
-- RedHat Kickstart </br>
-- Jcl </br>
-- Cobol </br>
-- and more... </br>
+I work as a Windows/Linux administrator.
+I worked as a Teamleader/Output manager in the section Mainframe & Output management for a Insurance company. </br>
+I like z/OS Mainframe and old Mainframe systems. </br>
+I like to write code in different languages. </br>
 </br>
 </details>
 
