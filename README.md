@@ -2,7 +2,7 @@
 
 <details>
   <summary><b> :mag: About me </b></summary>
-I work as a Windows/Linux administrator.
+I work as a Windows/Linux administrator.  </br>
 I worked as a Teamleader/Output manager in the section Mainframe & Output management for a Insurance company. </br>
 I like z/OS Mainframe and old Mainframe systems. </br>
 I like to write code in different languages. </br>
