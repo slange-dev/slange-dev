@@ -111,6 +111,12 @@ You can also contribute with
 
 * Github: [@slange-dev](https://github.com/slange-dev)
 
+## Odysee profiles
+
+* Mainframe: [@Mainframe](https://odysee.com/@Mainframe:3)
+
+* DevOps: [@DevOps](https://odysee.com/@DevOps:0)
+
 ## :rocket: Created
 
 Created in 2021 by [slange-dev](https://github.com/slange-dev)
