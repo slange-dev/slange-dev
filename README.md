@@ -110,7 +110,6 @@ You can also contribute with
 ## :bust_in_silhouette: Author
 
 * Github: [@slange-dev](https://github.com/slange-dev)
-* GitLab: [@slange-dev](https://gitlab.com/slange-dev)
 
 ## :rocket: Created
 
