@@ -15,8 +15,8 @@ I living in the HQ datacenter at server room 127.0.0.1...</br>
 and operate various server, services and technologys from here.</br>
 </br>
 - 1x OpnSense as Firewall/Router (Vlan routing, DHCP relay, Suricata, Firewall) </br>
-- 2x Samba PDC/BDC server (PDC/BDC, LDAPS, primary ROOT DNS, DHCP, Print, File) </br>
-- 2x PiHole HA server as secondary DNS server </br>
+- 2x Samba PDC/BDC server (PDC/BDC, LDAPS, primary HA DNS, DHCP, Print, File) </br>
+- 2x PiHole server as secondary HA DNS server and HA Ads block server </br>
 - 1x Squid server as proxy server </br>
 - 1x Radius server </br>
 - 1x PXE server for automatic OS installations </br>
