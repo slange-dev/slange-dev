@@ -63,7 +63,7 @@ and operate various server, services and technologys from here.</br>
   <summary><b> :hourglass_flowing_sand: This week I spent my time on </b></summary>
 </details>
 
-## :handshake: Contributing
+## :computer: Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -75,7 +75,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ![image](https://github.com/slange-dev/slange-dev/blob/master/github_flow.png?raw=true)
 
-## HowTo learn Git & GitHub
+## :books: HowTo learn Git & GitHub
 
 #### Git Documentation
 * Git - Documentation: [Git - Documentation](https://git-scm.com/doc)
@@ -95,9 +95,10 @@ Contributions are what make the open source community such an amazing place to b
 * Getting Git Right - Tutorials on Atlassian: [Getting Git Right](https://www.atlassian.com/git)
 * List of useful resources & references: [List of useful resources & references](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
 
-## :yellow_heart: Support the projects
+## :hearts: Support the projects
 
-If this project was useful to you in some form, I would be glad to have your support.  It will help to keep the project alive and to have more time to work on Open Source.
+If this project was useful to you in some form, I would be glad to have your support. </br>
+It will help to keep the project alive and to have more time to work on Open Source.
 
 The sinplest form of support is to give a :star: to this repo.
 
@@ -107,17 +108,17 @@ You can also contribute with
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >
 </a>
 
-## :bust_in_silhouette: Author
+## :pencil2: Author
 
 * Github: [@slange-dev](https://github.com/slange-dev)
 
-## Odysee profiles
+## :link: Odysee
 
 * Mainframe: [@Mainframe](https://odysee.com/@Mainframe:3)
 
 * DevOps: [@DevOps](https://odysee.com/@DevOps:0)
 
-## :rocket: Created
+## :copyright: Created
 
 Created in 2021 by [slange-dev](https://github.com/slange-dev)
 
