@@ -84,17 +84,31 @@ Any contributions you make are **greatly appreciated**.
 #### GitHub Flow
 * GitHub Flow: [GitHub Flow](https://guides.github.com/introduction/flow/) (Understanding the GitHubFlow)
 
-#### Git & Branching
+#### Git & Branching Learning Apps
 * Learn Git Branching: [Learn Git Branching](https://learngitbranching.js.org/) (Learn git branching with challenges in a browser)
 * Visualizing Git: [Visualizing Git](https://git-school.github.io/visualizing-git/) (Learn git with challenges in a browser)
 * Git-It: [Git-It](https://github.com/jlord/git-it-electron) (Desktop App for learning Git and GitHub)
 
 #### Courses & Videos
-* Codecademy course: [Codecademy course](https://www.codecademy.com/learn/learn-git)
-- FreeCodeCamp Tutorial Git & GitHub: [Git & GitHub](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
-* How to Use Git and GitHub - FREE course on Udacity: [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775#)
-* Getting Git Right - Tutorials on Atlassian: [Getting Git Right](https://www.atlassian.com/git)
-* List of useful resources & references: [List of useful resources & references](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
+Codecademy:
+* [Git Introduction](https://www.codecademy.com/learn/learn-git-introduction)
+- [GitHub Introduction](https://www.codecademy.com/learn/learn-github-introduction)
+- [Git & GitHub](https://www.codecademy.com/learn/learn-git)
+- [Git Branching and Collaboration](https://www.codecademy.com/learn/learn-git-branching-and-collaboration)
+- [GitHub Best Practices](https://www.codecademy.com/learn/learn-github-best-practices)
+- [Introduction to Open Source](https://www.codecademy.com/learn/introduction-to-open-source) (Learn how to contribute to, create, and maintain open source projects)
+
+FreeCodeCamp:
+- [Git & GitHub](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+
+Udacity:
+- How to Use Git and GitHub - FREE course on Udacity: [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775#)
+
+Atlassian:
+- Getting Git Right - Tutorials on Atlassian: [Getting Git Right](https://www.atlassian.com/git)
+
+Useful resources & references:
+- [List of useful resources & references](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
 
 ## :hearts: Support the projects
 
