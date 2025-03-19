@@ -11,8 +11,8 @@ I like to write code in different languages. </br>
 
 <details>
   <summary><b> :desktop_computer: Home Lab</b></summary>
-I living in the HQ datacenter at server room 127.0.0.1...</br>
-and operate various server, services and technologys from here.</br>
+I living in the HQ datacenter at server room 127.0.0.1... </br>
+and operate various server, services and technologys from here. </br>
 </br>
 - 1x OpnSense as Firewall/Router (Vlan routing, DHCP relay, Suricata, Firewall) </br>
 - 2x Samba PDC/BDC server (PDC/BDC, LDAPS, primary HA DNS, DHCP, Print, File, Central syslog) </br>
@@ -65,7 +65,8 @@ and operate various server, services and technologys from here.</br>
 
 ## :computer: Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. </br>
+Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project (`git clone https://github.com/slange-dev/....git` OR `git clone git://github.com/slange-dev/...git`)
 2. Create your Feature or Bugfix Branch (`git checkout -b feature/AmazingFeatureName` OR `bugfix/AmazingBugFixName`)
