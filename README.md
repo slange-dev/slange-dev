@@ -3,17 +3,14 @@
 <details>
   <summary><b> :mag: About me </b></summary>
 At the moment i work as a Windows and Linux administrator.  </br>
-  
 I worked as a Teamleader and Output manager in the section "Mainframe & Output management" for a big insurance company in germany. </br>
-
 I like z/OS Mainframes and old Mainframe systems. </br>
-
 I like to write code in different languages. </br>
 </br>
 </details>
 
 <details>
-  <summary><b> :desktop_computer: Home Lab</b></summary>
+  <summary><b> :desktop_computer: My Home Lab</b></summary>
 I living in the HQ datacenter at server room 127.0.0.1... </br>
 and operate various server, services and technologys from here. </br>
 </br>
