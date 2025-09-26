@@ -14,9 +14,9 @@ I like to write code in many different languages. </br>
 I living in the HQ datacenter at server room 127.0.0.1... </br>
 and operate various server, services and technologys from here. </br>
 </br>
-- 1x Zyxel modem (Uplink)
+- 1x Zyxel modem (Uplink) </br>
 - 1x OpnSense as Firewall/Router (Vlan routing, DHCP relay, Suricata, Firewall) </br>
-- 1x Cisco SG-200 26 port switch (Vlan switching)
+- 1x Cisco SG-200 26 port switch (Vlan switching) </br>
 - 2x Samba as PDC/BDC server (PDC/BDC, LDAPS, Bind9 ROOT DNS, DHCP, Print, File, Central syslog) </br>
 - 2x PiHole server as secondary HA DNS server and HA Ads block server </br>
 - 1x Squid server as cache proxy server </br>
