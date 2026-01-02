@@ -46,6 +46,8 @@ and operate various server, services and technologys from here. </br>
 
 <details>
   <summary><b> :hourglass_flowing_sand: This week I spent my time on </b></summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 ## :computer: Contributing
