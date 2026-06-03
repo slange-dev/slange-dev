@@ -5,7 +5,8 @@
 At the moment i work as a Windows and Linux administrator.  </br>
 I worked as a Teamleader and Output manager in the section "Mainframe & Output management" for a big insurance company in germany. </br>
 I like z/OS and old Mainframe systems. </br>
-I like to write code in many different languages. </br>
+I like to write code in many different languages. 
+</br>
 </br>
 </details>
 
